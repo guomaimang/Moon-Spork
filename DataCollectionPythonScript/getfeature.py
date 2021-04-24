@@ -1,3 +1,8 @@
+"""
+Written by Yunfei LIU at April 24, 2021
+
+It is used to convert necessary features from txt file and tranform it to json file
+"""
 import os
 import json
 flist=[flist for flist in os.listdir("../Data/converted/")]

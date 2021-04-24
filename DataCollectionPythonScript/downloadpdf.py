@@ -1,3 +1,8 @@
+"""
+Written by Yunfei LIU at April 20, 2021
+
+It is used to get all pdf files at one webpage
+"""
 import os
 import requests
 from urllib.parse import urljoin

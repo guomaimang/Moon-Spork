@@ -1,3 +1,8 @@
+"""
+Written by Yunfei LIU at April 24, 2021
+
+It is used to convert pdf files to text
+"""
 import pdfplumber,os
 files=os.listdir("../Data/pdfs/")
 for item in files:
