@@ -1,0 +1,120 @@
+Subject Description Form 
+ 
+Subject Code  COMP4122 
+Subject Title  Game Design and Development 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP2011 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide students with a broad view of the nature of computer games and digital 
+entertainment; 
+  equip  students  with  the knowledge  and skills  in  the analysis, design  and 
+development of interactive computer games and mixed reality applications; 
+  allow students to explore and use the different algorithms, techniques and tools 
+in rendering and producing animations in 3D computer games; 
+  equip students with knowledge in game AI, multi-user games and networking 
+games; 
+  guide students to study and evaluate the social impact of computer game. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand the history, evolution and recent development in computer games; 
+(b)  understand the overall hardware and software architecture of a typical 3D 
+computer game; 
+(c)  familiarize with the different practical analysis, design and implementation 
+techniques that apply to the development of computer games across different 
+platforms; 
+(d)  learn game design, testing, and playability principles; 
+(e)  learn the computing game programming aspects, such as event loops, execution 
+threads, rendering, animation, terrain and background representation, polygonal 
+models, texturing, collision detection and physically-based modeling, game AI, 
+and multi-user games and networking; and 
+(f)  understand the social impact of computer games. 
+Attributes for all-roundedness 
+(g)  work in a team to build a 3D computer game; 
+Dec 2018 (h)  communicate effectively and present, both in terms of an oral presentation and 
+a written report, the result of developing a 3D computer game; and 
+(i)  appreciate the broader perspectives of digital entertainment, and social impact 
+of computer games. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction and game history. Early origins of video games and computer 
+Syllabus  game design and programming; arcade games; some popular home game 
+systems; game design methodology and principles; current development in 
+computer game industry. 
+2.  Game software, hardware and platforms. Different game platforms: Web-
+based, console-based (e.g., play station, X-box, Switch), PC-based, handheld 
+games, mobile and wireless game platforms. 
+3.  Game  design  principles.  Game  psychology  and  game  sociology.  Human 
+characteristics as information processors and players in gaming environment. 
+Cognitive principles for game design.  
+4.  Programming and implementation techniques in computer games. 3D models, 
+geometry, rotation, and quaternion interpolation; camera control, texturing, 
+terrain, lighting, level of details (LOD), collision detection; shading, non-
+photorealistic rendering, image-based rendering. 
+5.  Game behavior and game AI. Algorithms in game animations: acceleration, 
+motion analysis, game physics, path finding, chasing and evading, pattern 
+movement, flocking, obstacle avoidance, swarming, learning the opponent 
+behaviors; search and heuristics in games, finite state machines, decision trees.  
+6.  Languages and tools in game programming. C#, C, Unity 3D, and other 
+authoring tools for various components in the game, such as graphics, audios, 
+sound digitizer, and the like.  
+7.  Social  impacts  of  computer  games.  Gender,  race,  social  and  cultural 
+characteristics in computer games; youth violence and digital entertainment 
+software rating; future of computer games. 
+ 
+Teaching/  During the lectures, students will come across the common concepts, methods, and 
+Learning  issues  in  computer  game  analysis,  design  and  development,  and  will  be 
+Methodology  supplemented by exercises in games evaluation, and development. 
+During the labs / tutorials, students will have the opportunity to practice, apply, and 
+present what they have learned, and form in groups to develop a computer game 
+which forms a major output of this subject. 
+Dec 2018  
+Assessment 
+Specific  %  Intended subject learning outcomes to be 
+Methods in 
+assessment  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+methods/tasks 
+Intended 
+a  b  c  d  e  f  g  h  i 
+Learning 
+Outcomes 
+Continuous 
+55%                   
+Assessment 
+Examination  45%                   
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Students need to complete a major game development project starting from concept 
+development,  tools  and  techniques  analysis  and  final  implementation  in  an 
+appropriate setting and platform. This project is used to develop students’ ability in 
+game design and development.  
+Students also need to complete a survey / evaluation of some popular computer 
+games in the market based on the principles, concepts and techniques learnt in class. 
+This will help student to apply all these learning in analyzing real products in the 
+market. 
+Students also need to get familiar with some successful / popular games by playing 
+them  using  the  game  lab  facilities  so  as  to  understand  the  characteristics  and 
+limitations as a game player and game designer of computer games. 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+  Tutorial/Lab  13 Hrs. 
+Other student study effort: 
+  Coursework and Project  80 Hrs. 
+Total student study effort   119 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Rarent, Rick, Computer Animation: Algorithms and Techniques, 2nd  Edition, 
+2008. 
+2.  Schell, Jesse, The Art of Game Design: A Book of Lenses, 2nd Edition, Kindle 
+Edition, 2008. 
+3.  Gregory, Jason, Game Engine Architecture, 3rd Edition, 2018. 
+ 
+Dec 2018 

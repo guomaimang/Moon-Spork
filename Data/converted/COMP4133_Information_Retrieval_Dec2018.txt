@@ -1,0 +1,113 @@
+Subject Description Form 
+ 
+Subject Code  COMP4133 
+Subject Title  Information Retrieval 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP2011, COMP2411 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide the foundation knowledge in information retrieval; 
+  equip students with sound skills to solve computational search problems; 
+  appreciate how to evaluate search engines; 
+  appreciate the different applications of information retrieval techniques in the 
+Internet or Web environment; and 
+  provide  hands-on  experience  in  building  search  engines  and/or  hands-on 
+experience in evaluating search engines. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand and apply the basic concepts of information retrieval; 
+(b)  appreciate the limitations of different information retrieval techniques; 
+(c)  write programs to implement search engines; and 
+(d)  evaluate search engines. 
+Attributes for all-roundedness 
+(e)  develop skills in problem solving using systematic approaches; and 
+(f)  solve complex problems in groups and develop group work. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.   Fundamentals of Information Retrieval 
+Syllabus 
+System architecture; limitations of information retrieval systems; evaluation 
+methodology; performance measures; benchmarking. 
+2.  Models of Information Retrieval 
+Boolean  retrieval  models;  fuzzy  Boolean  retrieval  models;  vector  space 
+models;  inner  product  similarities;  cosine  similarities;  term  weighting 
+schemes. 
+3.  Query Processing 
+Query languages; basic query processing for Boolean retrieval models; query 
+processing for vector space models; query expansion; relevance feedback. 
+4.  Indexing Strategies 
+Inverted  file  construction;  efficient  dictionary  management;  indexing  to 
+support phrasal search and proximity. 
+5.  Text Clustering 
+Hierarchical clustering algorithms; adaptive clustering algorithms; k-means 
+clustering algorithms. 
+6.  Web Retrieval 
+Characteristics of the web; spidering; weighting schemes for web documents; 
+web link analysis. 
+Laboratory Experiment and Tutorial: 
+Topic 
+1.  Evaluation techniques. 
+2.  Ranking techniques. 
+3.  Text processing techniques. 
+4.  Web processing techniques. 
+ 
+Teaching/  Teaching  is  based  on  lectures  which  include  solving  technical  problems  in 
+Learning  information retrieval (aligned to Programme Outcome 6). Tutorials are used to 
+Methodology  provide examples of problems and to show how solutions are developed (aligned to 
+Programme  Outcomes  4,  5,  6).  The  mid-term  is  administered  to  students  to 
+strengthen their technical problem solving ability (aligned to Programme Outcome 
+5). There is a project/assignment that students need to write their report (aligned to 
+Programme Outcomes 1,4). This project/assignment is typically group work (aligned 
+to Programme Outcome 7). 
+Dec 2018  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f 
+Learning 
+Outcomes 
+Continuous             
+55% 
+Assessment 
+1. Assignments, Lab 
+30%             
+Exercises and Project 
+2. Mid-Term  25%             
+Examination  45%             
+Total   100%   
+The project/assignment is suitable to assess all the intended learning outcomes as it 
+involves all of them. The mid-term and examination will tests the basic concepts 
+learnt by the students as well as to see if the students are capable to use retrieval 
+techniques and perform search engine evaluation.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial/Lab  0 Hrs. 
+Other student study effort: 
+  Project/ Assignment  28 Hrs. 
+  Self-Study  38 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Chowdhury, G.G., Introduction to Modern Information Retrieval, London, 
+Facet, 2010. 
+2.  Grossman,  D.A.  and  Freider,  O.,  Information  Retrieval:  Algorithms  and 
+Heuristics, Kluwer Academic Publishers, 2004. 
+3.  Baeza-Yates, R.A. and Riberio-Neto, B., Modern Information Retrieval, ACM 
+Press, 1999. 
+4.  Grefenstette, G. (ed.), Cross-language Information Retrieval, Dorhrecht, The 
+Netherlands: Kluwer Academic Publishers, 1998. 
+5.  Witten, I.H., Moffat, A. and Bell, T.C., Managing Gigabytes: Compressing and 
+Indexing  Documents  and  Images,  San  Francisco,  California:  Morgan 
+Kaufmann Publishers, 1999. 
+ 
+Dec 2018 

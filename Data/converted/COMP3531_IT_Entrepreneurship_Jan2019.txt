@@ -1,0 +1,155 @@
+Subject Description Form 
+ 
+Subject Code  COMP3531 
+Subject Title  IT Entrepreneurship 
+Credit Value  3 
+Level  3 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The subject aims at equipping students with the latest knowledge and skills to: 
+  understand basic elements of starting a new business in information technology; 
+  prepare a business plan; 
+  arrange financial support, accounting and legal requirements; and 
+  plan entry and exit strategies. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand  why  entrepreneurship  is  an  important  business  strategy  in 
+information technology; 
+(b)  become  familiar  of  the  entrepreneurship  process  and  know  different 
+entrepreneurial skills; 
+(c)  develop  a  business  plan  and  make  informed  decisions  when  they  see 
+opportunities to start an IT company; 
+(d)  manage the operations, laws, accounting, finance and marketing of running an 
+IT company; and 
+(e)  formulate strategies for entry and exit of the IT business. 
+Attributes for all-roundedness 
+(f)  select setting up a company when there is an opportunity and run it to success 
+or join such a company when there is a reasonable chance that it succeeds later 
+using entrepreneurial skills; 
+(g)  gather information independently to write and present business plans to seek 
+investors; and 
+(h)  solve complex problems critically and creatively and develop group work 
+directly and indirectly.  
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to IT Entrepreneurship 
+Syllabus 
+Introduction  to  entrepreneurship;  reasons  for  engineering,  science,  and 
+humanities (i.e. non-MBA) students to study entrepreneurship. 
+2.  Unfair Advantage 
+High-tech start up; entrepreneurial experience; tools; techniques. 
+3.  Business Plan 1: From Idea to Opportunity 
+Entrepreneurial opportunity; identification of major risks in each of these 
+categories: technology, market, team, and financial; customer development. 
+4.   Entrepreneurial Marketing and Sales 
+Difficulties  of  marketing  in  a  start-up;  product  development  and  sales 
+functions;  discontinuous  innovation;  disruptive  technology;  market 
+segmentation, targeting and positioning. 
+5.  Business Models and Legal Essentials 
+Intellectual property (IP): patents, copyrights, trade secrets and trademarks; 
+government regulation; industries requirements; other legal matters. 
+6.   Business Plan 2: Introduction to Venture Resources 
+Business plan; risks; fund raising; venture capitalists; structure of a typical 
+venture capital firm. 
+7.  Financings 
+Staged financings; high potential opportunity; factors in considering when 
+deciding on the proposed venture capital deal. 
+8.  Social Entrepreneurship 
+Social entrepreneurship different from the other kinds of entrepreneurship; 
+types of social entrepreneurship; social venture vs. for-profit start-up. 
+9.  Stock Options 
+Equity shares; ownership; cost of the stock options; compensation; motivation. 
+10. Guest Lectures 
+Entrepreneur / finance issues; venture capitalists; IT management;  marketing 
+/ technology issues. 
+Tutorials: 
+Topic 
+1.  Accounting and Case Method Workshop 
+2.  Building the Start-up Team 
+3.  Business Plan 
+4.  Venture Finance Workshop 
+ 
+Dec 2018 Teaching/  This subject consists mainly of class lectures and tutorials. For the class lectures, 
+Learning  various cases will be presented to help student understand why entrepreneurship is 
+Methodology  an important business strategy in information technology. Students will be given time 
+to participate in discussions when the cases are presented. 
+Students will work in teams on the business plans. They are expected to learn 
+independently and work collaboratively, as they will be given chances to provide 
+feedbacks to other teams. In the end of the business plan projects, they are expected 
+to  also  practice  their  oral  skills  and  writing  skills  through  elevator  pitches, 
+presentations and written business plans. 
+During tutorial sessions, students will be given chances to discuss case studies, 
+brainstorm business plans and presenting materials. Students are expected to develop 
+creative thinking and critical thinking by brainstorming the ideas and judging other 
+students’ ideas. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f  g  h 
+Learning 
+Outcomes 
+Continuous                 
+65% 
+Assessment 
+1. Business Plan  40%                 
+2. Presentation  15%                 
+3. Book Report  10%                 
+Examination  35%                 
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+The assessment consists of a written business plan, a written book report, an oral 
+presentation and an examination. Each student is expected a form a 2-to-4-person 
+team to create a business plan based on an idea that has commercial potential or 
+impacts  the  society.  Specifications  of  the  business  plan  will  be  given  at  the 
+appropriate time in class. Students will learn through the case studies and group 
+discussions. One student of the team will be given 2 to 3 minutes to make an elevator 
+pitch of the business plan in class and the feedback from the class will be used to 
+grade the plan while the other students of the team gives the final presentation in 
+front of a panel during the final exam period. Each student will be given a form to 
+evaluate other students' elevator pitches in class. Marks will be given to students 
+providing valid feedbacks. The final presentation team score is the average of the 
+three scores. They are expected to learn among themselves and independently to 
+write  business  plan,  give  oral  presentation  and  provide  feedbacks  and 
+recommendations to other students in a sense that how IT entrepreneurship flourishes 
+commercial potential and impacts the society. For the book reports, each student is 
+expected to read at least one book from a given list. The book report will contain 3 
+to 4 items, each of which represents one of top things the student found most 
+Dec 2018 inspiring and interesting while reading the book. Students are expected to practice 
+their reading skills and writing skills from the recommended book reading and report 
+writing.  They  will  learn  to  develop  critical  thinking,  creative  thinking  and 
+entrepreneurial thinking. The examination will be held in class which is a closed 
+book but opened PC exam. It is based on the concepts of IT entrepreneurship and 
+what students have learnt from each of the guest speakers in the lectures. They will 
+learn to apply the concepts, theories and experiences of the lectures, business plans 
+and book reports.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial/Lab  0 Hrs. 
+Other student study effort: 
+  Business Plan  35 Hrs. 
+  Presentation  15 Hrs. 
+  Book Report  20 Hrs. 
+Total student study effort   109 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Kuratko, Donald D., Entrepreneurship: Theory, Process, and Practice, 10th 
+Edition, Cengage, 2017. 
+2.  Mollick, Ethan,  Entrepreneurship Simulation: The Startup Game, Harvard 
+Business Review. 
+3.  Halt Jr., G.B., Donch Jr., J.C., Stiles, A.R. and Fesnak, R., Intellectual Property 
+in Consumer Electronics, Software and Technology Startups, Springer, 2014. 
+4.  Ideabook, by GoVenture 
+(http://www.goventure.net/products/AboutIdeabook.aspx) 
+ 
+Dec 2018 

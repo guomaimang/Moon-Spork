@@ -1,0 +1,127 @@
+ 
+Subject Description Form 
+ 
+Subject Code  COMP4142 
+Subject Title  E-Payment and Cryptocurrency 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP3334 
+Co-requisite / 
+Exclusion   
+Objectives  To understand the technologies and applications for e-payment and cryptocurrency. 
+  Specifically, the students should: 
+  understand fundamental security technologies for supporting e-payment and 
+cryptocurrency; 
+  evaluate different types of payment methods; and 
+  understand  the  design  and  application  of  e-payment  and  cryptocurrency 
+systems. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  acquire a fundamental understanding of cryptocurrency and e-payment – the 
+basic principles as well as the technical and business aspects; 
+(b)  evaluate cryptocurrency and e-payment systems, applications and protocols; 
+and 
+(c)  design and implement cryptocurrency and e-payment systems/applications. 
+Attributes for all-roundedness 
+(d)  follow trends of e-payment and crypto-currency; and 
+(e)  build up on team work, presentation and technical writing skills. 
+Alignment of  Programme Outcome 1: This subject contributes to having students practice their 
+Intended  writing skills with report writing. 
+Programme 
+Learning  Programme  Outcome  4:  This  subject  contributes  to  developing  student  critical 
+Outcomes  thinking through written assignments and a project. 
+Programme  Outcome  5:  This  subject  contributes  to  problem  solving  with 
+programming skills through lab exercises and a project. 
+Programme Outcome 7: This subject contributes to team work with a project for 
+students to work in a team. 
+Dec 2018  
+Programme Outcome 8: This subject contributes to the understanding of FinTech 
+through assignments and a project. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction 
+Syllabus 
+Payment fundamentals; Different types of payment; Regulatory issues. 
+ 
+2.  Security Fundamentals 
+Review  of  security  mechanisms  (encryptions,  digital  signatures,  hash 
+functions, authentication protocols, digital certificate, Internet security).  
+Elliptic curve cryptography (ECDLP, ECDSA); recent hash functions (SHA-
+256, RIPEMD-160) 
+3.  Internet Payment Systems 
+SET and 3D credit card payment protocols; Electronic check; E-cash; Internet 
+payment services. 
+4.  Mobile Payment Systems 
+Smart card payment; Apple Wallet; Google Wallet; Other mobile payment 
+systems. 
+5.  Cryptocurrency 
+Block chain; Bitcoin (ant its variants, e.g. Litecoin); Other crypto-currency 
+systems (e.g. Ethereum, Monero, ZCash). 
+6.  Related Topics 
+Legal issues; Advanced/emerging technologies; Case studies. 
+Laboratory Experiments: 
+Laboratory exercises on block chain, cryptocurrency and e-payment. 
+Case Studies: 
+Case studies on block chain, Bitcoin, Internet/mobile payment systems. 
+Teaching/  Teaching  is  mainly  conducted  through  lectures.  Learning  is  supplemented  by 
+Learning  exercises in labs/tutorials. Students are assessed through assignments, a project, a 
+Methodology   mid-term test and an examination. 
+Dec 2018  
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e 
+Learning 
+Outcomes 
+Continuous           
+Assessment 
+ 
+1. Assignments           
+55% 
+2. Project           
+3. Mid-Term Test           
+Examination  45%           
+Total   100 %   
+Continuous assessments consist of assignments, a project and a mid-term test, which 
+are designed to facilitate students to achieve the intended learning outcomes. The 
+project is used to assess all learning outcomes. It is designed to enhance students’ 
+ability to a deeper understanding of a problem of a larger-scope and solving it 
+systematically. Examination will provide a summative evaluation of the overall 
+ability and understanding of the subject (i.e., e-payment and cryptocurrency). 
+Student Study  Class contact: 
+Effort Expected  
+    Class activities (lecture, tutorial, laboratory, etc.)  39 Hrs. 
+Other student study effort: 
+  Self-study and other related work  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Narayanan, A., Bonneau, J., Felten, E., Miller, A. and Goldfeder, S., Bitcoin 
+and Cryptocurrency Technologies, Princeton University Press, 2016. 
+2.  Liébana-Cabanillas, Francisco, Electronic Payment Systems for Competitive 
+Advantage in E-Commerce, IGI Global, 2014. 
+3.  Nakajima, Masashi, Payment System Technologies and Functions: Innovations 
+and Developments, IGI Global, 2011. 
+4.  Tapscott, Alex and Tapscott, Don, Blockchain Revolution: How the Technology 
+Behind Bitcoin is Changing Money, Business, and the World, Portfolio, 2016. 
+5.  Vigna, Paul and Casey, Michael J., The Age of Cryptocurrency: How Bitcoin 
+and the Blockchain Are Challenging the Global Economic Order, Picador, 
+2016. 
+6.  Antonopoulos,  Andreas  M.,  Mastering  Bitcoin:  Unlocking  Digital 
+Cryptocurrencies, O’Reilly, 2014. 
+Dec 2018  
+7.  Chan, H., Lee, R., Dillon, T. and Chang, E., E-Commerce: Fundamentals and 
+Applications, John Wiley & Sons, 2001. 
+8.  Stallings, W., Cryptography and Network Security: Principles and Practice, 5th 
+Edition, Prentice Hall, 2010. 
+9.  O’Mahony, D., Peirce, M. A. and Tewari, H., Electronic Payment Systems for 
+E-Commerce, 2nd Edition, Artech House 2001. 
+ 
+Dec 2018 

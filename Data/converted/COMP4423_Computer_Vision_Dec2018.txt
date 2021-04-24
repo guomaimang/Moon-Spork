@@ -1,0 +1,113 @@
+Subject Description Form 
+ 
+Subject Code  COMP4423 
+Subject Title  Computer Vision 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP2011 or   
+Co-requisite / 
+Exclusion  EIE2106 (Signals and Systems) for EIE students 
+Objectives  This course is designed for the students interested in learning fundamental principles 
+and important applications of computer vision using digital imaging. These images 
+can be acquired using digital cameras in smartphones, infrared cameras, radars, or 
+specialized sensors such as those employed for the medical imaging. This course will 
+introduce a number of fundamental concepts in computer vision. During this course, 
+the  students  will  gain  hands-on  experience  on  a  number  of  computer  vision 
+algorithms for the real-world applications. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  (a)  understand  image  sensing,  pixel  arrays  and  2D/3D  digital  image 
+representations; 
+(b)  perform  basic  image  processing  operations  for  image  enhancement  and 
+analysis; 
+(c)  apply computer vision algorithms for object detection, feature extraction and 
+3D reconstruction; 
+(d)  apply computer vision and image processing methods for real-world problems; 
+and 
+(e)  learn applications of deep learning in computer vision. 
+Subject  This course introduces the principles, mathematical models and applications of 
+Synopsis/  computer vision.  The major topics to be covered in this course include: image 
+Indicative  processing operations, imaging models, feature extraction techniques, stereo vision 
+Syllabus  and 3D reconstruction techniques. The students will learn basic concepts of computer 
+vision as well as avail hands on experience in solving real world vision problems.
+ 
+Topic 
+1.  Introduction to Computer Vision 
+Introduction to Human Visual System, Image Formation and Digital Image 
+Representations, Camera Model and Geometry 
+2.  Image Processing Operations 
+Image Enhancement, Image Sampling and Rotation, Image Filtering, Edge 
+Detection, Morphological Operations 
+Dec 2018 3.  Feature Extraction 
+Designing  Image  Descriptors,  Feature  Descriptors,  Object  Detection  and 
+Recognition 
+4.  3D Image Representation and Reconstruction 
+Common 3D Image Representation Formats, Stereo Vision, Pattern Lighting, 
+Ultrasound Imaging and Photometric Stereo-based 3D imaging Systems 
+5.  Deep Neural Networks 
+Perceptron,  Neural  Network,  Perceptron  Training,  Gradient  Descent, 
+Backpropagation,  Convolutional  Neural  Networks  and  Deep  Learning 
+Architectures for Computer Vision 
+ 
+Teaching/  Lectures:  The  lectures  will  focus  on  the  introduction  of  computer  vision  and 
+Learning  fundamental  image  processing  operations.  The  lectures  will  include  feature 
+Methodology  extraction, image enhancement, 3D reconstruction and object recognition principles 
+for real-world applications. 
+Tutorials:  Students  will  work  on  different  tutorial  problems  to  gain  hands-on 
+experience with the application of computer vision algorithms. Each of the weekly 
+tutorials are designed to focus on specific image(s) analysis problems and students 
+will be invited to develop their own solutions for the given problem.   
+Assignments: The students will implement specific computer vision algorithms and 
+develop solutions for the real world problems. The students will also analyze the 
+performance and learn to justify their solutions for the given real-world problems. 
+Project: The students will design and develop appropriate computer vision-based 
+solution for a real-world application. The students will incorporate image processing 
+principles that they have learnt from this course and learn to develop expected or 
+new solution for the given problem. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment  55%           
+1. Assignment I  15%           
+2. Assignment II  15%           
+3. Project  25%           
+Examination  45%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Dec 2018 Assignments; The assignments are designed to ascertain the effectiveness of selected 
+computer  vision  algorithms  and  techniques.  These  assignments  require 
+implementation of algorithms and/or analyze the performance. 
+Project: The project will help to ascertain the ability of students in designing, 
+selecting and implementing appropriate computer vision algorithms for real world 
+applications. The students can be in a group of 2-3 students for any specific project.  
+Examination:  The  examination  component  will  help  to  ascertain  the  students 
+capability to understand computer vision algorithms, apply them with appropriate 
+modifications  for  a  given  problem  and  ascertain  the  performance  from  the 
+applications of basic image processing operations.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+  Tutorial/Lab  13 Hrs. 
+Other student study effort: 
+  Regular Reading and Assignment Effort  80 Hrs. 
+Total student study effort   119 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Forsyth, David A. and Ponce, Jean, Computer Vision: A Modern Approach, 2nd 
+Edition, Pearson, 2019. 
+2.  Szeliski, Richard, Computer Vision: Algorithms and Applications, Springer, 
+2011. 
+3.  Gonzalez, Rafael and Woods, Richard, Digital Image Processing, 4th Edition, 
+2018. 
+ 
+Dec 2018 
