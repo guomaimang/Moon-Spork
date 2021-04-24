@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 url = "https://www.comp.polyu.edu.hk/en-us/study/undergraduate-programmes/subject"
 
 #If there is no such folder, the script will create one automatically
-folder_location = r'C:/Users/Fei/OneDrive - The Hong Kong Polytechnic University/course/2020-2021 Semester 2/COMP1011 PROGRAMMING FUNDAMENTALS/pdfs'
+folder_location = r'../Data/pdfs'
 if not os.path.exists(folder_location):os.mkdir(folder_location)
 
 response = requests.get(url)
