@@ -54,7 +54,7 @@ for item in flist:
     #Find subject code
     subjectLevel=subjectCode[4]
     #Process the content to plain text
-    wordList=re.split(' |\n',string)
+    wordList=re.split(" |\n|'",string)
     for item in range(len(wordList)):
         wordList[item]=''.join(list(filter(str.isalpha,wordList[item]))).lower()
     wordList=list(filter(None,wordList))
@@ -65,12 +65,24 @@ for item in flist:
             wordListDict[word]+=1
         except KeyError:
             wordListDict[word]=1
+    #Process the title to plain text
+    titleList=re.split(" |\n|'",subjectTitle)
+    for item in range(len(titleList)):
+        titleList[item]=''.join(list(filter(str.isalpha,titleList[item]))).lower()
+    titleList=list(filter(None,titleList))
+    titleListDict=dict()
+    for word in titleList:
+        try:
+            titleListDict[word]+=1
+        except KeyError:
+            titleListDict[word]=1
     #Finalize the data
     dataDict=dict()
     dataDict['Subject Code']=subjectCode
     dataDict['Subject Level']=subjectLevel
     dataDict['Subject Credit']=subjectCredit
     dataDict['Subject Title']=subjectTitle
+    dataDict['Subject Title Words List']=titleListDict
     dataDict['Subject Pre-requisite']=preSubjectNumber
     dataDict['Subject Content']=wordListDict
     #Transform data to json
