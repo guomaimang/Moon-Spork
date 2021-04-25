@@ -1,5 +1,8 @@
 # COMP1011 Group Report
-### Table of Content
+### Authors
+#### Yunfei LIU, Longling GENG, Jiaming HAN, Zhuchen WANG
+
+## Table of Content
 1. Introduction
 2. Algorithm
 3. Data Structure
@@ -11,6 +14,9 @@
 6. Discussion
 7. Challenges
 8. Conclusion 
+9. Appendix
+    - Work Distribution
+    - References
 
 ### Introduction
 ### Algorithm
@@ -31,3 +37,6 @@ The subject description forms in txt format are messy and cannot used by C++ pro
 ### Discussion
 ### Challenges
 ### Conclusion
+### Appendix
+#### Work Distribution
+#### References
