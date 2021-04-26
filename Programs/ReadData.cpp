@@ -25,6 +25,7 @@ void ReadData() {
         getline(names,fileName[count]);
     }
     ifstream courseJson;
+    Course *subject[100];
     for (int i=0;i<count;i++) {
         string jsonName="./Data/pre-processed/";
         json fileData;
@@ -33,7 +34,14 @@ void ReadData() {
         fileData << courseJson;
         //cout<<fileData<<endl<<endl;
         courseJson.close();
-        
+        //Save data to course object
+        //subject[i]->SetCode(fileData["Subject Code"]);
+        subject[i]->SetID(i);
+        //subject[i]->SetLevel(fileData["Subject Level"]);
+        //subject[i]->SetCredit(fileData["Subject Level"]);
+        //subject[i]->SetTitle(fileData["Subject Title"]);
+        subject[i]->SetTitleMap(fileData["Subject Title Words List"]);
+        cout<<fileData["Subject Title Words List"];
     }
 }
 
