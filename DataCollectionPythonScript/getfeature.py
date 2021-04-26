@@ -76,6 +76,10 @@ for item in flist:
             titleListDict[word]+=1
         except KeyError:
             titleListDict[word]=1
+    #Process pre-requisite to dictionary
+    preRequisiteDict=dict()
+    for item in preSubjectNumber:
+        preRequisiteDict[item]=1
     #Finalize the data
     dataDict=dict()
     dataDict['Subject Code']=subjectCode
@@ -83,7 +87,7 @@ for item in flist:
     dataDict['Subject Credit']=subjectCredit
     dataDict['Subject Title']=subjectTitle
     dataDict['Subject Title Words List']=titleListDict
-    dataDict['Subject Pre-requisite']=preSubjectNumber
+    dataDict['Subject Pre-requisite']=preRequisiteDict
     dataDict['Subject Content']=wordListDict
     #Transform data to json
     dataJson=json.dumps(dataDict)
