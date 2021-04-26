@@ -12,8 +12,6 @@ using json = nlohmann::json;
 using namespace std;
 
 void ReadData() {
-    cout<<123;
-    cout<<456;
     ifstream names("./Data/fileNames.csv",ios::in);
     string fileName[100];
     int count=0;
@@ -25,7 +23,7 @@ void ReadData() {
         getline(names,fileName[count]);
     }
     ifstream courseJson;
-    Course *subject[100];
+    Course subject[100];
     for (int i=0;i<count;i++) {
         string jsonName="./Data/pre-processed/";
         json fileData;
@@ -35,13 +33,21 @@ void ReadData() {
         //cout<<fileData<<endl<<endl;
         courseJson.close();
         //Save data to course object
-        //subject[i]->SetCode(fileData["Subject Code"]);
-        subject[i]->SetID(i);
-        //subject[i]->SetLevel(fileData["Subject Level"]);
-        //subject[i]->SetCredit(fileData["Subject Level"]);
-        //subject[i]->SetTitle(fileData["Subject Title"]);
-        subject[i]->SetTitleMap(fileData["Subject Title Words List"]);
-        cout<<fileData["Subject Title Words List"];
+        subject[i].SetCode(fileData["Subject Code"]);
+        subject[i].SetID(i);
+        subject[i].SetLevel(fileData["Subject Level"]);
+        subject[i].SetCredit(fileData["Subject Credit"]);
+        subject[i].SetTitle(fileData["Subject Title"]);
+        map<string,int> title,content;
+        title=fileData.at("Subject Title Words List").get<map<string,int>>();
+        subject[i].SetTitleMap(title);
+        content=fileData.at("Subject Content").get<map<string,int>>();
+        subject[i].SetContent(content);
+        PreRequisite pre;
+
+        cout << fileData["Subject Pre-requisite"][0];
+        
+        
     }
 }
 

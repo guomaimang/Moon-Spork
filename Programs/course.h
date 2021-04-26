@@ -24,7 +24,7 @@ class Course
 {
 public:
     //Initializer
-    Course();
+    Course() {this->Id=-1;};
     //Set Data
     void SetID(int id) {this->Id=id;};
     void SetCode(std::string code) {this->Code=code;};
@@ -33,7 +33,7 @@ public:
     void SetLevel(std::string level) {this->Level=level;};
     void SetCredit(std::string credit) {this->Credit=credit;};
     void SetPreRequisite(PreRequisite *preRequisite);
-    void SetContent(std::map<std::string, int> contentDict);
+    void SetContent(std::map<std::string, int> contentDict) {this->ContentDict=contentDict;};
     //Call Data
     int GetID();
     std::string GetCode();
