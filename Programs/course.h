@@ -8,17 +8,6 @@ This header including all the needed classes (Not Finished yet)
 #include <string>
 #include <map>
 
-class PreRequisite {
-public:
-    PreRequisite();
-    //Store the next position
-    PreRequisite *next;
-    //Read and save data
-    void SetData(std::string);
-    std::string GetData();
-private:
-    std::string data;
-};
 //Create a class to save all course information
 class Course
 {
@@ -32,24 +21,24 @@ public:
     void SetTitleMap(std::map<std::string, int> titleDict) {this->TitleDict=titleDict;};
     void SetLevel(std::string level) {this->Level=level;};
     void SetCredit(std::string credit) {this->Credit=credit;};
-    void SetPreRequisite(PreRequisite *preRequisite);
+    void SetPreRequisite(std::map<std::string, int> preRequisite) {this->Prerequisite=preRequisite;};
     void SetContent(std::map<std::string, int> contentDict) {this->ContentDict=contentDict;};
     //Call Data
     int GetID();
-    std::string GetCode();
-    std::string GetTitle();
-    std::map<std::string, int> GetTitleMap();
-    std::string GetLevel();
-    std::string GetCredit();
-    PreRequisite GetPreRequisite();
-    std::map<std::string, int> GetContent();
+    std::string GetCode() {return this->Code;};
+    std::string GetTitle() {return this->Title;};
+    std::map<std::string, int> GetTitleMap() {return this->TitleDict;};
+    std::string GetLevel() {return this->Level;};
+    std::string GetCredit() {return this->Credit;};
+    std::map<std::string, int> GetPreRequisite() {return this->Prerequisite;};
+    std::map<std::string, int> GetContent() {return this->ContentDict;};
 private:
     int Id;
     std::string Level;
     std::string Credit;
     std::string Code;
     std::string Title;
-    PreRequisite *Prerequisite;
+    std::map<std::string, int> Prerequisite;
     std::map<std::string, int> TitleDict;
     std::map<std::string, int> ContentDict;
 };
