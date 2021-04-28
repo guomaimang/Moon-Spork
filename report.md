@@ -43,12 +43,14 @@ The subject description forms in txt format are messy and cannot used by C++ pro
 ### Conclusion
 ### Appendix
 #### Work Distribution
+
 | Student Name | Finished Work |
 | ---- | ---- | 
 | Jiaming HAN | |
 | Longling GENG | |
 | Yunfei LIU | |
 | Zhuchen WANG | |
+
 (Students are sorted by the first letter of their first name)
 
 #### References
