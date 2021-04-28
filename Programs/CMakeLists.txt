@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Programs
-        main.cpp course.h)
+        main.cpp course.h entry.h)
