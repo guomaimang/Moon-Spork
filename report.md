@@ -19,6 +19,10 @@
     - References
 
 ### Introduction
+Nowadays, many messages, webpages are created everyday and it is impossible for us to read them one by one. To get data quickly and effectively, searching is of vital importance. Meanwhile, how to search the needed information at the shortest time, and how to find the correct webpages in numerous webpages on Internet, is a challenging question.
+
+Searching algorithm is developed to save people's time of finding what they want, and it has a long history. Since the first search engine `WebCrawler` appeared on 1994, human have entered the information era. In this project, we revisited this part of history, and figured out how search engine is working. We developed our own data structures and algorithm to accelecrate the searching process. Although our method is not mature enough, it is a good start for us to improve our programming skills and learn some experiences.
+
 ### Algorithm
 ### Data Structure
 ### Program Design
@@ -39,4 +43,12 @@ The subject description forms in txt format are messy and cannot used by C++ pro
 ### Conclusion
 ### Appendix
 #### Work Distribution
+| Student Name | Finished Work |
+| ---- | ---- | 
+| Jiaming HAN | |
+| Longling GENG | |
+| Yunfei LIU | |
+| Zhuchen WANG | |
+(Students are sorted by the first letter of their first name)
+
 #### References
