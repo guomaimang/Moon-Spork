@@ -3,6 +3,25 @@ Written by Yunfei LIU at April 25, 2021
 Modified by Yunfei LIU at April 26, 2021
 
 This header including a new class represent each subjects. If call data is needed, please use the "Get" functions.
+
+----------USE INSTRUCTIONS----------
+
+data types:
+| Feature | Type   |
+| id      | int    |
+| title   | string |
+| code    | string |
+| level   | string |
+| credit  | string |
+| pre-req | map    | //map<string, int> represents the pre-requisites list
+| titleMap| map    | //map<string, int> represents the title words list
+| content | map    | //map<string, int> repersents the content words list, lowercase, removed numbers and special characters
+
+If you want to read data, please use functions start with "Get", for example 'GetID' can return the ID of this 'Course' object
+e.g. int subjectID=GetID(Course[1]); //this can assign the course's id to int variable 'subjectID'
+
+If you want to write data, please use the functions start with "Set", for example 'SetTitle' can set the subject title of this course object
+e.g. string title="Whatever subject"; mycourse.SetTitle(title); //assign string 'title' to mycourse object
 */
 #ifndef COURSE_H
 #define COURSE_H
