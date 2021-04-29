@@ -17,12 +17,12 @@ private:
     }
 
 public:
-    Entry *next = nullptr;
     Entry *prev = nullptr;
+    Entry *next = nullptr;
 
     int id = get_id();
     char word[16] = "znotinitialized";
-    int field[4] = {};
+    int field[30] = {};
 
 };
 
