@@ -21,7 +21,9 @@ public:
     Entry *prev = nullptr;
 
     int id = get_id();
-    char word[16] = nullptr;
-    int field[30] = nullptr;
+    char word[16] = "znotinitialized";
+    int field[4] = {};
+
+};
 
 #endif //PROGRAMS_ENTRY_H
