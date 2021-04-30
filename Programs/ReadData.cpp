@@ -45,7 +45,7 @@ Course* ReadData() {
         courseJson.close();
         //Save data to course object
         subject[i].SetCode(fileData["Subject Code"]);
-        subject[i].SetID(i);
+        subject[i].SetID((int) fileData["Subject ID"]);
         subject[i].SetLevel(fileData["Subject Level"]);
         subject[i].SetCredit(fileData["Subject Credit"]);
         subject[i].SetTitle(fileData["Subject Title"]);
