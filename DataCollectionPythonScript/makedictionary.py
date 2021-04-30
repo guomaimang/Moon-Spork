@@ -1,4 +1,4 @@
-import json,os
+import json,os,nltk
 wordList=dict()
 flist=[flist for flist in os.listdir("../Data/pre-processed/")]
 for item in flist:
@@ -16,9 +16,9 @@ for item in flist:
             wordList[word]=data['Subject Title Words List'][word]
     f.close()
 sortedDict=sorted(wordList.items(), key=lambda k: k[1],reverse=True)
-print(len(sortedDict))
 newWordList=dict()
 for word in sortedDict:
-    if word[1] > 5:
+    wordType=nltk.pos_tag(nltk.word_tokenize(word[0]))
+    if wordType[0][1]!='CC' and wordType[0][1]!='DT' and wordType[0][1]!='EX' and wordType[0][1]!='IN' and wordType[0][1]!='LS' and wordType[0][1]!='MD' and wordType[0][1]!='SYM'and wordType[0][1]!='PRP' and wordType[0][1]!='TO' and wordType[0][1]!='VBP' and wordType[0][1]!='PRP$' and len(wordType[0][0])>2:
         newWordList[word[0]]=word[1]
-print(len(newWordList))
+
