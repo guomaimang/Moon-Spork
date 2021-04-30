@@ -1,11 +1,14 @@
 from __future__ import print_function
 import json,os,nltk
+"""Because C++ lacks of NLP libraries, so we abandoned this improvement, which can transform different tenses"""
 #from nltk.stem import *
 #from nltk.stem.snowball import SnowballStemmer
 #stemmer = SnowballStemmer("english")
 
 wordList=dict()
 flist=[flist for flist in os.listdir("../Data/pre-processed/")]
+
+#Import all the words and construct a dictionary represents words and its appearance
 for item in flist:
     f=open("../Data/pre-processed/"+item,'r',encoding='UTF-8')
     data=json.loads(f.read())
@@ -21,11 +24,15 @@ for item in flist:
             wordList[word]=data['Subject Title Words List'][word]
     f.close()
 sortedDict=sorted(wordList.items(), key=lambda k: k[1],reverse=True)
+
+#Delete useless words such as "are", "and", "it" to improve the correctness
 newWordList=dict()
 for word in sortedDict:
     wordType=nltk.pos_tag(nltk.word_tokenize(word[0]))
     if wordType[0][1]!='CC' and wordType[0][1]!='DT' and wordType[0][1]!='EX' and wordType[0][1]!='IN' and wordType[0][1]!='LS' and wordType[0][1]!='MD' and wordType[0][1]!='SYM'and wordType[0][1]!='PRP' and wordType[0][1]!='TO' and wordType[0][1]!='VBP' and wordType[0][1]!='PRP$' and len(wordType[0][0])>2:
         newWordList[word[0]]=word[1]
+
+#Construct a csv file to save the word->id dictionary
 output=[]
 idDict=dict()
 id=0
@@ -38,13 +45,13 @@ writeFile=open("../Data/dictionary.csv",'w',encoding="UTF-8")
 writeFile.writelines(output)
 writeFile.close()
 
+#Copy and move the word->id to another list to find the word has shown in which documents
 wordAppearList=[]
-#reverseDict=dict()
 for item in idDict:
     wordAppearList.append([idDict[item],item,[],[]])
-    #reverseDict[idDict[item]]=item
 
-#Copy getfeature.py
+
+#Copy getfeature.py, to modify the json files, change the dictionary word->appearance to id->appearance
 flist=[flist for flist in os.listdir("../Data/converted/")]
 subjectid=0
 for item in flist:
@@ -144,7 +151,7 @@ for item in flist:
     writeFile.close()
 
     
-    #This part can show whether a word appeared in a document
+    #This part can show whether a word appeared in a document and save the document id to each word
     for word in titleListDict:
         try:
             wordAppearList[word][2].append(subjectid)
@@ -158,6 +165,7 @@ for item in flist:
             pass
     subjectid+=1
     
+#Construct a json to save the list
 wordShownDict=dict()
 for item in wordAppearList:
     wordShownDict[item[0]]=dict()
@@ -166,7 +174,7 @@ for item in wordAppearList:
     wordShownDict[item[0]]['Shown in title']=item[2]
     wordShownDict[item[0]]['Shown in content']=item[3]
 wordShownJson=json.dumps(wordShownDict)
-print(wordShownJson)
+
 writeFile=open("../Data/wordShownDocument.json",'w',encoding='UTF-8')
 writeFile.write(wordShownJson)
 writeFile.close()
