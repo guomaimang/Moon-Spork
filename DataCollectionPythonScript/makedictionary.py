@@ -21,4 +21,16 @@ for word in sortedDict:
     wordType=nltk.pos_tag(nltk.word_tokenize(word[0]))
     if wordType[0][1]!='CC' and wordType[0][1]!='DT' and wordType[0][1]!='EX' and wordType[0][1]!='IN' and wordType[0][1]!='LS' and wordType[0][1]!='MD' and wordType[0][1]!='SYM'and wordType[0][1]!='PRP' and wordType[0][1]!='TO' and wordType[0][1]!='VBP' and wordType[0][1]!='PRP$' and len(wordType[0][0])>2:
         newWordList[word[0]]=word[1]
+output=[]
+idDict=dict()
+id=0
+for word in newWordList:
+    output.append(word+','+str(newWordList[word])+','+str(id)+'\n')
+    idDict[word]=id
+    id+=1
+output.insert(0,'word,frequency,id\n')
+writeFile=open("../Data/dictionary.csv",'w',encoding="UTF-8")
+writeFile.writelines(output)
+writeFile.close()
+
 
