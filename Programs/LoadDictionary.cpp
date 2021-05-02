@@ -22,13 +22,14 @@ Dictionary* LoadDictionary() {
     getline(fin,line);
     //Read the data and split them seperately
     while (getline(fin,line)) {
-        //cout<<line<<endl;
+        //Split the line with character ','
         istringstream sin(line);
         vector<string> elements;
         string info;
         while (getline(sin,info,',')) {
             elements.push_back(info);
         }
+        //write the word and its ID to the dictionary object
         string wordChar=elements[2];
         wordList[count].wordID=stoi(wordChar);
         wordList[count].word=elements[0];
@@ -36,6 +37,7 @@ Dictionary* LoadDictionary() {
     }
     fin.close();
 
+    //Read the json to get where the word has appeared
     json appearList;
     ifstream shown("./Data/wordShownDocument.json",ios::in);
     appearList << shown;
