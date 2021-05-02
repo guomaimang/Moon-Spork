@@ -8,6 +8,7 @@ class Dictionary {
         Dictionary(){this->wordID=-1;};
         string word;
         int wordID;
+        set<int> appearTitle;
         set<int> appearDoc;
 };
 #endif
