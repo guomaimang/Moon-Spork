@@ -15,7 +15,7 @@ data types:
 | credit  | string |
 | pre-req | map    | //map<string, int> represents the pre-requisites list
 | titleMap| map    | //map<string, int> represents the title words list
-| content | map    | //map<string, int> repersents the content words list, lowercase, removed numbers and special characters
+| content | map    | //map<string, int> represents the content words list, lowercase, removed numbers and special characters
 
 If you want to read data, please use functions start with "Get", for example 'GetID' can return the ID of this 'Course' object
 e.g. int subjectID=GetID(Course[1]); //this can assign the course's id to int variable 'subjectID'
