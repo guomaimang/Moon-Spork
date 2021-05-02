@@ -14,32 +14,6 @@ using namespace std;
 
 Dictionary* LoadDictionary() {
     Dictionary *wordList = new Dictionary[5000]();
-    /*
-    -----ABANDONED CONTENT-----
-
-    //Read file names from a csv file
-    ifstream fin("./Data/dictionary.csv",ios::in);
-    string line;
-    int count=0;
-    //Abandon the first row
-    getline(fin,line);
-    //Read the data and split them seperately
-    while (getline(fin,line)) {
-        //Split the line with character ','
-        istringstream sin(line);
-        vector<string> elements;
-        string info;
-        while (getline(sin,info,',')) {
-            elements.push_back(info);
-        }
-        //write the word and its ID to the dictionary object
-        string wordChar=elements[2];
-        wordList[count].wordID=stoi(wordChar);
-        wordList[count].word=elements[0];
-        count++;
-    }
-    fin.close();
-    */
 
     //Read the json to get where the word has appeared
     json appearList;
