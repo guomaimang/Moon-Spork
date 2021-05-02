@@ -13,11 +13,14 @@ using json = nlohmann::json;
 using namespace std;
 
 Dictionary* LoadDictionary() {
+    Dictionary *wordList = new Dictionary[5000]();
+    /*
+    -----ABANDONED CONTENT-----
+
     //Read file names from a csv file
     ifstream fin("./Data/dictionary.csv",ios::in);
     string line;
     int count=0;
-    Dictionary *wordList = new Dictionary[5000]();
     //Abandon the first row
     getline(fin,line);
     //Read the data and split them seperately
@@ -36,15 +39,18 @@ Dictionary* LoadDictionary() {
         count++;
     }
     fin.close();
+    */
 
     //Read the json to get where the word has appeared
     json appearList;
     ifstream shown("./Data/wordShownDocument.json",ios::in);
     appearList << shown;
     shown.close();
-    for (int i=0;i<count;i++) {
+    for (int i=0;i<appearList.size();i++) {
         wordList[i].appearTitle=appearList[to_string(i)]["Shown in title"].get<set<int>>();
         wordList[i].appearDoc=appearList[to_string(i)]["Shown in content"].get<set<int>>();
+        wordList[i].word=appearList[to_string(i)]["Word"];
+        wordList[i].wordID=appearList[to_string(i)]["Word ID"];
     }
 
     return wordList;
