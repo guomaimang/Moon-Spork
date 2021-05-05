@@ -2,7 +2,7 @@
 This is a group project of COMP1011, so works should be distributed to each of group members. Consider it is difficult to design data structure together, therefore, tasks are scheduled to distribute after the data structure is created.
 ## Planning Functions
 1. Input cleaning
-    - Ask user to type the keywords, and then remove the unnecessary characters such as `,`,`'`,`123`, etc. Transform all uppercase letters to lowercase.  
+    - Ask user to type the keywords, and then remove the unnecessary characters such as `","`,`"'"`,`"123"`, etc. Transform all uppercase letters to lowercase.  
     - **string\* InputCleaning()**: should return a pointer pointing to a string array, which needs to contain processed words user typed
     - Example: "Let's go hiking tomorrow noon 12:00, call 3333-3333" -> "lets, go, hiking, tomorrow, noon, call"
 2. Relevance Calculation
