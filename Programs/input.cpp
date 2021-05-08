@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstring>
 
 using namespace std;
 string* InputCleaning(string input) // 返回数组的指针
