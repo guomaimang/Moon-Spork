@@ -11,9 +11,7 @@ string* inword(){
     auto* test1 = new string;
     return test1;
 }
-int query_field(){
-
-};
+// int query_field(){}
 
 int main() {
 
@@ -31,7 +29,7 @@ int main() {
 
     // For each word, return the document that appears
     for(int i = 0; i< target_length;i++){
-        target[i] =
+        // target[i] =
     }
     return 0;
 }
