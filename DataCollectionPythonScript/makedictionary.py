@@ -6,11 +6,11 @@ import json,os,nltk
 #stemmer = SnowballStemmer("english")
 
 wordList=dict()
-flist=[flist for flist in os.listdir("../Data/pre-processed2/")]
+flist=[flist for flist in os.listdir("../Data/pre-processed3/")]
 
 #Import all the words and construct a dictionary represents words and its appearance
 for item in flist:
-    f=open("../Data/pre-processed2/"+item,'r',encoding='UTF-8')
+    f=open("../Data/pre-processed3/"+item,'r',encoding='UTF-8')
     data=json.loads(f.read())
     for word in data['Subject Content'].keys():
         try:
@@ -31,11 +31,12 @@ for word in sortedDict:
     wordType=nltk.pos_tag(nltk.word_tokenize(word[0]))
     if wordType[0][1]!='CC' and wordType[0][1]!='DT' and wordType[0][1]!='EX' and wordType[0][1]!='IN' and wordType[0][1]!='LS' and wordType[0][1]!='MD' and wordType[0][1]!='SYM'and wordType[0][1]!='PRP' and wordType[0][1]!='TO' and wordType[0][1]!='VBP' and wordType[0][1]!='PRP$' and len(wordType[0][0])>2:
         newWordList[word[0]]=word[1]
-
 #Construct a csv file to save the word->id dictionary
 output=[]
 idDict=dict()
 id=0
+#for fileName in flist:
+#    newWordList[fileName[:-5]]=1
 for word in newWordList:
     output.append(word+','+str(newWordList[word])+','+str(id)+'\n')
     idDict[word]=id
@@ -121,6 +122,7 @@ for item in flist:
     for item in range(len(titleList)):
         titleList[item]=''.join(list(filter(str.isalpha,titleList[item]))).lower()
     titleList=list(filter(None,titleList))
+    titleList.append(subjectCode)
     titleListDict=dict()
     for word in titleList:
         try:
