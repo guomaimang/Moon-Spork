@@ -24,6 +24,11 @@ Nowadays, many messages, webpages are created everyday and it is impossible for 
 Searching algorithm is developed to save people's time of finding what they want, and it has a long history. Since the first search engine `WebCrawler` appeared on 1994, human have entered the information era. In this project, we revisited this part of history, and figured out how search engine is working. We developed our own data structures and algorithm to accelerate the searching process. Although our method is not mature enough, it is a good start for us to improve our programming skills and learn some experiences.
 
 ### Algorithm
+We referenced the algorithm of `ElasticSearch`, which is powerful, open-source and easy to understand. However, even though the searching method is easy for experienced programmers, it is too complicated for us. Also, the data amount is small in this project, and too complicate algorithm may lead to opposite effects. Therefore, we learned the algorithm thoroughly and understand its essence. Finally we simplified the algorithm, making it easier to program with just slightly increase the searching time.
+
+The main idea of this algorithm is using dictionary to search for the data. Firstly, users' input will be cleaned, which means that the special characters, numbers, punctuations will be removed, and uppercase letters will be transformed to lowercase letters. By doing these, users input will be transformed to snippets which only contain lowercase alphabet, and it will be very helpful for further matching.
+
+Then, the word snippets will be translated to word ID with a black-red tree dictionary. Black-red tree is
 ### Data Structure
 ### Program Design
 ### Data Process
