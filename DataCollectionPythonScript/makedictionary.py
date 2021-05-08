@@ -6,11 +6,11 @@ import json,os,nltk
 #stemmer = SnowballStemmer("english")
 
 wordList=dict()
-flist=[flist for flist in os.listdir("../Data/pre-processed/")]
+flist=[flist for flist in os.listdir("../Data/pre-processed2/")]
 
 #Import all the words and construct a dictionary represents words and its appearance
 for item in flist:
-    f=open("../Data/pre-processed/"+item,'r',encoding='UTF-8')
+    f=open("../Data/pre-processed2/"+item,'r',encoding='UTF-8')
     data=json.loads(f.read())
     for word in data['Subject Content'].keys():
         try:
