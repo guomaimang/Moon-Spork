@@ -5,7 +5,6 @@
 // 3. turn all the upper to lower
 
 #include <iostream>
-#include <cstring>
 
 using namespace std;
 string* InputCleaning(string input) // return the pointer to the array of input strings
