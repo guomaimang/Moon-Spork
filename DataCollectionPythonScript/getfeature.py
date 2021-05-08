@@ -76,6 +76,7 @@ for item in flist:
             titleListDict[word]+=1
         except KeyError:
             titleListDict[word]=1
+    titleListDict[subjectCode]=1
     #Process pre-requisite to dictionary
     preRequisiteDict=dict()
     for item in preSubjectNumber:
@@ -91,6 +92,6 @@ for item in flist:
     dataDict['Subject Content']=wordListDict
     #Transform data to json
     dataJson=json.dumps(dataDict)
-    writeFile=open("../Data/pre-processed/"+subjectCode+".json",'w',encoding='UTF-8')
+    writeFile=open("../Data/pre-processed3/"+subjectCode+".json",'w',encoding='UTF-8')
     writeFile.write(dataJson)
     writeFile.close()
