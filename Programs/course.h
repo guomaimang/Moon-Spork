@@ -48,7 +48,7 @@ public:
     void SetContent(std::map<std::string, int> contentDict) {this->ContentDict=contentDict;};
     //Call Data
     //If you want to call data, please use the following functions
-    int GetID();
+    int GetID() {return this->Id;};
     std::string GetCode() {return this->Code;};
     std::string GetTitle() {return this->Title;};
     std::map<std::string, int> GetTitleMap() {return this->TitleDict;};
