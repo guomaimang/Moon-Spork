@@ -13,7 +13,7 @@ void DisplayResult(float* scores){
     for(int i=0;i<80;i++){
         flag1=0;
         for(int j=0;j<80-i;j++){
-            if(*(scores+j)<*(scores+j+1)){
+            if((*(scores+j))<(*(scores+j+1))){
                 t=*(scores+j);
                 *(scores+j)=*(scores+j+1);
                 *(scores+j+1)=t;
@@ -48,7 +48,7 @@ void DisplayResult(float* scores){
     int order=0;
     int order_id[81];
     for(int i=0;i<count;i++){
-        for(int j=0;i<81;j++){
+        for(int j=0;j<81;j++){
             if(*(scores+j)==single_scores[i]){
                 order++;
                 order_id[order-1]=j;
