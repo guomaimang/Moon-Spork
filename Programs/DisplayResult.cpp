@@ -65,6 +65,13 @@ void DisplayResult(float* scores){
     cout<<endl;
     int index=order_id[input-1];
     cout<<data[index].GetCode()<<" "<<data[index].GetTitle()<<endl;
+
+    map<string,int> prerequisite=data[index].GetPreRequisite();
+    map<string,int>::iterator preiterator;//define an interator
+    for (preiterator = prerequisite.begin(); preiterator != prerequisite.end(); ++preiterator) {
+        cout<<preiterator->first<<" ";
+    }
+
     //cout<<"Subject Pre-requisite: " <<data[index].GetPreRequisite()<<endl;
     cout<<"Subject Level: "<<data[index].GetLevel()<<endl;
     cout<<"Subject Credit: "<<data[index].GetCredit()<<endl; 
