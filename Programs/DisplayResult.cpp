@@ -3,6 +3,9 @@
 #include <time.h>
 #include <cstring>
 #include <string>
+#include "dictionary.h"
+#include "course.h"
+#include "ReadData.cpp"
 using namespace std;
 void DisplayResult(float* scores){
     cout<<"------------- Search Results -------------"<<endl;
@@ -62,7 +65,7 @@ void DisplayResult(float* scores){
     cout<<endl;
     int index=order_id[input-1];
     cout<<data[index].GetCode()<<" "<<data[index].GetTitle()<<endl;
-    cout<<"Subject Pre-requisite: "<<data[index].GetPreRequisite()<<endl;
+    //cout<<"Subject Pre-requisite: " <<data[index].GetPreRequisite()<<endl;
     cout<<"Subject Level: "<<data[index].GetLevel()<<endl;
     cout<<"Subject Credit: "<<data[index].GetCredit()<<endl; 
     cout<<endl;
