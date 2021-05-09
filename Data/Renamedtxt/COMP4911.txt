@@ -1,0 +1,201 @@
+Subject Description Form 
+Subject Code  COMP 4911 / 4912 
+Subject Title  Capstone Project I / II 
+Credit Value  3 credits for each semester subject 
+Level  4 
+Pre-requisite/ Co- Pre-requisite: COMP 4911 for taking COMP 4912 
+requisite/ Exclusion  Exclusion: COMP 4921 / COMP 451 
+Objectives  The objectives of this subject are to: 
+1.  provide  a  student  the  opportunities  to  apply  and 
+integrate his/her knowledge acquired throughout the 
+undergraduate study. 
+2.  develop the capabilities of a student in analyzing and 
+solving complex and possibly real-case problems. 
+3.  train students with skills on systematic development 
+and documentation of a significant piece of work. 
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes   
+Professional/academic knowledge and skills 
+(a) conduct literature survey to locate for materials and 
+sources relevant to the selected problem area; 
+(b) understand  the  materials  obtained  and  connect  the 
+materials with the problem to be solved; 
+(c) define and specify the problem precisely; 
+(d) assimilate  and  apply  the  knowledge  learnt  in 
+generating good solutions to the problem; 
+(e) think critically the formulation of alternative models 
+and  solutions  to  the  problem,  in  the  analysis  of 
+approaches to the solution and their implementation; 
+(f) evaluate the final outcome in an objective manner; 
+ 
+Attributes for all-roundedness 
+(g) improve presentation and communicate skills via oral 
+presentation;  
+(h) enhance  technical  report  writing  skills  with  proper 
+organization of materials; 
+(i)  develop  the  ability  to  learn  independently  and  to 
+find/integrate  information  from  different  sources 
+required in solving real-life problems; 
+(j)  manage the project efficiently and effectively through 
+the assistance and supervision of the supervisor and/or 
+other students working together. 
+Subject Synopsis/  1.  In-depth study of a topic proposed by the supervisor 
+Indicative Syllabus  2.  Project meeting and planning 
+3.  Proposal writing 
+4.  Regular progress checking and reporting 
+Last update in April 2015 5.  Project documentation 
+6.  Presentation and demonstration 
+ 
+Teaching/Learning  The  capstone  project  is  structured  as  a  sequence  of  two 
+Methodology  subjects. Physically, it spans across the academic year for two 
+consecutive semesters. COMP 4912 will be the continuation 
+of COMP 4911, and the topic of the two subjects for a student 
+should be the same and normally being supervised by the 
+same academic staff. Both COMP 4911 and COMP 4912 will 
+be assessed on individual basis. 
+ 
+The total student effort required per student is approximately 
+240 hours (120 hours for each semester) of project meetings, 
+laboratory work and independent study for a normal student, 
+which  includes  the  total  time  spent  on  literature  search, 
+background reading, fact finding, project development, report 
+writing, and presentation preparation and demonstration. The 
+actual amount of time spent may vary for individuals. 
+ 
+Capstone Projects are normally sponsored by academic staff 
+of  the  department  or  in  conjunction  with  external 
+organizations  or  other  departments  in  the  university. 
+However, students may propose a topic along an area of their 
+research  interest  contingent  upon  the  condition  that  they 
+could  find  an  interested  academic  staff  to  supervise  the 
+project. 
+ 
+Capstone Projects should be problem-oriented and there is no 
+restriction to the nature of the problem except that it should 
+be relevant to the computing discipline and there must be a 
+computing  element  in  the  project.  The  project  could  be 
+practical,  academic  or  a  hybrid  in  which  the  student  is 
+encouraged  but  not  constrained  to  have  some  original 
+contributions. 
+ 
+Each student will be assigned a supervisor who is in charge of 
+the  entire  project.  The  assignment  of  supervisor  normally 
+follows  a  set  of  prescribed  procedures,  announced  a  few 
+months  before  the  academic  year.  The  supervisor  is 
+responsible  for  assessing  the  student  based  on  the  set  of 
+abilities,  as  laid  down  in  the  “objectives”  and  “intended 
+learning  outcome”  sections  above,  that  the  student 
+demonstrated. 
+ 
+In the first part of the two-subject sequence, COMP 4911, a 
+student will conduct background research on his/her project 
+Last update in April 2015 topic. He/she will learn proper project methodology and how 
+to  write  a  good  proposal.  A  number  of  seminars  will  be 
+conducted,  covering  important  topics  such  as  “research 
+methods”, “proposal writing” and “presentation skills”. The 
+student will work with his/her supervisor for a good proposal, 
+with  additional  advice  provided  by  staffs  running  the 
+seminars. Checkpoint short presentations are required of each 
+student  on  a  monthly  basis  for  him/her  to  report  and 
+demonstrate the progress, besides practicing the presentation 
+skills. The deliverables of COMP 4911 include a well-written 
+proposal  and  a  milestone  presentation.  The  proposal  is 
+normally submitted well before the end of the semester. The 
+milestone presentation represents a summative achievement 
+of the student in the semester, inclusive of preliminary system 
+design, fast prototype implementation, pilot survey or data 
+analysis, whichever appropriate, demonstrating the potential 
+contribution of the project. 
+ 
+In the second part of the two-subject sequence, COMP 4912, 
+the  student  will  work  under  close  supervision  of  the 
+supervisor to complete the project described in the proposal. 
+The student should meet the supervisor regularly, reporting 
+his/her  progress  and  seeking  advice.  Self-discipline  is  an 
+important element in the assessment of the project, besides 
+the more obvious deliverables, write up and presentation. The 
+final deliverables include a final report concluding the whole 
+project throughout the two semesters, an oral presentation, 
+and/or a video demonstration about the final “product”. 
+ 
+The  assessment  of  the  two-staged  Capstone  Project  is 
+administered by an assessment panel, of which the supervisor 
+is an ex officio member, both in the first and second part. The 
+assessment panels for the two semesters do not necessarily 
+need to be identical. 
+ 
+Assessment Methods in   
+Alignment with  Specific  %  Sem  Intended  subject  learning 
+Intended Learning  Assessment  weighing  outcomes to be assessed 
+Methods/ 
+Outcomes  a  b  c  d  e  f  g  h  i  j 
+Tasks 
+Continuous  100  1                     
+Assessment 
+(COMP4911) 
+Continuous  100  2                     
+Assessment 
+(COMP4912) 
+ 
+ 
+Last update in April 2015 Explanation of the appropriateness of the assessment methods 
+in assessing the intended learning outcomes: 
+The  capstone  project  will  be  evaluated  by  an  assessment 
+panel, of which the supervisor is an ex officio member. The 
+supervisor is expected to contribute to 30 % of the total grade 
+in the first semester and 60% of the total grade in the second 
+semester. Attributes to be assessed include, but not limited to, 
+Problem Identification, Problem Solving, Communication and 
+Presentation, Project Management, and Self-Discipline. 
+ 
+Additional moderation might be required on the projects. This 
+could take the form of a judging (and arbitration) panel to 
+consider all projects with high and low grades for fairness and 
+quality assurance for their final grades, and to recommend 
+best project award candidates. The judging panel also helps to 
+resolve any disagreement among members in the assessment 
+panel. Some other projects may also be moderated so as to 
+even out any undue differences. 
+ 
+Student study effort  Class Contact: 
+expected  Seminars/Presentations/Class Activities  [26] hours 
+(COMP4911 only) 
+Other student study effort: 
+Searching  and  reading  materials,  attending  214  hours 
+seminars,  meeting  with  supervisor  /  other  for  two 
+students, design, program development, testing,  semesters 
+documentation, presentation etc. 
+(for both COMP4911 & COMP4912) 
+Total student study effort (for two semesters)  240 hours 
+Reading list and  Reference Books: 
+references  1.  Kumar, R. Research Methodology: A Step-by-step Guide 
+for Beginners, Third Edition, SAGE Publications, 2011. 
+2.  Burns,  R.B.  Introduction  to  Research  Methods,  Fourth 
+Edition, SAGE Publications, 2000. 
+3.  Roberts, C.M. The Dissertation Journey: A Practical and 
+Comprehensive  Guide  to  Planning,  Writing,  and 
+Defending  Your  Dissertation,  Second  Edition,  Corwin 
+Press, 2010. 
+4.  Mauch, J.E., Park, N. Guide to the Successful Thesis and 
+Dissertation: A Handbook for Students and Faculty, Fifth 
+Edition, Marcel Dekker, 2003. 
+5.  Rudestam,  K.E.,  Newton,  R.R.  Surviving  Your 
+Dissertation:  A  Comprehensive  Guide  to  Content  and 
+Process, Third Edition, Sage Publications, 2007. 
+6.  Garson, G.D. Guide to Writing Empirical Papers, Theses 
+and Dissertations, Marcel Dekker, 2002. 
+Last update in April 2015 7.  Oshima, A. Writing Academic English, Fourth Edition, 
+Pearson Longman, 2006. 
+8.  APA. Publication Manual of The American Psychological 
+Association,  Sixth  Edition,  American  Psychological 
+Association, 2010. 
+9.  Szuchman,  L.T.  Writing  with  Style:  APA  Style  Made 
+Easy, Fifth Edition, Wadsworth/Cengage Learning, 2011. 
+10. Statistics, simulation, programming, and relevant books. 
+11. ACM and IEEE magazines, Transactions and Journals. 
+12. Other International Journals. 
+13. Relevant  conference  proceedings  and  magazines 
+(including ACM and IEEE conferences). 
+14. Technical reports from universities and major companies. 
+ 
+Last update in April 2015 

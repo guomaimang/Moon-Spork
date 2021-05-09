@@ -1,0 +1,113 @@
+Subject Description Form 
+ 
+Subject Code  COMP4432 
+Subject Title  Machine Learning 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Nil (but students are preferred to have some previous exposure to introductory 
+Co-requisite /  Artificial Intelligence/Data Analytics concepts and be familiar with basic notions in 
+Exclusion  linear algebra and probability) 
+Objectives  The objectives of this subject are to: 
+  present the basic principles, concepts and models of modern machine learning; 
+and  
+  introduce  recent  advances  of  machine  learning  technology  with  impactful 
+applications in pattern recognition, computer vision and other areas. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  (a)  understand the major concepts of machine learning models and algorithms; 
+(b)  develop basic intuitions into the effectiveness of machine learning techniques; 
+(c)  gain knowledge of applying machine learning techniques to various cutting-
+edge applications; and 
+(d)  design  machine  learning  solutions  to  solve  new  challenging  problems  in 
+practice. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Part I: Machine Learning Fundamentals  
+Syllabus 
+  Linear algebra and probability 
+  Numerical computation and optimization 
+  Learning tasks: Regression, classification, etc. 
+  Performance  issues:  Cross-validation,  Overfitting  and  curse  of 
+dimensionality, Bias-variance dilemma, etc. 
+Dec 2018 2.  Part II: Models and Techniques  
+  Supervised learning: 
+o  Parametric vs non-parametric methods 
+o  Decision tree based methods 
+o  Bayesian models 
+o  Neural networks and support vector machines 
+  Unsupervised learning: 
+o  k-means and hierarchical clustering 
+o  Spectral clustering and density-based clustering 
+o  Advanced models: autoencoder, embedding techniques, etc. 
+  Regression and boosting 
+  Feature selection and dimensionality reduction 
+3.  Part III: Applications  
+  Handwriting recognition challenge, e.g. MNIST 
+  Object detection, recognition and tracking 
+o  Object feature descriptions: Engineering approach vs feature learning 
+approach 
+o  Object detection examples, e.g. pixel clustering for face detection, 
+etc. 
+o  Object  recognition  examples, e.g. face  recognition  via eigenface 
+features 
+o  Object tracking examples, e.g. human motion tracking 
+ 
+Teaching/  39 hours of class activities including lectures on the main concepts and models, 
+Learning  together  with  applicational  case  studies,  tutorials  and  class/group  discussions, 
+Methodology  laboratory works and student presentations. Additional reading of research papers 
+will be assigned, whenever appropriate. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d   
+Outcomes 
+Continuous Assessment           
+1. Assignments           
+55% 
+2. Tests/Quizzes           
+3. Project           
+Examination  45%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Assignment: After-class assessment of the continuous understanding of the concepts, 
+issues, models and applications of machine learning techniques by providing answers 
+to given questions. 
+Dec 2018 Test/Quiz: In-class assessment of the understanding of the concept, issues, models 
+and applications of machine learning techniques by providing answers to given 
+questions. 
+Project: Assessment of problem solving ability in dealing with practical application 
+problems by written reports and oral presentations. 
+End-of-term  Assessment:  Assessment  of  the  overall  performance  by  a  written 
+examination.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture/Tutorial/Lab  39 Hrs. 
+Other student study effort: 
+  Self-study  83 Hrs. 
+Total student study effort   122 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Hastie,  T.,  Tibshirani,  R.  and  Friedman,  J.,  The  Elements  of  Statistical 
+Learning, 2nd Edition, Springer, 2009. 
+2.  Shalev-Shwartz, S. and Ben-David, S., Understanding Machine Learning: 
+From Theory to Algorithms, 2014. 
+3.  Bousquet,  O.,  Boucheron,  S.  and  Lugosi,  G.,  Introduction  to  Statistical 
+Learning Theory, Advanced Lectures on Machine Learning. 
+4.  Mohri, M., Rostamizadeh, A. and Talwalkar, A., Foundations of Machine 
+Learning. USA, Massachusetts: MIT Press, 2012.  
+5.  Vapnik, V. N., The Nature of Statistical Learning Theory. Springer, 2000. 
+6.  Bishop, Christopher, Pattern Recognition and Machine Learning, Springer, 
+2006. 
+7.  To be amended and updated at the beginning of the semester. 
+ 
+Dec 2018 

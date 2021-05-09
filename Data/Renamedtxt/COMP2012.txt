@@ -1,0 +1,97 @@
+Subject Description Form 
+ 
+Subject Code  COMP2012 
+Subject Title  Discrete Mathematics 
+Credit Value  3 
+Level  2 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  introduce students to the concepts and applications of discrete mathematical 
+structures; and 
+  help students attain the fundamental mathematical knowledge and reasoning 
+skills they need to be successful in upper-level computing subjects. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  (a)  apply discrete structures knowledge and skills to solve real world problems 
+using computers; 
+(b)  understand the major mathematical knowledge in computer systems; 
+(c)  apply the computer programming techniques to solve practical engineering 
+problems; 
+(d)  acquire mathematical knowledge and skills required to further study other more 
+advanced computing-related subjects; and 
+(e)  relate learned mathematical knowledge to other computing subjects. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Set, Relations and Functions 
+Syllabus 
+Sets, relations and functions, equivalence, cardinality, order relations. 
+2.   Propositional and Predicate Logic 
+Logical expressions; truth tables; tautologies; formal reasoning; predicates; 
+quantifiers; proof system; soundness and completeness. 
+3.  Discrete Mathematical Skills 
+Mathematical induction; counting techniques; inclusion-exclusion principle; 
+pigeonhole principle. 
+Dec 2018 4.  Graphs and Trees 
+Graph, digraph, isomorphism; connectivity; Euler and Hamilton path; shortest 
+path  problems;  planar  graphs;  graph  coloring;  trees  and  tree  traversal; 
+spanning trees and minimum spanning trees; decision tree and isomorphism 
+of tree. 
+5.  Basic Network Problems 
+Network  flows;  maximal-flow  minimum-cut  problem;  minimal-cost  flow 
+problem; applications, e.g., network design, transportation problem. 
+6.  Boolean Algebras and Combinatorial Circuits 
+Combinatorial circuits and its properties, Boolean algebras, Boolean functions 
+and synthesis of circuits. 
+ 
+Teaching/  A mix of lectures and tutorial sessions is used to deliver the various topics in this 
+Learning  subject.  Lectures are conducted to initiate students with the discrete structures 
+Methodology  concepts  and knowledge that are reinforced by  in-class exercises and quizzes. 
+Tutorial sessions are used to provide more opportunity to understand solutions to the 
+mathematical problems and to gain hands-on experience on solving real world 
+problems by applying learned mathematical knowledge and computing skills. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment           
+1. Assignments           
+60% 
+2. Exercises           
+3. Quizzes           
+Examination  40%           
+Total   100%   
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+  Tutorial  13 Hrs. 
+Other student study effort: 
+  Assignments, Quizzes, Projects, Self-study  66 Hrs. 
+Total student study effort   105 Hrs. 
+Dec 2018 Reading List  Textbook: 
+and References 
+1.  Johnsonbaugh, R., Discrete Mathematics, 8th Edition, Prentice Hall, 2017. 
+2.  Rosen, K.H., Discrete Mathematics and Its Applications, 8th Edition, McGraw 
+Hill, 2019. 
+3.  Dossey, J.A., Discrete Mathematics, 5th Edition, Pearson Addison Wesley, 
+2006. 
+Reference Books: 
+1.  Truss, J.K., Discrete Mathematics for Computer Scientists, Pearson Addison-
+Welsey, 2011. 
+2.  Kolman, B., Busby, R.C. and Ross, S.C., Discrete Mathematical Structures, 6th 
+Edition, Prentice Hall, 2009. 
+3.  Ralph  P.G.,  Discrete  and  Combinatorial  Mathematics:  An  Applied 
+Introduction, 5th Edition, Pearson Addison Wesley, 2004. 
+ 
+Dec 2018 

@@ -1,0 +1,95 @@
+Subject Description Form 
+ 
+Subject Code  COMP4512 
+Subject Title  Intellectual Property Protection and Management 
+Credit Value  3 
+Level  4 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  introduce to students the management and protection of intellectual property in 
+this  knowledge-based  society  from  the  legal,  technical  and  business 
+prospective, with emphasis on the technical prospective; 
+  equip students with knowledge of value of innovation and value of protection; 
+and 
+  introduce to students various techniques for digital right management. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/Academic Knowledge and Skills 
+(a)  understand the value of intellectual property and their protection; 
+(b)  understand various measures in the protection of digital content; and 
+(c)  use current technologies and tools for the practice of software protection. 
+Attributes for All-Roundness 
+(d)  recognise the need for continuing development; and 
+(e)  have  an  understanding  of  professional,  ethical  and  legal  issues  and 
+responsibilities in the use of digital content. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Overview of Intellectual Property Protection and Management 
+Syllabus 
+IP management prospective: legal, business and technical; IP acquisition: 
+purchase, JV, strategic alliances, licenses, patent pooling; the value of IP in 
+business  strategy;  the  law  (Copyright  Acts)  and  economics  governing 
+intellectual property protection (secrecy and patent), the use of I.P. in the 
+digital content industry. 
+2.  Intellectual Property Protection 
+Copyright, related rights; trademarks and patents; problem of IP theft and their 
+solutions. 
+3.  Digital Right Management 
+Digital rights management in different scenarios including computer software, 
+documents,  e-books,  films,  music  and  television.  Also  include  different 
+generations of DRM software and their limitations. 
+4.  Common DRM Techniques 
+Restrictive  Licensing Agreements; Software Obfuscation and Encryption; 
+trusted  hardware/  trusted  computing;  reverse  engineering;  digital 
+watermarking; steganography; traitor-tracing techniques in encryption. 
+5.  Optional Topics  
+Opposition to DRM; Alternatives to DRM; DRM system in practice (Adobe 
+Adept DRM, Apple FairPlay, Ubisoft Uplay, etc.). 
+ 
+Teaching/  During the lectures, students will come across the common concepts and theories. 
+Learning  Those concepts and theories would be further explained with reference to case 
+Methodology  studies in the tutorials. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment  55%           
+Examination  45%           
+Total   100%   
+Types  of  assessments  included  assignments,  project,  test  and  examination. 
+Assignments are designed to reinforce the concepts and theories learned in the 
+lecture, by solving bigger problems. Project is used to develop students’ analytic and 
+problem solving skills by developing a study report. Test and examination are used 
+to assess independent problem solving and critical thinking skills.
+ 
+Dec 2018 Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+Other student study effort: 
+  Assignments, Project, Self-study, Test and Exam 
+66 Hrs. 
+Preparation 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Bouchoux,  Deborah  E.,  Intellectual  Property:  The  Law  of  Trademarks, 
+Copyrights, Patents, and Trade Secrets, 4th Edition, Cengage, 2013. 
+2.  European Union Intellectual Property Office. 
+https://euipo.europa.eu/knowledge/course/view.php?id=1738 
+3.  Halt Jr., G.B., Donch Jr., J.C., Stiles, A.R. and Fesnak, R., Intellectual Property 
+in Consumer Electronics, Software and Technology Startups, Springer, 2014. 
+4.  WIPO - World Intellectual Property Organization 
+http://www.wipo.int 
+ 
+Dec 2018 
