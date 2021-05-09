@@ -42,7 +42,7 @@ map<string,int> WordToID(Dictionary *words) {
     }
     return hashTable;
 }
-/* Test Function
+
 int main() {
     Dictionary *dict=LoadDictionary();
     map<string,int> wordHashTable=WordToID(dict);
@@ -56,8 +56,12 @@ int main() {
         else {
             cout << "Cannot find the ID of "<<*it<<endl;
         }
-        
+        set<int> contentset;
+        contentset=dict[object->second].appearDoc;
+        for(set<int>::iterator it=contentset.begin() ;it!=contentset.end();it++)
+        {
+            cout<<*it<<" occurs "<<endl;
+        }
     }
     return 0;
 }
-*/

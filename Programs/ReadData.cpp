@@ -7,7 +7,7 @@ It can read the files and process it in memory for future use.
 */
 #include <fstream>
 #include <iostream>
-#include <string>
+//#include <string>
 #include <map>
 //Use this MIT license third-party header to process json files
 #include "../ThirdPartyHeaders/json.hpp"
@@ -60,15 +60,23 @@ Course* ReadData() {
     //Return the array address
     return subject;
 }
-/*
+
 //Test function, which is only used to test whether ReadData function working.
 int main() {
     Course *data;
     data=ReadData();
-    for (int i=1;i<10;i++) {
-        cout<<data[i].GetCode()<<"   "<< data[i].GetID()<<endl;
-    }
+    int id=34;
+    int wordid=11;
+    cout<<data[id].GetID()<<" has the subject code "<<data[id].GetCode()<<endl;
+    map<string,int> title,content;
+    title=data[id].GetTitleMap();
+    content=data[id].GetContent();
+    cout<<"wordid "<<wordid<<" appeared "<<title[to_string(wordid)]<<" times in title"<<endl;
+    cout<<"wordid "<<wordid<<" appeared "<<content[to_string(wordid)]<<" times in content"<<endl;
+    //for (int i=1;i<10;i++) {
+    //    cout<<data[i].GetCode()<<"   "<< data[i].GetID()<<endl;
+    //}
     delete[] data;
     return 0;
 }
-*/
+
