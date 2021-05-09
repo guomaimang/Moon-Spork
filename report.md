@@ -28,7 +28,7 @@ We referenced the algorithm of `ElasticSearch`, which is powerful, open-source a
 
 The main idea of this algorithm is using dictionary to search for the data. Firstly, users' input will be cleaned, which means that the special characters, numbers, punctuations will be removed, and uppercase letters will be transformed to lowercase letters. By doing these, users input will be transformed to snippets which only contain lowercase alphabet, and it will be very helpful for further matching.
 
-Then, the word snippets will be translated to word ID with a black-red tree dictionary. Black-red tree is a advanced self-balanced binary search tree, and the time complexity is
+Then, the word snippets will be translated to word ID with a black-red tree dictionary. Black-red tree is a advanced self-balanced binary search tree, and the time complexity is O(log n), which can shorten the searching time significantly. 
 ### Data Structure
 ### Program Design
 ### Data Process

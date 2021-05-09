@@ -36,7 +36,7 @@ Course* ReadData() {
     Course *subject = new Course[count]();
     for (int i=0;i<count;i++) {
         //Add the relative path
-        string jsonName="./Data/pre-processed/";
+        string jsonName="./Data/pre-processed2/";
         json fileData;
         jsonName+=fileName[i];
         //Open and read the file
@@ -60,13 +60,13 @@ Course* ReadData() {
     //Return the array address
     return subject;
 }
-/* 
+/*
 //Test function, which is only used to test whether ReadData function working.
 int main() {
     Course *data;
     data=ReadData();
     for (int i=1;i<10;i++) {
-        cout<<data[i].GetTitle()<<endl;
+        cout<<data[i].GetCode()<<"   "<< data[i].GetID()<<endl;
     }
     delete[] data;
     return 0;
