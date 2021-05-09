@@ -59,7 +59,7 @@ void DisplayResult(float* scores){
     
     int input;
     do{
-    cout<<"Enter the result number to show details(the number should between 1 and 81)";
+    cout<<"Enter the result number to show details(the number should between 1 and 81): ";
     cin>>input;
     }while(input<1 || input>81);
     cout<<endl;
