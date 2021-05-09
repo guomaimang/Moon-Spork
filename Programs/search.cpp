@@ -1,7 +1,8 @@
 //
 // Created by 韩佳明 on 2021/5/8.
 //
-
+#include "dictionary.h"
+#include "course.h"
 #include <iostream>
 using namespace std;
 
@@ -12,13 +13,13 @@ string* inword(){
     return test1;
 }
 
-int query_word_times(int id){
+int query_word_times(int word_id, int doc_id){
     int point = 0;
     // query if word_id is a title, need be filled with
     bool is_title = false;
 
     //TEST-BLOCK
-    if (id == 7 or id == 9)
+    if (doc_id == 7 or doc_id == 9)
         point =  5;
     else{
         point =  1;
@@ -32,6 +33,9 @@ int query_word_times(int id){
 
 }
 
+int query_wordid(string word){
+    return 0;
+};
 
 int main() {
 
@@ -60,6 +64,7 @@ int main() {
     for(int i = 0; i< target_length;i++){
 
         // query field,need to be filled with
+        int wordid = query_wordid(target[i]);
         int temp_array[81] = {};
         field_id[i] = temp_array;
 
@@ -68,8 +73,8 @@ int main() {
 
         // calculate point1: title *100 and content *5
         for(int g = 0;g < field_length;g++){
-             int id = temp_array[g];
-             point[id] = point[id]*query_word_times(id);
+             int docid = temp_array[g];
+             point[docid] = point[docid] * query_word_times(wordid,docid);
          }
 
     }
@@ -85,4 +90,3 @@ int main() {
 
     return 0;
 }
-
