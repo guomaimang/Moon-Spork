@@ -60,7 +60,7 @@ Course* ReadData() {
     //Return the array address
     return subject;
 }
-
+/*
 //Test function, which is only used to test whether ReadData function working.
 int main() {
     Course *data;
@@ -71,3 +71,4 @@ int main() {
     delete[] data;
     return 0;
 }
+*/
