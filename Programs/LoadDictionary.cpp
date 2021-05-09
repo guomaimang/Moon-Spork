@@ -42,12 +42,13 @@ map<string,int> WordToID(Dictionary *words) {
     }
     return hashTable;
 }
-/* Test Function
+
+
 int main() {
     Dictionary *dict=LoadDictionary();
     map<string,int> wordHashTable=WordToID(dict);
     vector<string> testWords={"expected","value","principles","testforfailtofindtheword"};
-    map<string,int> ::iterator object;;
+    map<string,int> ::iterator object;
     for (std::vector<string>::iterator it = testWords.begin(); it != testWords.end(); ++it) {
         object=wordHashTable.find(*it);
         if (object!=wordHashTable.end()) {
@@ -60,4 +61,3 @@ int main() {
     }
     return 0;
 }
-*/
