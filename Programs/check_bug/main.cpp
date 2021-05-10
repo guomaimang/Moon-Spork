@@ -149,7 +149,7 @@ int query_word_times(bool is_title, int word_id, int doc_id){
 int main() {
 
     // get the string array
-    string target[50] = {"ragsadgfdsghts"};
+    string target[50] = {"comp1411"};
 
     // get the length of string array without empty
     int target_length = 0;
@@ -213,7 +213,7 @@ int main() {
         for(int & g : title_array){
             title_array[g] = -1;
         }
-        set<int> titleSet=dict[wordid].appearDoc;
+        set<int> titleSet=dict[wordid].appearTitle;
         int title_array_count=0;
         for(int it : titleSet){
             title_array[title_array_count]=it;
