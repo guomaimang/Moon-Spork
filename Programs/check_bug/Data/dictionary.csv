@@ -2537,12 +2537,12 @@ parties,2,2534
 proceed,2,2535
 computable,1,2536
 wilsonville,1,2537
-COMP1001,1,2538
+comp1001,1,2538
 dictionaries,1,2539
 bottom,1,2540
 lecturelabtutorials,1,2541
 copy,1,2542
-COMP1002,1,2543
+comp1002,1,2543
 polytechnic,1,2544
 carefully,1,2545
 extrapolate,1,2546
@@ -2560,7 +2560,7 @@ pearsonprentice,1,2557
 weinberg,1,2558
 abramowitz,1,2559
 integrative,1,2560
-COMP1003,1,2561
+comp1003,1,2561
 repetition,1,2562
 correctness,1,2563
 prata,1,2564
@@ -2569,7 +2569,7 @@ ritchie,1,2566
 spraul,1,2567
 anton,1,2568
 starch,1,2569
-COMP1011,1,2570
+comp1011,1,2570
 constituting,1,2571
 interplay,1,2572
 composed,1,2573
@@ -2591,7 +2591,7 @@ bartlett,1,2588
 bryant,1,2589
 randal,1,2590
 ohallaron,1,2591
-COMP1411,1,2592
+comp1411,1,2592
 manipulate,1,2593
 visualize,1,2594
 defining,1,2595
@@ -2611,7 +2611,7 @@ grolemund,1,2608
 vandenberghe,1,2609
 stewart,1,2610
 transcendentals,1,2611
-COMP1433,1,2612
+comp1433,1,2612
 inspire,1,2613
 desirable,1,2614
 enthusiasm,1,2615
@@ -2668,7 +2668,7 @@ whiteside,1,2665
 absolute,1,2666
 beginner,1,2667
 tyler,1,2668
-COMP1901,1,2669
+comp1901,1,2669
 formed,1,2670
 evolved,1,2671
 fantastic,1,2672
@@ -2714,7 +2714,7 @@ jackson,1,2711
 feel,1,2712
 furht,1,2713
 cidetwork,1,2714
-COMP1B02,1,2715
+comp1B02,1,2715
 joining,1,2716
 wto,1,2717
 expand,1,2718
@@ -2776,7 +2776,7 @@ jui,1,2773
 keming,1,2774
 ashgate,1,2775
 csr,1,2776
-COMP1B03,1,2777
+comp1B03,1,2777
 combines,1,2778
 freshman,1,2779
 noncomputing,1,2780
@@ -2810,7 +2810,7 @@ welch,1,2807
 gestures,1,2808
 voices,1,2809
 ste,1,2810
-COMP1D04,1,2811
+comp1D04,1,2811
 strengths,1,2812
 weaknesses,1,2813
 employ,1,2814
@@ -2830,7 +2830,7 @@ roberto,1,2827
 goldwasser,1,2828
 sedgewick,1,2829
 wayne,1,2830
-COMP2011,1,2831
+comp2011,1,2831
 upperlevel,1,2832
 cardinality,1,2833
 propositional,1,2834
@@ -2863,7 +2863,7 @@ welsey,1,2860
 kolman,1,2861
 busby,1,2862
 ralph,1,2863
-COMP2012,1,2864
+comp2012,1,2864
 streamline,1,2865
 cooperate,1,2866
 objectbased,1,2867
@@ -2887,7 +2887,7 @@ sierra,1,2884
 head,1,2885
 bloch,1,2886
 joshua,1,2887
-COMP2021,1,2888
+comp2021,1,2888
 quickly,1,2889
 arising,1,2890
 larger,1,2891
@@ -2925,7 +2925,7 @@ roger,1,2922
 peng,1,2923
 exploratory,1,2924
 leanpub,1,2925
-COMP2022,1,2926
+comp2022,1,2926
 organisational,1,2927
 intranetworked,1,2928
 internetworked,1,2929
@@ -2947,12 +2947,12 @@ obrien,1,2944
 marakas,1,2945
 managerial,1,2946
 bhasker,1,2947
-COMP2121,1,2948
+comp2121,1,2948
 envisioning,1,2949
 participatory,1,2950
 www,1,2951
 minicases,1,2952
-COMP2222,1,2953
+comp2222,1,2953
 layering,1,2954
 osi,1,2955
 sublayer,1,2956
@@ -2973,7 +2973,7 @@ highspeed,1,2970
 internets,1,2971
 internetwork,1,2972
 sockets,1,2973
-COMP2322,1,2974
+comp2322,1,2974
 administrate,1,2975
 considerable,1,2976
 enough,1,2977
@@ -3000,7 +3000,7 @@ garciamolina,1,2997
 hector,1,2998
 widom,1,2999
 date,1,3000
-COMP2411,1,3001
+comp2411,1,3001
 clock,1,3002
 cycles,1,3003
 signed,1,3004
@@ -3042,7 +3042,7 @@ heinrich,1,3039
 joe,1,3040
 mips,1,3041
 risc,1,3042
-COMP2421,1,3043
+comp2421,1,3043
 finitestate,1,3044
 widgets,1,3045
 humans,1,3046
@@ -3056,7 +3056,7 @@ objectivec,1,3053
 jenifer,1,3054
 tidwell,1,3055
 november,1,3056
-COMP2422,1,3057
+comp2422,1,3057
 asynchronous,1,3058
 paging,1,3059
 directory,1,3060
@@ -3071,7 +3071,7 @@ dhamdhere,1,3068
 conceptbased,1,3069
 diaz,1,3070
 robbins,1,3071
-COMP2432,1,3072
+comp2432,1,3072
 compa,1,3073
 abuses,1,3074
 tension,1,3075
@@ -3136,7 +3136,7 @@ manuel,1,3133
 velasquez,1,3134
 seventh,1,3135
 hrd,1,3136
-COMP2A01,1,3137
+comp2A01,1,3137
 culturally,1,3138
 ethnically,1,3139
 distinct,1,3140
@@ -3183,7 +3183,7 @@ singlesemester,1,3180
 incomplete,1,3181
 offering,1,3182
 ilos,1,3183
-COMP2S01,1,3184
+comp2S01,1,3184
 compare,1,3185
 bigo,1,3186
 recurring,1,3187
@@ -3209,7 +3209,7 @@ utilized,1,3206
 carrano,1,3207
 walls,1,3208
 mirrors,1,3209
-COMP3011,1,3210
+comp3011,1,3210
 corequisiteexclusion,1,3211
 subroutine,1,3212
 visibility,1,3213
@@ -3240,7 +3240,7 @@ pearsonaddisonwesley,1,3237
 franklyn,1,3238
 turbak,1,3239
 sheldon,1,3240
-COMP3021,1,3241
+comp3021,1,3241
 wikis,1,3242
 credibility,1,3243
 trending,1,3244
@@ -3256,7 +3256,7 @@ wikinomics,1,3253
 duncan,1,3254
 gavin,1,3255
 laurie,1,3256
-COMP3121,1,3257
+comp3121,1,3257
 orientation,1,3258
 picture,1,3259
 pert,1,3260
@@ -3271,7 +3271,7 @@ servicesbased,1,3268
 kerzner,1,3269
 dunn,1,3270
 patternbased,1,3271
-COMP3122,1,3272
+comp3122,1,3272
 appraisal,1,3273
 bring,1,3274
 advantages,1,3275
@@ -3285,7 +3285,7 @@ kenneth,1,3282
 efraim,1,3283
 ming,1,3284
 reveals,1,3285
-COMP3131,1,3286
+comp3131,1,3286
 coprocessing,1,3287
 encoded,1,3288
 entering,1,3289
@@ -3325,7 +3325,7 @@ ewan,1,3322
 loper,1,3323
 edward,1,3324
 toolkit,1,3325
-COMP3133,1,3326
+comp3133,1,3326
 crmbased,1,3327
 initiatives,1,3328
 brand,1,3329
@@ -3363,7 +3363,7 @@ gibsont,1,3360
 leichtwels,1,3361
 bjork,1,3362
 qlikview,1,3363
-COMP3134,1,3364
+comp3134,1,3364
 accomplishment,1,3365
 componentbased,1,3366
 modelbased,1,3367
@@ -3378,7 +3378,7 @@ unified,1,3375
 bourque,1,3376
 pierre,1,3377
 dupuis,1,3378
-COMP3211,1,3379
+comp3211,1,3379
 documenting,1,3380
 cohesion,1,3381
 coupling,1,3382
@@ -3402,7 +3402,7 @@ bennet,1,3399
 mcrobb,1,3400
 ray,1,3401
 farmer,1,3402
-COMP3222,1,3403
+comp3222,1,3403
 defects,1,3404
 codebased,1,3405
 mutation,1,3406
@@ -3423,7 +3423,7 @@ jaskiel,1,3420
 nina,1,3421
 alpha,1,3422
 ltd,1,3423
-COMP3233,1,3424
+comp3233,1,3424
 execute,1,3425
 nine,1,3426
 monitor,1,3427
@@ -3443,7 +3443,7 @@ sizes,1,3440
 closeout,1,3441
 negotiation,1,3442
 institute,1,3443
-COMP3235,1,3444
+comp3235,1,3444
 browsers,1,3445
 onetime,1,3446
 passwords,1,3447
@@ -3480,7 +3480,7 @@ marcus,1,3477
 shari,1,3478
 gollmann,1,3479
 dieter,1,3480
-COMP3334,1,3481
+comp3334,1,3481
 goal,1,3482
 empowers,1,3483
 cultivating,1,3484
@@ -3504,7 +3504,7 @@ hassan,1,3501
 basta,1,3502
 zgola,1,3503
 melissa,1,3504
-COMP3335,1,3505
+comp3335,1,3505
 highlight,1,3506
 truly,1,3507
 proficient,1,3508
@@ -3537,7 +3537,7 @@ laura,1,3534
 steelman,1,3535
 andrea,1,3536
 murachs,1,3537
-COMP3421,1,3538
+comp3421,1,3538
 intuitive,1,3539
 storing,1,3540
 analysing,1,3541
@@ -3555,9 +3555,9 @@ acmmm,1,3552
 tomm,1,3553
 affective,1,3554
 tac,1,3555
-COMP3422,1,3556
+comp3422,1,3556
 webmobile,1,3557
-COMP3423,1,3558
+comp3423,1,3558
 responsive,1,3559
 shift,1,3560
 impacted,1,3561
@@ -3585,7 +3585,7 @@ stojanovic,1,3582
 enhanced,1,3583
 mar,1,3584
 poslad,1,3585
-COMP3432,1,3586
+comp3432,1,3586
 layered,1,3587
 directories,1,3588
 accessing,1,3589
@@ -3611,16 +3611,16 @@ createspace,1,3608
 corbet,1,3609
 rubini,1,3610
 kroahhartman,1,3611
-COMP3438,1,3612
+comp3438,1,3612
 junior,1,3613
-COMP3511,1,3614
+comp3511,1,3614
 prerequisitecorequisite,1,3615
 practitioner,1,3616
 audiences,1,3617
 account,1,3618
 likely,1,3619
 grow,1,3620
-COMP3512,1,3621
+comp3512,1,3621
 succeeds,1,3622
 later,1,3623
 gather,1,3624
@@ -3667,7 +3667,7 @@ ethan,1,3664
 ideabook,1,3665
 goventure,1,3666
 httpwwwgoventurenetproductsaboutideabookaspx,1,3667
-COMP3531,1,3668
+comp3531,1,3668
 contexts,1,3669
 partners,1,3670
 identified,1,3671
@@ -3691,9 +3691,9 @@ stephens,1,3688
 educating,1,3689
 americas,1,3690
 undergraduates,1,3691
-COMP3911,1,3692
-COMP3921,1,3693
-COMP3924,1,3694
+comp3911,1,3692
+comp3921,1,3693
+comp3924,1,3694
 practiced,1,3695
 arena,1,3696
 interacting,1,3697
@@ -3756,14 +3756,14 @@ irving,1,3753
 lucas,1,3754
 mcmahon,1,3755
 news,1,3756
-COMP3S02,1,3757
+comp3S02,1,3757
 electives,1,3758
 decided,1,3759
 places,1,3760
 workintegrated,1,3761
 placed,1,3762
 placements,1,3763
-COMP4000,1,3764
+comp4000,1,3764
 draft,1,3765
 businessindustrial,1,3766
 communicating,1,3767
@@ -3772,7 +3772,7 @@ offered,1,3769
 evening,1,3770
 saturdays,1,3771
 experiential,1,3772
-COMP4001,1,3773
+comp4001,1,3773
 comprehending,1,3774
 proofs,1,3775
 prove,1,3776
@@ -3790,7 +3790,7 @@ quantum,1,3787
 hopcroft,1,3788
 motwani,1,3789
 rajeev,1,3790
-COMP4011,1,3791
+comp4011,1,3791
 thoroughly,1,3792
 digest,1,3793
 ssl,1,3794
@@ -3801,7 +3801,7 @@ outland,1,3798
 furche,1,3799
 wrightson,1,3800
 moss,1,3801
-COMP4121,1,3802
+comp4121,1,3802
 mixed,1,3803
 reality,1,3804
 producing,1,3805
@@ -3852,7 +3852,7 @@ schell,1,3849
 jesse,1,3850
 art,1,3851
 lenses,1,3852
-COMP4122,1,3853
+comp4122,1,3853
 engineeringreengineering,1,3854
 buildtime,1,3855
 metamodel,1,3856
@@ -3879,7 +3879,7 @@ emerald,1,3876
 tods,1,3877
 tkde,1,3878
 cikm,1,3879
-COMP4123,1,3880
+comp4123,1,3880
 vehicle,1,3881
 route,1,3882
 bin,1,3883
@@ -3900,7 +3900,7 @@ bramel,1,3897
 ballou,1,3898
 roland,1,3899
 logisticssupply,1,3900
-COMP4125,1,3901
+comp4125,1,3901
 recap,1,3902
 graduates,1,3903
 horizon,1,3904
@@ -3924,7 +3924,7 @@ isoiso,1,3921
 whitman,1,3922
 mattord,1,3923
 herbert,1,3924
-COMP4127,1,3925
+comp4127,1,3925
 inner,1,3926
 cosine,1,3927
 expansion,1,3928
@@ -3948,7 +3948,7 @@ moffat,1,3945
 gigabytes,1,3946
 compressing,1,3947
 california,1,3948
-COMP4133,1,3949
+comp4133,1,3949
 cryptograph,1,3950
 concerned,1,3951
 stream,1,3952
@@ -3980,7 +3980,7 @@ atkins,1,3977
 proc,1,3978
 icba,1,3979
 icb,1,3980
-COMP4134,1,3981
+comp4134,1,3981
 itenabled,1,3982
 asset,1,3983
 barrier,1,3984
@@ -4002,7 +4002,7 @@ zilli,1,3999
 damiani,1,4000
 ceravolo,1,4001
 ontologybased,1,4002
-COMP4135,1,4003
+comp4135,1,4003
 uptodate,1,4004
 emerged,1,4005
 funding,1,4006
@@ -4015,7 +4015,7 @@ monetization,1,4012
 httpsenwikipediaorgwikicrowdfunding,1,4013
 brabham,1,4014
 england,1,4015
-COMP4141,1,4016
+comp4141,1,4016
 encryptions,1,4017
 elliptic,1,4018
 curve,1,4019
@@ -4047,7 +4047,7 @@ cryptocurrencies,1,4044
 omahony,1,4045
 peirce,1,4046
 tewari,1,4047
-COMP4142,1,4048
+comp4142,1,4048
 distribution,1,4049
 wacc,1,4050
 predictionforecasting,1,4051
@@ -4094,7 +4094,7 @@ futures,1,4091
 derivatives,1,4092
 mckinney,1,4093
 wes,1,4094
-COMP4146,1,4095
+comp4146,1,4095
 encompassing,1,4096
 configuring,1,4097
 wan,1,4098
@@ -4160,7 +4160,7 @@ kurose,1,4157
 andrew,1,4158
 ieeeacm,1,4159
 magazine,1,4160
-COMP4322,1,4161
+comp4322,1,4161
 detect,1,4162
 dissect,1,4163
 wep,1,4164
@@ -4216,7 +4216,7 @@ colley,1,4213
 shaun,1,4214
 whitehouse,1,4215
 ollie,1,4216
-COMP4332,1,4217
+comp4332,1,4217
 secretkey,1,4218
 oneway,1,4219
 nonrepudiation,1,4220
@@ -4248,7 +4248,7 @@ colin,1,4245
 mathuria,1,4246
 anish,1,4247
 establishment,1,4248
-COMP4334,1,4249
+comp4334,1,4249
 wellorganized,1,4250
 classmates,1,4251
 ubiquitouspervasive,1,4252
@@ -4281,7 +4281,7 @@ dharma,1,4278
 qingan,1,4279
 bfar,1,4280
 reza,1,4281
-COMP4342,1,4282
+comp4342,1,4282
 proficiency,1,4283
 enlarge,1,4284
 displays,1,4285
@@ -4320,7 +4320,7 @@ blender,1,4317
 httpsdocsblenderorgmanualenlatestindexhtml,1,4318
 hearn,1,4319
 baker,1,4320
-COMP4422,1,4321
+comp4422,1,4321
 smartphones,1,4322
 infrared,1,4323
 radars,1,4324
@@ -4347,7 +4347,7 @@ szeliski,1,4344
 gonzalez,1,4345
 rafael,1,4346
 woods,1,4347
-COMP4423,1,4348
+comp4423,1,4348
 addressed,1,4349
 multiagent,1,4350
 rooted,1,4351
@@ -4371,7 +4371,7 @@ pal,1,4368
 sankar,1,4369
 shiu,1,4370
 negnevitsky,1,4371
-COMP4431,1,4372
+comp4431,1,4372
 preferred,1,4373
 previous,1,4374
 intelligencedata,1,4375
@@ -4414,7 +4414,7 @@ rostamizadeh,1,4411
 talwalkar,1,4412
 vapnik,1,4413
 amended,1,4414
-COMP4432,1,4415
+comp4432,1,4415
 clean,1,4416
 consistent,1,4417
 repository,1,4418
@@ -4486,7 +4486,7 @@ kamber,1,4483
 micheline,1,4484
 shapiro,1,4485
 insurance,1,4486
-COMP4433,1,4487
+comp4433,1,4487
 ama,1,4488
 velocity,1,4489
 variety,1,4490
@@ -4569,7 +4569,7 @@ heer,1,4566
 bostock,1,4567
 ogievetsky,1,4568
 zoo,1,4569
-COMP4434,1,4570
+comp4434,1,4570
 measured,1,4571
 notion,1,4572
 errors,1,4573
@@ -4590,7 +4590,7 @@ faster,1,4587
 cheaper,1,4588
 musa,1,4589
 authorhouse,1,4590
-COMP4435,1,4591
+comp4435,1,4591
 qian,1,4592
 haring,1,4593
 cao,1,4594
@@ -4603,7 +4603,7 @@ cyao,1,4600
 pender,1,4601
 weekend,1,4602
 barr,1,4603
-COMP4438,1,4604
+comp4438,1,4604
 developers,1,4605
 easily,1,4606
 satisfy,1,4607
@@ -4629,7 +4629,7 @@ remoting,1,4626
 emmerich,1,4627
 tpds,1,4628
 doa,1,4629
-COMP4441,1,4630
+comp4441,1,4630
 focusing,1,4631
 underpinnings,1,4632
 led,1,4633
@@ -4664,7 +4664,7 @@ architect,1,4661
 handed,1,4662
 posted,1,4663
 lpu,1,4664
-COMP4442,1,4665
+comp4442,1,4665
 purchase,1,4666
 alliances,1,4667
 licenses,1,4668
@@ -4693,7 +4693,7 @@ union,1,4690
 httpseuipoeuropaeuknowledgecourseviewphpid,1,4691
 wipo,1,4692
 httpwwwwipoint,1,4693
-COMP4512,1,4694
+comp4512,1,4694
 polyus,1,4695
 seeks,1,4696
 states,1,4697
@@ -4734,7 +4734,7 @@ khanna,1,4731
 ayesha,1,4732
 straight,1,4733
 guides,1,4734
-COMP4531,1,4735
+comp4531,1,4735
 structured,1,4736
 physically,1,4737
 continuation,1,4738
@@ -4758,7 +4758,7 @@ sem,1,4755
 weighing,1,4756
 seminarspresentationsclass,1,4757
 attending,1,4758
-COMP4911,1,4759
+comp4911,1,4759
 supervisors,1,4760
 sponsor,1,4761
 teampartners,1,4762
@@ -4775,7 +4775,7 @@ michigan,1,4772
 hogue,1,4773
 ann,1,4774
 lenore,1,4775
-COMP4913,1,4776
+comp4913,1,4776
 calendar,1,4777
 spreads,1,4778
 curriculum,1,4779
@@ -4787,4 +4787,4 @@ rewritten,1,4784
 resubmitted,1,4785
 deemed,1,4786
 groupbased,1,4787
-COMP4921,1,4788
+comp4921,1,4788
