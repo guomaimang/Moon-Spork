@@ -1,0 +1,114 @@
+ 
+Subject Description Form 
+ 
+Subject Code  COMP3421 
+Subject Title  Web Application Design and Development 
+Credit Value  3 
+Level  3 
+Pre-requisite /  Pre-requisite: COMP1011 
+Co-requisite / 
+Exclusion   
+Objectives  The objectives of this subject are to: 
+    highlight the impact of Web in facilitating a truly distributed, wide area and 
+highly accessible computing environment; 
+  equip students with the ability to analyze, design and implement techniques 
+required to develop for the Web and Internet based business applications; and 
+  review state-of-the-art technologies such as distributed client/server computing 
+paradigm,  middleware  concepts  and  architecture,  web-based  client/server 
+computing technologies, XML, wireless and intelligent Internet computing. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  identify different components of distributed client/server on Web and Internet 
+computing; 
+(b)  understand the basic concepts of Web services and related technologies; 
+(c)  be proficient in client-side as well as server programming with related Web 
+development tools, such as Ajax and GoogleApps; 
+(d)  design, develop and implement interactive Web applications; 
+(e)  identify  different  components  of  XML  and  its  related  standards  and 
+technologies; and 
+(f)  understand latest and future Web technology, including wireless and intelligent 
+Internet computing. 
+Attributes for all-roundedness 
+(g)  communicate  effectively  in  project  /  system  presentation  and  technical 
+documents / reports; 
+(h)  learn independently for problem solving and solution seeking; 
+(i)  collaborate with other team members for project design and development, while 
+exhibiting leadership in a project team whenever designated or necessary; and 
+Dec 2018  
+(j)  think and reason in a critical and creative mind, especially in applying different 
+computing technologies to interactive Web applications. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to Distributed Client/Server Web and Internet Computing 
+Syllabus 
+Client/server evolution and its relation to Internet computing; overview of 
+  Internet services including file servers, database servers, transaction servers, 
+web servers; concepts  of two-tier versus three-tier architectures;  network 
+infrastructure and support for Web computing. 
+2.  Web-Based Client/Server Computing  
+Revolution  of  Web  as  the  intergalactic  client/server  Internet  computing 
+platform; web model. Web protocols and hypertext technology; HTTP data 
+representation  and  response;  interactive  Web-based  client/server;  Web 
+programming such as JavaScript, ASP, Java Servlets; Servlet, PHP, JSP and 
+others. 
+3.  Extensible Markup Language (XML) 
+XML introduction: XML data modeling such as DTD and XML Schema; 
+XML related standards, DOM and SAX; XML data management: Querying 
+XML data, XML data storage, and related XML tools and API, such as Ajax 
+and GoogleAPI. 
+4.  Latest and Future Web Computing 
+Recent advancement of Web technologies, Web 2.0 and Web 3.0; Introduction 
+to  wireless  Internet;  wireless  Internet  applications;  intelligent  Internet 
+computing using agent technology. 
+ 
+Teaching/  This  subject  emphasizes  the  design  and  technical  aspects  of  web  application 
+Learning  development.  It is intended to equip the student with knowledge and practical 
+Methodology   experience on how to complete a web-based application.   
+  The lectures will be used to deliver course material that will be practiced/reinforced 
+during the labs and tutorials. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f  g  h  i  j 
+Learning 
+Outcomes 
+Continuous                     
+Assessment 
+ 
+55% 
+1. Assignments,                     
+Tests & Projects 
+Examination  45%                     
+Total   100 %   
+ 
+Dec 2018  
+Student Study  Class contact: 
+Effort Expected  
+    Lectures  26 Hrs. 
+  Tutorials/Lab  13 Hrs. 
+Other student study effort: 
+  Assignments, Tests, Projects, Exams  80 Hrs. 
+Total student study effort   119 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Duckett, Jon, Web Design with HTML, CSS, JavaScript and jQuery Set, Wiley, 
+2014. 
+2.  Myers, Mark, A Smarter Way to Learn JavaScript: The new approach that uses 
+technology to cut your effort in half, Kindle Edition, 2013.  
+3.  Deitel, Paul J., Internet & World Wide Web: How to Program, 4th Edition, 
+Deitel & Associates Inc., Prentice Hall, 2008.  
+4.  Godbole, Achyut S. and Kahate, Atul, Web Technologies: TCP/IP Architecture, 
+and Java Programming, McGraw-Hill, 2009. 
+5.  Welling, Luke and Thomson, Laura, PHP and MySQL Web Development, 
+Addison-Wesley, 2008. 
+6.  Steelman, Andrea and Murach, Joel, Murach’s Java Servlets and JSP, Mike 
+Murach & Associates, 2010. 
+ 
+Dec 2018 

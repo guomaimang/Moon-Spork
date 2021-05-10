@@ -1,0 +1,88 @@
+Subject Description Form 
+ 
+Subject Code  COMP4011 
+Subject Title  Theory of Computation 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP3011 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide students with concepts in theory of computation; and 
+  develop students’ ability for comprehending mathematical proofs (in theory of 
+computation). 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  analyze and design automata and Turing machines; 
+(b)  prove basic (mathematical) results in theory of computation; and 
+(c)  demonstrate the understanding in computability, decidability, and complexity. 
+Attributes for all-roundedness 
+(d)  solve problems independently; and 
+(e)  think critically for improvement in solutions. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Automata 
+Syllabus 
+Finite automata (DFA, NFA). 
+2.  Regular Expressions and Languages 
+Regular  expressions,  conversion  between  DFA  and  regular  expressions, 
+properties of regular languages. 
+3.  Context-free Grammars and Languages 
+Context-free grammars, parse trees, ambiguity in grammars, normal forms, 
+Chomsky hierarchy. 
+4.  Pushdown Automata 
+Pushdown automata (PDA), pumping lemma, properties of PDA. 
+Dec 2018 5.  Turing Machines 
+Turing machines (TM), extensions to TM, relation to computers. 
+6.  Computability and Decidability 
+Computability, Church-Turing thesis, the halting problem, other undecidable 
+problems, technique of reduction. 
+7.  Intractable Problems 
+The classes P and NP, NP-completeness. 
+8.  Advanced Topics and Applications 
+Polynomial-space Turing machines, randomized Turing machines, primality 
+testing, cryptography, game theory, quantum computing. 
+ 
+Teaching/  Lectures  provide  students  the  main  concepts  of  the  topic,  together  with 
+Learning  comprehensive examples for easy understanding. 
+Methodology 
+Tutorial sessions offer an opportunity to students for practicing their techniques.  
+Assignments help students develop their design and analysis skills. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment           
+60% 
+1. Assignments           
+Examination  40%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Both assignments and examination are used to test students’ understanding of the 
+subject materials.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+  Tutorial  13 Hrs. 
+Other student study effort: 
+  Reading Book Chapters, Assignments  66 Hrs. 
+Total student study effort   105 Hrs. 
+Dec 2018 Reading List  Reference Book: 
+and References 
+1.  Hopcroft,  John  E.,  Motwani,  Rajeev,  Ullman,  Jeffrey  D.,  Introduction  to 
+Automata Theory, Languages, and Computation, 3rd Edition, Pearson, ISBN 
+1292039051, 2013. 
+ 
+Dec 2018 

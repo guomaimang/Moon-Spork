@@ -1,0 +1,144 @@
+Subject Description Form 
+ 
+ 
+Subject Code  COMP2A01 
+Subject Title  Whose Data is it Anyway? Information and Internet Ethics, Privacy and Security 
+Credit Value  3 
+Level  2 
+Medium of  English 
+Instruction 
+Pre-requisite and/or  Nil 
+Exclusion(s) 
+Objectives  Specific objectives of the subject:  
+ 
+ 
+This  subject  is  intended  for  all  PolyU  students  with  or  without  any  technical 
+background in Computing or IT. The objective of the subject is to give students an 
+overview  of  the  issues  surrounding  data  and  information  creation,  organization, 
+dissemination and use, and the associated ethical and moral issues, including those 
+related to ownership, access, privacy, security and community. Students will study and 
+consider ethical dilemmas, the uses and abuses of information, tension and tradeoffs 
+between information privacy, security and freedom of speech, and the meaning of 
+social responsibility in the global information security, including the concepts of 
+information justice and human rights. 
+ 
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes  a.  Identify and understand common issues associated with the acquisition and 
+use of information, including copyright protection, intellectual freedom, 
+ 
+accountability and security; 
+b.  Understand the technological challenges relevant to information protection 
+and privacy and the implications and societal consequences of technology 
+abuse; 
+c.  Understand the different issues and approaches to ethical dilemmas in using 
+information and information and communications technologies; 
+d.  Apply different ethical analysis approaches to evaluate dilemmas and practice 
+problem analysis and decision-making for ethically challenging scenarios. 
+ 
+Relationship  between  the  learning  outcomes  with  the  following  three  essential 
+features: Literacy, Higher order thinking, and Life-long learning 
+ 
+Literacy:  
+This subject will require students to do some self-study as well as to both read relevant 
+materials and to write critically about different issues in their own words and with 
+their own thinking. Students will be required to study ethically challenging scenarios, 
+and to intelligibly formulate and present problem analyses and solutions from different 
+points of view. 
+ 
+Higher-Order Thinking: 
+Learning outcomes (c) and (d) are designed to teach and to train students’ higher-order 
+thinking and problem-solving skills. Students will be required to extend basic ethical 
+concepts to analyzing and solving complex and challenging scenarios. They will be 
+required to research, contrast, present and defend controversial and conflicting points 
+of view. 
+ 
+Life-Long Learning: 
+As technology progresses and becomes ever more intrusive and ubiquitous, the 
+Last update in July 2014  1challenges associated with the ethical use of information, and the personal risks to 
+one’s own information will become more challenging and complex. The skills learned 
+in this module will enable the student to handle these challenges effectively.  
+ 
+Subject Synopsis/  1.  Ethical Traditions and Methods. Morals, Morality, Ethics, and Etiquette. Personal 
+Indicative Syllabus   Integrity, Professional Ethics and Social Responsibility.  
+ 
+2.  Philosophy of Information and Technology. Conflicts and Balance between 
+Humanity, Nature and Technology. Freedom and Privacy vs. Responsibility and 
+Security.  
+ 
+3.  Global Information Ethics. Access, Ownership, Privacy, Security, and 
+Community. Intellectual Property Rights. Internet and Social Network ethics. 
+ 
+4.  Internet Security, Risks and Safety. Basic network and Internet security. 
+Authentication and Privacy. User and provider responsibility. Security breaches 
+and vulnerabilities. Insecure networks. Phishing and scams.  
+ 
+5.  Societal impact of technology. Information leakage and reselling, identity theft, 
+computer abuse and fraud. Bittorrent and foxy. Anonymizers, Freenet, crowd 
+computing, “human flesh search engine” (人肉搜尋器).  
+ 
+Teaching/Learning  The course material will be delivered through lectures and seminars, labs and tutorials. 
+Methodology   
+Lectures and Seminars will provide the main body of the subject material and will 
+ 
+take an illustrative, example-based approach. Where appropriate, real-life case studies 
+and/or guest lectures will be used to give the subject material more relevancy to daily 
+life. 
+ 
+Lab sessions will reinforce the lecture material and make them more tangible through 
+hands-on activities related to the technological issues. Students will study, recreate 
+and experience the technological challenges pertinent to privacy and security. 
+ 
+Tutorials will provide students with the opportunity for more in-depth study and 
+interaction on the lecture materials. Students will investigate, contrast, debate and 
+present applications of lecture concepts to real-life scenarios. 
+ 
+Assessment   
+Methods in  Specific assessment  %  Intended subject learning outcomes to be 
+Alignment with  methods/tasks   weighting  assessed (Please tick as appropriate) 
+Intended Learning 
+a  b  c  d 
+Outcomes 
+Exercises, assignments  50% 
+X  X  X  X 
+and case studies. 
+Projects and  50% 
+X  X  X  X 
+Presentations 
+Total   100 %   
+ 
+Student Study 
+Class contact:   
+Effort Expected  
+  (cid:1)  Lectures  26 Hrs. 
+(cid:1)  Labs and Tutorials  13 Hrs. 
+Last update in July 2014  2Other student study effort:   
+(cid:1)  Self study  31 Hrs. 
+(cid:1)  Assignments, exercises and projects  35 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List and  o  Viega (2009), The Myths of Security: What the Computer Security Industry 
+Reference  Doesn't Want You to Know, O’Reilly 
+o  Johnson (2009), Computer Ethics, Prentice Hall (4 edition) 
+th 
+o  Quinn (2010), Ethics for the Information Age, Addison Wesley (4 edition) 
+th 
+o  Articles from International Journal of Cyber Ethics in Education (IJCEE) 
+(e.g. J. E. Williamson, “Digital Equity in Schools: An Overview of Current 
+Trends”, Jan-Mar 2011, pp. 12-24.) 
+o  Articles from Journal of Information, Communication & Ethics in Society 
+(JCES) 
+o  (e.g., J. D. Rendtorff & J. Mattsson, “Ethics in the bank internet encounter: an 
+explorative study”, 2012, pp. 36-51). 
+o  Articles from International Review of Information Ethics (e.g., Richard A. 
+Spinello, “Privacy and Social ,etwork Technology”, Dec., 2011, pp. 41-16.) 
+o  Articles from Journal of Business Ethics (e.g., Wesley Cragg & Dirk Matten, 
+“Ethics, Corporations, and Governance”, Feb. 2012.) 
+o  Michael J. Sandel (2009), Justice: What’s the Right Thing to Do?, Farrar, 
+Straus & Giroux, New York. 
+o  Charles E. Harris, Michael S. Pritchard & Michael J. Rabins (2008), 
+Engineering Ethics: Concepts and Cases, Wadsworth. 
+o  Manuel G. Velasquez (2012), Business Ethics: Concepts and Cases, Seventh 
+Edition, Pearson. 
+ 
+Remark: This subject fulfils CAR (HRD) requirement. 
+ 
+Last update in July 2014  3

@@ -1,0 +1,93 @@
+Subject Description Form 
+ 
+ 
+Subject Code  COMP1001 
+Subject Title  Problem Solving Methodology in Information Technology 
+Credit Value  3 
+Level  1 
+Pre-requisite /      Nil 
+Co-requisite/ 
+Exclusion 
+Objectives  The subject aims to equip students with no prior experience on computer 
+programming with fundamental computational and skills. In particular, the 
+  students will learn how to formulate solutions to computable problems and how 
+to implement them in a high-level programming language.  
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes 
+a.  develop computer solutions to problems of low-to-moderate complexity 
+and implement them using Python; 
+ 
+b.  acquire the basic Python programming skills to implement solutions 
+using suitable data types and constructs. 
+ 
+1.  Introduction to computational thinking 
+Subject Synopsis/ 
+  Formulating problems for computers to solve them; logically organizing 
+Indicative Syllabus  and analyzing data; representing data through abstractions; automating 
+solutions through algorithmic thinking; implementing efficient solutions; 
+  generalizing the problem-solving process 
+ 
+2.  Problem solving through Python 
+  Computing with numbers and strings; lists and files; functions; decision 
+structures; loop structures and Booleans; data collections; graphic objects 
+ 
+3.  Program design 
+  Problem analysis and specification; top-down design; bottom-up 
+implementation 
+ 
+The 39-hour lecture will cover the main concepts and ideas in solving problems 
+Teaching/Learning 
+with computers and illustrate them using many examples. The students will 
+Methodology  
+also be given time to practice those concepts and ideas right away. The 12-hour 
+laboratory will be used to mainly cover graphic objects and program design.  
+ 
+Last update in Sept 2015  
+Assessment Methods 
+Specific assessment  %  Intended subject learning outcomes to 
+in Alignment with 
+methods/tasks   weighting  be assessed (Please tick as 
+Intended Learning 
+appropriate) 
+Outcomes 
+a  b         
+  1. Continuous  55%     
+Assessment (such as 
+       
+assignments, quizzes 
+and mini-projects)  
+4. Examination  45%             
+Total   100 %   
+ 
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+ 
+Assignments and quizzes are designed to help achieve learning outcome (b), 
+whereas the two mini-projects are designed for achieving (a). 
+ 
+The examination will cover both (a) and (b). 
+ 
+Student Study  Class contact:   
+Effort Expected 
+  Lecture  39 Hrs. 
+ 
+  Tutorial  0 Hrs. 
+  Laboratory  13 Hrs. 
+Other student study effort:   
+  Self studying  53 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List and  1.  [John Zelle. 2010. Python Programming: An Introduction to Computer 
+References  Science 2nd Edition. Franklin, Beedle & Associates Inc., Wilsonville, 
+OR, USA. 
+2.  Allen B. Downey. 2014. Think Python: How to Think Like a Computer 
+Scientist. Green Tea Press. 
+3.  William F. Punch and Richard Enbody. 2012. The Practice of 
+Computing Using Python 2nd Edition. Addison Wesley. 
+4.  Paul Gries, Jennifer Campbell, and Jason Montojo. 2013. Practical 
+Programming: An Introduction to Computer Science Using Python 3. 
+Pragmatic Bookshelf. 
+5.  R. G. Dromey. How to Solve It by Computer. 1982. Prentice-Hall 
+International, Englewood Cliffs, NJ, USA. 
+ 
+ 
+Last update in Sept 2015 

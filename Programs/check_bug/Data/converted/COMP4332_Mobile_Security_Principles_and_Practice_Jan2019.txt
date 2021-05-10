@@ -1,0 +1,142 @@
+Subject Description Form 
+ 
+Subject Code  COMP4332 
+Subject Title  Mobile Security: Principles and Practice 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP1011 and COMP2322 and COMP2432/COMP1411 and 
+Co-requisite /  COMP3334 
+Exclusion 
+Objectives  To equip students with a foundational understanding of mobile security and practical 
+skills  of  handling  security  issues  in  mobile  communications.  Students  will  be 
+  equipped to: 
+  describe the concepts and principles of mobile security; 
+  understand the security architecture and threat model of mobile networks; 
+  explain the security models of popular mobile operating systems, applications, 
+and services; 
+  analyze the threats to popular mobile operating systems, applications, and 
+services; and 
+  develop practical skills to detect attacks, to assess the security risk of mobile 
+applications and services, and to analyze mobile malware. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  understand the security architectures of cellular networks and WiFi networks 
+along with the major threats in mobile communication; 
+(b)  explain the security model of the Android system, iOS systems, and their 
+applications; 
+(c)  analyze Android applications, evaluate the threats to them, and dissect malware; 
+and 
+(d)  identify major security and privacy issues in popular mobile services and 
+applications. 
+Attributes for all-roundedness 
+(e)  acquire critical thinking and analytical skills, and improve technical writing as 
+well as presentation skills. 
+Jan 2019  
+Subject 
+Duration of 
+Synopsis/  Topic 
+Lectures 
+Indicative 
+Syllabus  1.  Overview of Mobile Communication and its Security  2 
+  Mobile  communication  concepts,    Security  goals,  types  of 
+attacks, threat models, and review of basic cryptography. 
+2.  Cellular Networks Security  4 
+Access control and authentication in cellular networks, 3G/4G 
+networks and their security architectures, attacks on 3G/4G 
+networks.  
+3.  WiFi Network Security   
+802.11 protocols, WEP, WPA/WPA2, WiFi network attacks 
+and threat assessment. 
+4.  Android Security  8 
+Android  system,  Android  security  model,  Android  apps 
+analysis,  Android  application  reverse  engineering  and 
+monitoring, Android apps threat assessment. 
+5.  iOS Security  2 
+iOS system, iOS security model, iOS application analysis. 
+6.  Mobile Malware  4 
+Taxonomy  of  mobile  malware,  mobile  malware  detection, 
+static analysis of mobile malware, dynamic analysis of mobile 
+malware. 
+7.  Selected Topics on Mobile Security  4 
+Advanced or current topics on mobile security, such as Near 
+field communication security, mobile device management and 
+BYOD. 
+Total  26 
+ 
+Teaching/  The course will be delivered as a combination of lectures, tutorials, labs, workshops, 
+Learning  and class project. The course will emphasize on both the principles and practices of 
+Methodology   mobile security. The principles will be covered mainly through the lectures and the 
+tutorials, whereas the practice aspects will be taught through labs and workshops. 
+  The class project will help students reinforce what they have learnt, including both 
+principles and practical skills. 
+Jan 2019  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e 
+Learning 
+Outcomes 
+Continuous           
+100% 
+Assessment 
+ 
+1. Assignments  25%           
+2. Term Project  30%           
+3. Examination  45%           
+4. Tutorial/Lab             
+5. Workshops             
+Total   100 %   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes:  
+Continuous  assessments  consist  of  assignments  and  a  term  project,  which  are 
+designed to facilitate students to achieve intended learning outcomes. Despite not 
+being  assigned  with  an  assessment  weighting,  lab  exercise  and  workshop  are 
+designed  to  encourage  students  to  acquire  deep  understanding  of  the  relevant 
+knowledge  
+Examination will evaluate student’s understanding and practical skills of security 
+issues in mobile communications. 
+Student Study  Class contact: 
+Effort Expected  
+  Lectures  26 Hrs. 
+ 
+  Tutorials/Lab/Workshops  13 Hrs. 
+Other student study effort: 
+  Assignment and Term Project  40 Hrs. 
+  Self-Study and Examination Preparation  39 Hrs. 
+Total student study effort   118 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Boudriga,  Noureddine,  Security  of  Mobile  Communications,  Auerbach 
+Publications, 2010. 
+2.  Dubey, Abhishek and Misra, Anmol, Android Security: Attacks and Defenses, 
+Auerbach Publications, 2013. 
+Jan 2019 3.  Dwivedi,  Himanshu,  Clark,  Chris  and  Thiel,  David,  Mobile  Application 
+Security, McGraw-Hill Osborne Media, 2010. 
+4.  Miller, Charlie, Blazakis, Dion, DaiZovi, Dino, Esser, Stefan, Iozzo, Vincenzo 
+and Weinmann, Ralf-Philipp, iOS Hacker’s Handbook, Wiley, 2012 
+5.  Traynor,  Patrick,  McDaniel,  Patrick  and  La  Porta,  Thomas,  Security  for 
+Telecommunications Networks, Springer, 2008. 
+6.  Kaufman, Charlie, Perlman, Radia and Speciner, Mike, Network Security: 
+Private Communication in a Public World, Prentice Hall, 2002. 
+7.  Forsberg, Dan, Horn, Günther, Moeller, Wolf-Dietrich and Niemi, Valtteri, LTE 
+Security, Wiley, 2012. 
+8.  Buttyán,  Levente  and  Hubaux,  Jean-Pierre,  Security  and  Cooperation  in 
+Wireless Networks, Cambridge University Press, 2008. 
+9.  Proceedings of IEEE Symposium on Security and Privacy 
+10.  Proceedings of USENIX Security Symposium 
+11.  Proceedings of ISOC Network and Distributed System Security Symposium 
+12.  Proceedings of ACM Conference on Computer and Communications Security 
+13.  Proceedings of IEEE/IFIP International Conference on Dependable Systems 
+and Networks 
+14.  Proceedings of European Symposium on Research in Computer Security 
+15.  Proceedings of International Symposium on Research in Attacks, Intrusions and 
+Defenses 
+16.  Proceedings of Annual Computer Security Applications Conference 
+17.  Chell, Dominic, Erasmus, Tyrone, Colley, Shaun and Whitehouse, Ollie, The 
+Mobile Application Hacker’s Handbook, 1st Edition, Wiley, 2015. 
+ 
+Jan 2019 
