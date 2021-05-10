@@ -149,7 +149,7 @@ int query_word_times(bool is_title, int word_id, int doc_id){
 int main() {
 
     // get the string array
-    string target[50] = {"computer","organization"};
+    string target[50] = {"ragsadgfdsghts"};
 
     // get the length of string array without empty
     int target_length = 0;
@@ -159,15 +159,22 @@ int main() {
         }
         target_length += 1;
     }
+    cout<<target_length<<endl;
 
     // word to word_id
     int target_id[50] = {};
+    for (int i=0;i<50;i++) target_id[i]=-1;
     Dictionary *dict=LoadDictionary(); //
     map<string,int> wordHashTable=WordToID(dict);
     map<string,int> ::iterator object;
     for(int i = 0;i<target_length;i++){
         object=wordHashTable.find(target[i]);
-        target_id[i] = object->second;
+        if(object!=wordHashTable.end()) {
+            target_id[i] = object->second;
+        }
+        else {
+            target_id[i] = -1;
+        }
     }
 
     // init the point = 1
@@ -178,8 +185,10 @@ int main() {
 
     // For each wordid, calculate points
     for(int i = 0; i< target_length;i++){
+        
         //get wordid
         int wordid = target_id[i];
+        if (wordid==-1) continue;
 
         // get the content_field of word
         int content_array[81] = {};
