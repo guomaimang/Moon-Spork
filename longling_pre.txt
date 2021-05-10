@@ -1,0 +1,17 @@
+1	Introduction
+Hello, we are group 8, and our option is option3. 
+Our project is to design a searching engine. In the 21st century, 
+there is huge amount of data created. We, the creator of data, also need to use data created by other people. 
+Just like to find a book from a large library, almost everyone needs to find the information 
+they need in large amount of information. But how to find? There are already numerous existing searching tools nowadays. 
+For example, when we need to find a specific syntax, we simply type “How to create a class in C++” 
+in the google search engine and then there will be thousands of related information in the webpage. 
+But in our design, we integrate what we have learned so far and our creativity to build a searching engine 
+specially use for our study, for you, for me, for all the student in PolyU.  By using our searching engine, 
+you can find the course you want in the fastest way.
+2	Usage 
+First let me introduce how to use this program. It is very convenient, just like you search on Google. 
+You just need to type keywords, for example “COMP1011” and our program will automatically find 
+all subjects related to “comp1011” to you. Then, you can choose to view the details and download 
+the subject description form in PDF format. Meanwhile, you can know the relation index of subjects, 
+which show you how relative to your keywords, and help you find the one you want as much as possible.
