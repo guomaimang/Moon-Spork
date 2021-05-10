@@ -4,13 +4,9 @@ We try to break through important issues in search field ——speed.
 
 In the preview, we embedded Elasticsearch into the commercial project of cloud service. 
 
-Based on Elasticsearch as the underlying data framework, it provides real-time statistical query with a large amount of data about 100 million with the fastest speed in the world.
+In actual project, we need to consider scalability and application scenarios.
 
-In actual project, we also need to consider scalability and application scenarios.
-
-Combined with the usage, we not only created  original search algorithm, but also improved  ElasticSearch to make it more suitable for our needs. 
-
-At the same time, it retains a lot of expandability.
+Combined with the usage, we not only created original search algorithm, but also improved ElasticSearch to make it more suitable for our needs. 
 
 While retaining the Json format, we also redesigned the reverse index algorithm.
 
