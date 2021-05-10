@@ -90,7 +90,7 @@ void DisplayResult(float* scores){
             if(original_score[j]==single_scores[i]){
                 order++;
                 order_id[order-1]=j;
-                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<data[j].GetTitle()<<" "<<original_score[j]<<endl;
+                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<data[j].GetTitle()<<" "<<setw(10)<<original_score[j]<<endl;
             }
         }
     }
@@ -118,11 +118,13 @@ void DisplayResult(float* scores){
         }
         int index = order_id[input1 - 1];
         cout << data[index].GetCode() << " " << data[index].GetTitle() << endl;
+        cout<<"Subject Pre-requisit: ";
         map<string,int> prerequisite=data[index].GetPreRequisite();
         map<string,int>::iterator preiterator;//define an interator
         for (preiterator = prerequisite.begin(); preiterator != prerequisite.end(); ++preiterator){
         cout<<preiterator->first<<" ";
         }
+        cout<<endl;
         cout << "Subject Level: " << data[index].GetLevel() << endl;
         cout << "Subject Credit: " << data[index].GetCredit() << endl;
         cout << endl;
