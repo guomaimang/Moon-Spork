@@ -114,7 +114,7 @@ void DisplayResult(float* scores){
         if (strlen(input) == 1) {
             input1 = input[0] - 48;
         } else if (strlen(input) == 2) {
-            input1 = (input[0] - 48) * 10 + input[1];
+            input1 = (input[0] - 48) * 10 + input[1]-48;
         }
         int index = order_id[input1 - 1];
         cout << data[index].GetCode() << " " << data[index].GetTitle() << endl;
