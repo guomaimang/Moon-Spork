@@ -1,0 +1,118 @@
+Subject Description Form 
+ 
+Subject Code  COMP4123 
+Subject Title  Business Process and Workflow Management 
+Credit Value  3 
+Level  4 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  present a process-oriented view to business modeling and the application of 
+workflow technologies to business process engineering; and 
+  equip students with the fundamental knowledge of workflow management 
+systems. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand the role of business processes in modern enterprises; 
+(b)  understand the basic steps in business process engineering/re-engineering; 
+(c)  understand the application of workflow technologies to process modeling and 
+implementation; 
+(d)  understand the building blocks of a workflow management system; 
+(e)  understand the existing industrial workflow standards; and 
+(f)  apply workflow technologies to solve business problems. 
+Attributes for all-roundedness 
+(g)  improve  presentation  and  communication  skills  (through  case  study 
+presentations); and 
+(h)  learn independently and to find/integrate information from different sources 
+required in solving real-life problems. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to Business Process 
+Syllabus 
+Modern  business  environment;  process-oriented  view  to  organizations; 
+examples of business processes. 
+2.  Business Process Engineering 
+Process analysis; process re-engineering; business engineering and workflow. 
+3.  Fundamental Concepts of Workflow 
+Major components of a workflow management system; Buildtime metamodel: 
+process data, activities, control flow, data flow; Runtime system structure; 
+workflows and objects. 
+4.  Advanced Functions of Workflow 
+Events;  dynamic  modification  of  workflows;  advanced  join  conditions; 
+container materialization; context management; performance spheres; compile 
+spheres; transactions. 
+5.  Workflow Systems Architecture 
+Application structure; middleware; Internet and mobile workflow; emergent 
+technologies. 
+6.  Workflow Standards 
+OMG’s Workflow Management Facility; Workflow Management Coalition 
+standards. 
+Case Study: 
+Presentations will be held during the seminars, where the students will form groups 
+to read and present real-life cases related to the subject's topics.
+ 
+Teaching/  Lectures focus on the introduction and explanation of key concepts. 
+Learning 
+Methodology  Seminars provide students with the opportunity to deepen their understanding of the 
+concepts taught in lectures and to apply the theories to the analysis of real-life issues. 
+Dec 2018  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f  g  h 
+Learning 
+Outcomes 
+Continuous                 
+Assessment 
+1. Assignments                 
+55% 
+2. Project                 
+3. Mid-Term                 
+Examination  45%                 
+Total   100%   
+The course will be expected to be accessed using both examination and coursework 
+including assignments, project and mid-term examination. 
+Assignments, project and mid-term examination can be act as a measure on the 
+understandings of the students on the basic concepts of the business process and 
+building blocks of a workflow management system. 
+In addition, project can be used to measure the understandings of the students about 
+the current industrial workflow standards. The students could be further improve 
+their presentation and communication skills through the project presentation. 
+Examination can be used as an overall measure of the understandings of the students 
+on the workflow concepts, technologies and understand the existing standards which 
+discussed in the lectures.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial  0 Hrs. 
+Other student study effort: 
+  Reading and Self-Learning  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Jeston,  John,  Business  Process  Management:  Practical  Guidelines  to 
+Successful Implementations, 4th Edition, Routledge, 2018. 
+2.  Weskem,  M.,  Business  Process  Management  Concepts,  Languages, 
+Architectures, Springer, 2007. 
+3.  Chang,  J.  F.,  Business  Process  Management  Systems:  Strategy  and 
+Implementation, Boca Raton, FL: Auerbach Publications, 2006. 
+Dec 2018 4.  van der Aalst, W. and van Hee, K., Workflow Management: Models, Methods, 
+and Systems, The MIT Press, Paperback Edition, 2004. 
+5.  Ficher, L. (ed.), Workflow Handbook 2004, Future Strategies Inc., 2004. 
+6.  Leymann, F. and Roller, D., Production Workflow: Concepts and Techniques, 
+Prentice-Hall, 2000. 
+7.  Schael,  T.,  Workflow  Management  Systems  for  Process  Organisations, 
+Springer, 1998.   
+8.  Articles  from  journals,  magazines,  and  conference  proceedings,  including 
+Emerald Business Process Management Journal, ACM TOCS, ACM TODS, 
+IEEE TKDE, IEEE TSE, IEEE TOC, CACM, IEEE Computer, ICDE, CIKM. 
+ 
+Dec 2018 

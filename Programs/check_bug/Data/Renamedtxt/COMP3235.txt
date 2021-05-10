@@ -1,0 +1,118 @@
+Subject Description Form 
+ 
+Subject Code  COMP3235 
+Subject Title  Software Project Management 
+Credit Value  3 
+Level  3 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide students a systematic approach to initiate, plan, execute, control and 
+close a software project; 
+  develop a good understanding of the nine project management areas, and the 
+role of a typical project manager; 
+  equip students with understanding of the best practices, and techniques used in 
+project management processes; and 
+  enable students to gain a good understanding of ISO 9000 and CMMI. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  appreciate the importance of software project management; 
+(b)  apply project management techniques for information systems development; 
+and 
+(c)  apply the management skills to monitor and control a software project. 
+Attributes for all-roundedness 
+(d)  work together as a team; 
+(e)  communicate in writing a technical document; and 
+(f)  communicate effectively in English for general project presentation. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Project Management Fundamentals 
+Syllabus 
+Attributes  of  project;  project  life  cycle;  project  management  processes; 
+successful project manager; general management skills. 
+2.  Project Integration Management 
+Project  plan;  change  control;  configuration  management;  corrective  and 
+preventive action. 
+3.  Project Scope Management 
+Project  charter;  net  present  value;  cost/benefit  analysis;  scope  planning, 
+definition, verification and change control. 
+4.  Project Time Management 
+Project size and metrics; identifying activities; WBS; PBS; CPA; scheduling; 
+critical chain. 
+5.  Project Cost Management 
+Estimation techniques; earned value analysis; COCOMO; resource planning; 
+value analysis; cost management plan, budgeting and control. 
+6.  Project Quality Management 
+Quality model; quality definition; ISO 9001; CMMI; improvement cycle; 
+trend analysis. 
+7.  Human Resource Management 
+Organization structure; stakeholder analysis; team building; conflict; effective 
+team; reward and recognition systems. 
+8.  Communication Management 
+Communication means;  communication techniques for teams  of different 
+sizes; barriers to communication; building effective team communication; 
+reviews; performance reporting. 
+9.  Risk Management 
+Different types of risk; risk response planning; risk analysis; risk monitoring 
+and control. 
+10. Procurement Management 
+Procurement  planning;  source  selection;  contract  administration;  contract 
+closeout; negotiation. 
+ 
+Teaching/  Lectures focus on introduction and explanation of key concepts and techniques. 
+Learning  Tutorial and lab sessions provide students opportunity to practice the techniques and 
+Methodology  tools presented in class. Assignments and project allow students to deepen their 
+understanding of the concepts taught in class and apply the theory and techniques to 
+software process and project management. Students will be encouraged to work in 
+groups to share and present ideas, review other’s work, and develop teamwork skill. 
+Dec 2018  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f 
+Learning 
+Outcomes 
+Continuous             
+Assessment 
+1. Assignments             
+55% 
+2. Lab Exercises             
+3. Project             
+4. Quizzes             
+Examination  45%             
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Assignments, project and quizzes act as a measure on the understandings of the 
+students on the basic concepts of the software project management.  
+Project will be used to measure the understandings of the students about the current 
+practice  in  process  and  project  management.  The  students  can  improve  their 
+presentation and communication skills through the project presentation, and practice 
+team work. Students can also develop their analytic and problem-solving skills. 
+Examination will be used as an overall measure of the understandings of the students 
+on software project management.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  36 Hrs. 
+  Tutorial/Lab  3 Hrs. 
+Other student study effort: 
+  Work on assignments and project, Self-Study  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Schwalbe,  Kathy,  Information  Technology  Project  Management,  Cengage 
+Learning, 2018. 
+Reference Books: 
+1.  A Guide to the Project Management Body of Knowledge, Project Management 
+Institute, 2013. 
+Dec 2018 2.  Hughes, B., Cotterell, M., Software Project Management, McGraw-Hill, 2009. 
+ 
+Dec 2018 

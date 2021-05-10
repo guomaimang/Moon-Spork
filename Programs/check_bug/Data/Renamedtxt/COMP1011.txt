@@ -1,0 +1,84 @@
+Subject Description Form 
+ 
+Subject Code  COMP1011 
+Subject Title  Programming Fundamentals 
+Credit Value  3 
+Level  1 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide students with knowledge on the fundamental elements in computer 
+programming; and 
+  introduce  advanced  computer  programming  techniques  necessary  for 
+developing more sophisticated computer application programs. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand the programming elements for solving computing-related problems; 
+(b)  possess the ability to design and develop efficient computer programs for 
+solving problems; and 
+(c)  possess  the  ability  to  learn  other  high  level  programming  languages 
+independently. 
+Attributes for all-roundedness 
+(d)  develop skills in problem solving using systematic approaches;  
+(e)  identify and develop problem solutions in a logical manner; and 
+(f)  solve complex problems in groups and develop group work. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Fundamentals of Computing. Basic concepts of computers and computing, 
+Syllabus  compilation and interpretation, elementary programming constructs. 
+2.  Flow controls. Basic flow control: selection, repetition and functions. 
+3.  Data Collections. Structures, lists, sets and strings 
+4.  Program Design. Problem solving, problem correctness, testing and debugging 
+ 
+Teaching/  This subject emphasizes both the conceptual elements in computer programming and 
+Learning  practical experiences. Teaching includes both lectures and hands-on Lab exercises 
+Methodology  reinforcing taught concepts. Students should attend both lectures and laboratory 
+Dec 2018 sessions. Continuous assessments help to reinforce the programming concepts and 
+skills learned for applications. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f 
+Learning 
+Outcomes 
+Continuous             
+Assessment 
+1. Assignments             
+65% 
+2. Quizzes             
+3. Project(s)             
+Final Examination  35%             
+Total   100%   
+Note:  Students  must  pass  both  the  continuous  assessment  and  examination 
+components to pass the course. The continuous assessment and the final examination 
+will be designed to assess the specified learning outcomes. The formats may include 
+written questions, programming exercises and quizzes. 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Lab  13 Hrs. 
+Other student study effort: 
+  Assignments, Quizzes, Projects, Exam  68 Hrs. 
+Total student study effort   120 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Prata, Stephen, C Primer Plus, 6th Edition, Addison-Wesley Professional, 2013. 
+2.  King, K. N., C Programming: A Modern Approach, 2nd Edition, W. W. Norton 
+& Company, 2008. 
+3.  Kernighan, B. W. and Ritchie, D. M., C Programming Language, 2nd Edition, 
+Prentice Hall, 1988. 
+4.  Spraul, V. Anton, Think Like a Programmer: An Introduction to Creative 
+Problem Solving, No Starch Press, 2012. (examples in this book are written in 
+C++, but will improve your ability to think like a programmer in any language) 
+5.  Zelle, John, Python Programming: An Introduction to Computer Science, 2nd 
+Edition, Franklin, Beedle & Associates, 2010. 
+ 
+Dec 2018 

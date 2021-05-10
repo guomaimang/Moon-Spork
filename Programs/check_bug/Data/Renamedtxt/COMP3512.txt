@@ -1,0 +1,120 @@
+ 
+Subject Description Form
+ 
+ 
+ 
+Subject Code  COMP 3512 
+Subject Title  Legal Aspects, Professionalism and Ethics of Computing 
+Credit Value  3 
+Pre-requisite /     Pre-requisite/Co-requisite: Nil 
+  Co-requisite/   
+Exclusion 
+Objectives    To  be  fully  aware  of  the  basic  set  of  legal,  ethical  and  security 
+responsibilities; 
+ 
+  To introduce relevant professional bodies and be able to apply codes of 
+conduct and ethical standards as a computing/IT practitioner; 
+  To be in a position to deal with ethical dilemmas and legal challenges 
+that they can expect to face when they start work. 
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes 
+Professional/academic knowledge and skills 
+  (a) Demonstrate  an  understanding  of  professional  issues,  including 
+contemporary  legislation,  and  ethical  considerations,  from  the 
+viewpoint of computing/IT professionals; 
+(b) Apply the conceptual tools provided in the course to develop analytical 
+skills for determining what to do in ethical and legal decision making  
+Attributes for all-roundedness 
+(c) communicate effectively both verbally and in writing as a professional 
+in computing/IT; 
+(d) learn independently for problem solving and solution seeking; 
+(e) think  and  reason  critically,  especially  on  different  issues  related  to 
+computing/IT professional in the society. 
+Programme  Outcome  7:  This  subject  contributes  to  train  students  with  an 
+Contribution of the 
+understanding  of  professional,  ethical,  legal,  security  and  social  issues  and 
+Subject to the 
+responsibilities. 
+Attainment of the 
+ 
+Programme  Programme Outcome 8: This subject contributes to nurture students to communicate 
+Outcomes  effectively with a range of audiences. 
+ 
+Programme Outcome 10: This subject contributes to let student recognise the need for 
+and engage in continuing professional development. 
+ 1.  Introduction  
+Subject Synopsis/ 
+A brief account of the development of computing/IT industry; exploration of 
+Indicative Syllabus 
+computing technologies whose impact is likely to grow in the near future.  
+2.  Computer ethics and profession 
+ 
+Generic skills; typical scenarios of profession; characteristics of a profession; 
+the system of professions; the computing profession; social issues. 
+3.  Professional bodies and codes of ethics 
+Role  and  functions  of  professional  bodies;  professional  bodies  for 
+computing/IT practitioners; Impact of computing/IT professional bodies;  
+4.  Methods and tools for ethical analysis 
+Traditional/philosophical ethics; policy vacuum; social context; competing 
+factors in decision making; practical approach/ analysis; sample cases. 
+5.  Computer crimes and laws 
+Computer  criminals;  computer  fraud;  computer  sabotage;  computer 
+forensics 
+6.  Privacy  
+Personal privacy; computer and privacy; relevant privacy acts 
+7.  Software ownership and intellectual property 
+       Ethical/legal issues of software; intellectual property; property rights; legal 
+protection; philosophical basis; consequentialist argument. 
+8.  Security 
+Fundamental concepts about security, Security at e-commerce, Security and 
+legislation 
+9.  Entrepreneurship 
+Emerging  technologies;  entrepreneurship  in  computing  profession; 
+professional capabilities extended through virtual firms. 
+This  subject  emphasizes  both  ethical  and  legal  aspects  of  computing/IT 
+Teaching/Learning 
+professional. It is intended to provide students with knowledge and practical 
+Methodology  
+experience on ethical, technological and legal issues related to computing. 
+Lectures would cover the conceptual aspects. Guest lectures with external 
+ 
+speakers  provide  students  with  knowledge  from  another  perspective. 
+Laboratory and tutorial sessions focus on the exercises to gain understanding 
+both of what being a professional in computing involves and how they can 
+most effectively deal with the challenges they will encounter. 
+ 
+ 
+Assessment 
+Methods in  Specific  % weighting  Intended subject learning outcomes to 
+Alignment with  assessment  be assessed (Please tick as appropriate) 
+Intended Learning  methods/tasks  
+Outcomes  a  b  c  d  e   
+  1.  Continuous             
+Assessment 
+Assignments             
+100% 
+Tests             
+Projects             
+Presentations             
+2. Exam  0%             Total   100 %   
+ 
+Student Study  Class contact:   
+Effort Expected  
+    Lecture  39 Hrs. 
+  Tutorial/Lab   0 Hrs. 
+Other student study effort:   
+  Assignments, Quizzes, Projects, and Tests  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List and    Herman  T.  Tavani  (2011)  Ethics  and  Technology:  Controversies, 
+References  Questions, and Strategies for Ethical Computing, Hoboken, N.J.: Wiley, 
+3rd Edition. 
+  Deborah  G.  Johnson  and  Keith  W.  Miller  (2009)  Computer  Ethics: 
+Analyzing  Information  Technology.  Upper  Saddle  River,  N.J.:  Prentice 
+Hall, 4th Edition. 
+  Tobias  Kollmann,  Andreas  Kuckertz,  Christoph  Stèockmann  (2010)  E-
+Entrepreneurship  and  ICT  Ventures:  Strategy,  Organization  and 
+Technology, Hershey, PA: Business Science Reference.  
+  Thomas  N.  Duening,  Robert  D.  Hisrich,  Michael  A.  Lechter  (2010) 
+Technology Entrepreneurship: Creating, Capturing, and Protecting Value, 
+Burlington, MA: Academic Press. 
+ 

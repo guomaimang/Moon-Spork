@@ -1,0 +1,108 @@
+Subject Description Form 
+ 
+Subject Code  COMP3211 
+Subject Title  Software Engineering 
+Credit Value  3 
+Level  3 
+Pre-requisite /  Pre-requisite: COMP2011 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  provide students with a general knowledge of the application of software 
+engineering techniques in different stages and aspects of software development; 
+and 
+  provide students with practice in applying the theories, concepts and techniques 
+acquired during lectures through the actual accomplishment of a case study 
+project. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  apply software engineering techniques in the systems specifications and design 
+stages of software projects; 
+(b)  acquire concepts in software quality assurance and be able to test software 
+applications; and 
+(c)  apply software engineering techniques to real-life case study projects. 
+Attributes for all-roundedness 
+(d)  solve complex problems in groups and be able to communicate effectively 
+through project presentations; and 
+(e)  communicate in writing with technical documentation throughout the various 
+stages of project development. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Software Process 
+Syllabus 
+Software  process  and  process  models;  component-based  development; 
+software reuse, CASE, agile development. 
+2.  Specification and Requirement Analysis 
+Model-based specification; requirements analysis; prototyping. 
+3.   Software Analysis and Design 
+System  analysis  and  models;  overview  of  software  design  process  and 
+strategies; function-oriented design; objected-oriented design 
+4.  Software Verification and Validation 
+Testing  techniques  and  tools;  static  analysis;  design  and  code  reviews, 
+inspection 
+5.  Project Metrics 
+Function point, line of code; COCOMO models; effort estimation.   
+ 
+Teaching/  Lectures focus on introduction and explanation of key concepts and techniques. 
+Learning  Tutorial and lab sessions provide students opportunity to practice the techniques and 
+Methodology  tools presented in class. Assignments and project allow students to deepen their 
+understanding of the concepts taught in class and apply the theory and techniques to 
+software design and testing. Students will be encouraged to work in groups to share 
+and present ideas, review other’s work, and develop teamwork skill. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment           
+1. Assignments           
+60% 
+2. Lab Exercises           
+3. Project           
+4. Mid-Term             
+Examination  40%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Dec 2018 Assignments, project and mid-term test act as a measure on the understandings of the 
+students on the basic concepts of the software specification, design and testing.  
+Project will be used to measure the understandings of the students about the current 
+practice in software design and testing. The students can improve their presentation 
+and communication skills through the project presentation, and practice team work. 
+Students can also develop their analytic and problem solving skills. 
+Examination will be used as an overall measure of the understandings of the students 
+on software development process, software specification, design and testing concepts 
+and technologies.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial/Lab  0 Hrs. 
+Other student study effort: 
+  Assignments, Project and Self-study  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Sommerville, I., Software Engineering, 9th Edition, Addison-Wesley, 2010. 
+Reference Books: 
+1.  Pressman, R., Software Engineering: A Practitioner’s Approach, 6th Edition, 
+McGraw-Hill, 2006. 
+2.  Booch, G., Object Oriented Analysis & Design with Applications, 2nd Edition, 
+Addison-Wesley, 1994.  
+3.  Jacobson, I., Booch, G. and Rumbaugh, J., The Unified Software Development 
+Process, Addison-Wesley, 1999.  
+4.  Bourque, Pierre and Dupuis, Robert, Guide to the Software Engineering Body 
+of Knowledge, IEEE Computer Society, 2004. 
+5.  Schwalbe, Kathy, Information Technology Project Management, 6th Edition, 
+Cengage Learning, 2009. 
+ 
+Dec 2018 

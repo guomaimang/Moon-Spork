@@ -1,0 +1,133 @@
+Subject Description Form 
+ 
+Subject Code  COMP3438 
+Subject Title  System Programming 
+Credit Value  3 
+Level  3 
+Pre-requisite /  Pre-requisite: COMP2432 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  introduce students the concepts and principles of system programming and to 
+enable them to understand the duties and scope of a system programmer; 
+  provide students the knowledge about both theoretical and practical aspects of 
+system programming, teaching them the methods and techniques for designing 
+and implementing system-level programs; and 
+  train students in developing skills for writing system software with the aid of 
+sophisticated OS services, programming languages and utility tools. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  organize the functionalities and components of a computer system into different 
+layers, and have a good understanding of the role of system programming and 
+the scope of duties and tasks of a system programmer; 
+(b)  grasp the concepts and principles, and be familiar with the approaches and 
+methods of developing system-level software (e.g., compiler, and networking 
+software); 
+(c)  apply the knowledge and techniques learnt to develop solutions to real-world 
+problems; 
+(d)  select and make use of the OS kernel functions and their APIs, standard 
+programming languages, and utility tools; and 
+(e)  organize and manage software built for deployment and demonstration. 
+Attributes for all-roundedness 
+(f)  analyze  requirements  and  solve  problems  using  systematic  planning  and 
+development approaches. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to System Programming and Unix  
+Syllabus 
+Layered structure of a computer system; system software and application 
+software;  scope  and  tasks  of  system  programming.  Evolution  of  UNIX; 
+features of UNIX; UNIX standards; good style of UNIX programming. 
+2.  Introduction to UNIX Systems 
+Files; types of UNIX files; UNIX file system; structure and representation of 
+files in UNIX file system; directories; accessing files in UNIX; I/O redirection; 
+devices and device drivers; UNIX file interface (APIs). UNIX shell; UNIX 
+process  creations  and  execution;  process  management;  parent  and  child 
+processes; UNIX process interfaces (APIs). 
+3.  Introduction to Unix Device Driver  
+Device Drivers; design issues; types of device drivers; major components of a 
+device driver. 
+4.     Device Driver Development  
+OS/Driver interface; internal operations of a device driver; structure and major 
+components; address spaces and data transfer; typical character/block driver 
+design and implementation. 
+5.  Overview of Compiler Construction 
+Syntax  and  semantics  of  programming  languages;  language  translation 
+approaches; tasks of a compiler; the compiler process. 
+6.  Lexical Analysis 
+Tasks of lexical analysis; specifying tokens by regular grammars and regular 
+expressions; recognizing tokens by Finite Automata (FA); construction of FA 
+from regular expressions; converting NFA to DFA; simulating DFA. 
+7.  Syntax Analysis 
+Tasks  of  syntax  analysis;  specifying  language  constructs  by  context-free 
+grammars; BNF; derivation; parse and syntax trees; recognizing language 
+constructs by Pushdown Automata; top-down and bottom-up parsing methods. 
+8.  Code Generation 
+Intermediate compilation phases; symbol table; intermediate code generation; 
+code optimization; code generation. 
+ 
+Tutorials: 3 hours 
+Laboratory Experiment: 
+Topic 
+1.  UNIX System and C Programming 
+2.  UNIX Programming (processes, files, device drivers) 
+ 
+ 
+Dec 2018 Teaching/  In lectures, concepts, models and algorithms will be explained with illustrative 
+Learning  examples.  
+Methodology 
+Tutorials and lab sessions help students understand concepts and improve their skills 
+on solving problems.   
+Assignments help develop students’ programming skills and critical thinking. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f 
+Learning 
+Outcomes 
+Continuous             
+55% 
+Assessment 
+1. Assignments  35%             
+2. Mid-Term  20%             
+Examination  45%             
+Total   100%   
+All  three  items  are  appropriate  to  evaluate  the  intended  learning  outcomes. 
+Assignments are used to evaluate writing skills, critical thinking, and problem 
+solving. Mid-term test and final examination can further help evaluate the related 
+outcomes.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Lab  13 Hrs. 
+Other student study effort: 
+  Assignments and Self-study  60 Hrs. 
+Total student study effort   112 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Aho, A.V., Lam, Monica S., Sethi, R. and Ullman, J.D., Compilers: Principles, 
+Techniques, and Tools, 2nd Edition, Addison-Wesley, 2006. 
+2.  Molay, B., Understanding Unix/Linux Programming, Pearson Education, 2003. 
+Reference Books: 
+1.  Stevens,  W.  R.  and  Rago,  S.  A.,  Advanced  Programming  in  the  UNIX 
+Environment, 2nd Edition,  Addison-Wesley, 2005. 
+2.  Appel, A.W., Modern Compiler Implementation in Java, Foundation Books, 
+2007. 
+Dec 2018 3.  Beck, L.L., System Software: an Introduction to System programming, 3rd 
+Edition, Addison Wesley, 1996. 
+4.  Cooper, K. and Torczon, L., Engineering a Compiler, Morgan Kaufmann, 
+2003. 
+5.  Cooperstein,  J.,  Writing  Linux  Device  Drivers:  a  guide  with  exercises, 
+CreateSpace, 2009. 
+6.  Corbet, J., Rubini, A., and Kroah-Hartman, G., Linux Device Drivers, 3rd 
+Edition, O'Reilly, 2005. 
+ 
+Dec 2018 
