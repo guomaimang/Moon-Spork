@@ -74,6 +74,7 @@ void DisplayResult(int *scores)
         }
     }
 
+// If count==0 , that means all the scores are 0 , so there is no relative course.
     int count = 0;
     int single_scores[81];
     for (int i = 0; i < 81; i++)
@@ -103,14 +104,14 @@ void DisplayResult(int *scores)
         }
     };
 
+    // This part is to print the search results from the high relative to the low relative.
     if (count == 0)
     {
         cout << "Not Found" << endl;
         return;
     }
 
-    //Course *data;
-    //data=ReadData();
+    //This part is to interact with users.
     int order = 0;
     int order_id[81];
     for (int i = 0; i < count; i++)
@@ -146,6 +147,7 @@ void DisplayResult(int *scores)
                 cout << "Thanks for your using!" << endl;
                 return;
             }
+            //Change the type of input (char to int by using ASCII) to calculate the order which represents the course that user wants to inquire.
             if (strlen(input) == 1)
             {
                 input1 = input[0] - 48;
@@ -154,6 +156,7 @@ void DisplayResult(int *scores)
             {
                 input1 = (input[0] - 48) * 10 + input[1] - 48;
             }
+            // If input is not in the range which showed on the screen, that means it is a invalid input.
             if (input1 < 1 || input1 > order)
             {
                 cout << "The number doesn't fall within the range above! Please enter again. " << endl;
@@ -164,6 +167,7 @@ void DisplayResult(int *scores)
             }
         }
 
+        // This part is to show some basic information of the course whose order is inputted by the user.
         int index = order_id[input1 - 1];
         cout << data[index].GetCode() << " " << data[index].GetTitle() << endl;
         cout << "Subject Pre-requisite: ";
@@ -177,6 +181,8 @@ void DisplayResult(int *scores)
         cout << "Subject Level: " << data[index].GetLevel() << endl;
         cout << "Subject Credit: " << data[index].GetCredit() << endl;
         cout << endl;
+
+        //This part is to allow users interact with files, such as choose to display the content, or choose to download the pdf file.
         char choice[100];
         do
         {
@@ -185,11 +191,13 @@ void DisplayResult(int *scores)
                 cout << "Enter 'c' to show content, 'd' to download the subject description form, 'e' to choose another relevant course: ";
                 cin >> choice;
             } while (!((strlen(choice) == 1) && (choice[0] == 'c' || choice[0] == 'd' || choice[0] == 'e')));
+            //Display the content
             if (choice[0] == 'c')
             {
                 ShowContent(data[index].GetCode());
                 cout << endl;
             }
+            //Choose to download the pdf file
             if (choice[0] == 'd')
             {
                 string http = "https://19040822.xyz/";
