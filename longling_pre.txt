@@ -1,5 +1,5 @@
 1	Introduction
-Hello, we are group 8, and our option is option3. 
+Hello, we are group 8. I'm Longling.
 Our project is to design a searching engine. In the 21st century, 
 there is huge amount of data created and almost everyone needs to find the information in this huge amount of data.
 But how to find? There are already numerous existing searching tools nowadays. 
