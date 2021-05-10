@@ -43,10 +43,11 @@ map<string,int> WordToID(Dictionary *words) {
     return hashTable;
 }
 
+/*
 int main() {
     Dictionary *dict=LoadDictionary();
     map<string,int> wordHashTable=WordToID(dict);
-    vector<string> testWords={"expected","value","principles","testforfailtofindtheword"};
+    vector<string> testWords={"expected","value","principles","testforfailtofindtheword","comp1011"};
     map<string,int> ::iterator object;
     for (std::vector<string>::iterator it = testWords.begin(); it != testWords.end(); ++it) {
         object=wordHashTable.find(*it);
@@ -56,12 +57,9 @@ int main() {
         else {
             cout << "Cannot find the ID of "<<*it<<endl;
         }
-        set<int> contentset;
-        contentset=dict[object->second].appearDoc;
-        for(set<int>::iterator it=contentset.begin() ;it!=contentset.end();it++)
-        {
-            cout<<*it<<" occurs "<<endl;
-        }
+        //set<int> contentset;
+        //contentset=dict[object->second].appearDoc;
     }
     return 0;
 }
+*/
