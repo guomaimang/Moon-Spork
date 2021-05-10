@@ -1,3 +1,11 @@
+/*
+Written by Zhuchen WANG at May 8, 2021
+Modified by Zhuchen WANG at May 10, 2021
+This function is used for displaying the search result and offer some interactions.
+It can receive the pointer of the float array which stores the relative score of each course
+and print out the search result form the high relative to the low relative.
+It can also allow users interact with files, such as choose to display the content, or choose to download the pdf file.
+*/
 #include <iostream>
 #include <time.h>
 #include <cstring>
@@ -9,37 +17,40 @@
 #include<stdio.h>
 #include<string.h>
 using namespace std;
+// This function is to print the content of txt file of the course which is the user wants to know more about.
 void ShowContent(string a){
-    FILE *fp;  //创建一个文件指针*fp
+    FILE *fp;
     char ch;
     string b=".txt";
-    string c="./Data/Renamedtxt/";
+    string c="../Data/";
     string d=c+a+b;
     char filename[100];
     strcpy(filename,d.c_str());
     cout<<filename;
-    fp=fopen(filename,"r");   //以只读方式打开txt文件
+    fp=fopen(filename,"r");
     if(fp==NULL)
-        cout<<" can not open!\n";  //如果fp指针指向为空，即文件为空，则输出can not open
+        cout<<"can not open!\n";
     else{
-        //读取字符：fscanf(fp,"%c",&ch)，ch=fgetc(fp);
-        fscanf(fp,"%c",&ch);   //读取字符
-        while(!feof(fp)){      //feof（）这个函数是用来判断指针是否已经到达文件尾部的,此处即如果没有到达末尾循环
-            putchar(ch);           //输出
-            fscanf(fp,"%c",&ch);   //再次读取字符
+        fscanf(fp,"%c",&ch);
+        while(!feof(fp)){
+            putchar(ch);
+            fscanf(fp,"%c",&ch);
         }
-        fclose(fp);   //关闭文件
+        fclose(fp);
     }
     cout<<endl;
 }
+// This function is to display the search result by relative scores' order and offer some interactions.
 void DisplayResult(float* scores){
     cout<<"------------- Search Results -------------"<<endl;
     cout<<endl;
     float original_score[81];
+    // original_score array is to keep the correspondence between score and course
+    // (because the index of original_score array is the corresponding course_id)
     for(int i=0;i<81;i++){
         original_score[i]=*(scores+i);
     }
-
+    //This is to sort the 81 scores from high to low by using
     float t;
     for(int i=0;i<80;i++){
         int flag1=0;
@@ -90,39 +101,46 @@ void DisplayResult(float* scores){
             if(original_score[j]==single_scores[i]){
                 order++;
                 order_id[order-1]=j;
-                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<left<<setw(100)<<data[j].GetTitle()<<original_score[j]<<endl;
+                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<data[j].GetTitle()<<" "<<setw(100)<<original_score[j]<<endl;
             }
         }
     }
-    
     char input[100];
     int  input1;
     while(true) {
         cout<<endl;
-        do {
-            cout << "Enter the result number to show details(the number should between 1 and 81) and enter 0 to finish: ";
-            cin >> input;
-        } while ((!((strlen(input) == 2) && (input[0] >= 48) && (input[0] <= 56) && (input[1] >= 48) &&
-                    (input[1] <= 57) && (((input[0] - 48) * 10 + input[1] - 48) >= 1) &&
-                    (((input[0] - 48) * 10 + input[1] - 48) <= 81))) &&
-                 (!((strlen(input) == 1) && (input[0] >= 48) && (input[0] <= 57))));
-        cout << endl;
-        if(strlen(input) == 1 && input[0] =='0' ){
-            cout<<"Thanks for your using!"<<endl;
-            return;
+        while(true) {
+            do {
+                cout<< "Enter the result number to show details(the number should fall within the range above) and enter 0 to finish: ";
+                cin >> input;
+            } while ((!((strlen(input) == 2) && (input[0] >= 48) && (input[0] <= 56) && (input[1] >= 48) &&
+                        (input[1] <= 57) && (((input[0] - 48) * 10 + input[1] - 48) >= 1) &&
+                        (((input[0] - 48) * 10 + input[1] - 48) <= 81))) &&
+                     (!((strlen(input) == 1) && (input[0] >= 48) && (input[0] <= 57))));
+            cout << endl;
+            if (strlen(input) == 1 && input[0] == '0') {
+                cout << "Thanks for your using!" << endl;
+                return;
+            }
+            if (strlen(input) == 1) {
+                input1 = input[0] - 48;
+            } else if (strlen(input) == 2) {
+                input1 = (input[0] - 48) * 10 + input[1] - 48;
+            }
+            if (input1 < 1 || input1 > order) {
+                cout << "The number doesn't fall within the range above! Please enter again. " << endl;
+            }else{
+                break;
+            }
         }
-        if (strlen(input) == 1) {
-            input1 = input[0] - 48;
-        } else if (strlen(input) == 2) {
-            input1 = (input[0] - 48) * 10 + input[1]-48;
-        }
+
         int index = order_id[input1 - 1];
         cout << data[index].GetCode() << " " << data[index].GetTitle() << endl;
-        cout<<"Subject Pre-requisit: ";
+        cout<<"Subject Pre-requisite: ";
         map<string,int> prerequisite=data[index].GetPreRequisite();
         map<string,int>::iterator preiterator;//define an interator
         for (preiterator = prerequisite.begin(); preiterator != prerequisite.end(); ++preiterator){
-        cout<<preiterator->first<<" ";
+            cout<<preiterator->first<<" ";
         }
         cout<<endl;
         cout << "Subject Level: " << data[index].GetLevel() << endl;
@@ -147,7 +165,8 @@ void DisplayResult(float* scores){
         }while(choice[0] != 'e');
     }
 }
-int main(){
+// Test function, which is only used to test whether DisplayResult function working.
+/*int main(){
     float score[81];
     srand(time(0));
     for(int i=0;i<81;i++){
@@ -156,4 +175,4 @@ int main(){
     float* scores=score;
     DisplayResult(scores);
     return 0;
-}
+}*/
