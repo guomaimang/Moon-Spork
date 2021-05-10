@@ -14,13 +14,15 @@ MAIN PROGRAM
 //Use this header written by Yunfei to call Course objects
 #include "course.h"
 #include "dictionary.h"
+#include "search.cpp"
+#include "DisplayResult4.cpp"
+#include "input.cpp"
 //Setting the namespaces
 using json = nlohmann::json;
 using namespace std;
 int main() {
-    Course *subjectInfo;
-    subjectInfo=ReadData(); //Load subject information
-    Dictionary *dict=LoadDictionary();
-    map<string,int> wordHashTable=WordToID(dict); //Load word dictionary
+    DisplayResult(search(InputCleaning(InitialInput())));
+    //DisplayResult(search(InputCleaning("studentss")));
+    return 0;
     
 }

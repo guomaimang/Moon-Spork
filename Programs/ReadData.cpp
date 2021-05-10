@@ -5,6 +5,7 @@ Modified by Yunfei LIU at April 26, 2021
 This function is used for read data from .json file in the "Data" folder.
 It can read the files and process it in memory for future use.
 */
+#pragma once
 #include <fstream>
 #include <iostream>
 //#include <string>
@@ -19,6 +20,7 @@ using namespace std;
 
 //This function read data from files and will return a pointer to a Course object array.
 //For how to use it, please refers to the test main function at the end of this cpp file.
+
 Course* ReadData() {
     //Read file names from a csv file
     ifstream names("./Data/fileNames.csv",ios::in);

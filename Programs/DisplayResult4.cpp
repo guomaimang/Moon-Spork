@@ -14,165 +14,202 @@ It can also allow users interact with files, such as choose to display the conte
 #include "dictionary.h"
 #include "course.h"
 #include "ReadData.cpp"
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include <string.h>
 using namespace std;
 // This function is to print the content of txt file of the course which is the user wants to know more about.
-void ShowContent(string a){
+void ShowContent(string a)
+{
     FILE *fp;
     char ch;
-    string b=".txt";
-    string c="../Data/";
-    string d=c+a+b;
+    string b = ".txt";
+    string c = "./Data/Renamedtxt/";
+    string d = c + a + b;
     char filename[100];
-    strcpy(filename,d.c_str());
-    cout<<filename;
-    fp=fopen(filename,"r");
-    if(fp==NULL)
-        cout<<"can not open!\n";
-    else{
-        fscanf(fp,"%c",&ch);
-        while(!feof(fp)){
+    strcpy(filename, d.c_str());
+    cout << endl
+         << filename;
+    fp = fopen(filename, "r");
+    if (fp == NULL)
+        cout << " can not open!\n";
+    else
+    {
+        fscanf(fp, "%c", &ch);
+        while (!feof(fp))
+        {
             putchar(ch);
-            fscanf(fp,"%c",&ch);
+            fscanf(fp, "%c", &ch);
         }
         fclose(fp);
     }
-    cout<<endl;
+    cout << endl;
 }
-// This function is to display the search result by relative scores' order and offer some interactions.
-void DisplayResult(float* scores){
-    cout<<"------------- Search Results -------------"<<endl;
-    cout<<endl;
-    float original_score[81];
+// This function is to display the search result by relative scores' order and offer some interactions.........................
+void DisplayResult(int *scores)
+{
+    cout << "------------------------------------------------- Search Results ------------------------------------------------------" << endl << endl;
+    cout << "--------------------------------------------- Subject Title ----------------------------------------------------| Index";
+    cout << endl;
+    int original_score[81];
     // original_score array is to keep the correspondence between score and course
     // (because the index of original_score array is the corresponding course_id)
-    for(int i=0;i<81;i++){
-        original_score[i]=*(scores+i);
+    for (int i = 0; i < 81; i++)
+    {
+        original_score[i] = *(scores + i);
     }
     //This is to sort the 81 scores from high to low by using
-    float t;
-    for(int i=0;i<80;i++){
-        int flag1=0;
-        for(int j=0;j<80-i;j++){
-            if((*(scores+j))< (*(scores+j+1))){
-                t=*(scores+j);
-                *(scores+j)=*(scores+j+1);
-                *(scores+j+1)=t;
-                flag1=1;
+    int t;
+    for (int i = 0; i < 80; i++)
+    {
+        int flag1 = 0;
+        for (int j = 0; j < 80 - i; j++)
+        {
+            if ((*(scores + j)) < (*(scores + j + 1)))
+            {
+                t = *(scores + j);
+                *(scores + j) = *(scores + j + 1);
+                *(scores + j + 1) = t;
+                flag1 = 1;
             }
         }
     }
 
-    int count=0;
-    float single_scores[81];
-    for(int i=0;i<81;i++){
-        int flag2=0;
-        if(*(scores)==0){
+    int count = 0;
+    int single_scores[81];
+    for (int i = 0; i < 81; i++)
+    {
+        int flag2 = 0;
+        if (*(scores) == 0)
+        {
             break;
         }
-        if(i==0){
-            single_scores[i]=*(scores+i);
+        if (i == 0)
+        {
+            single_scores[i] = *(scores + i);
             count++;
             continue;
         }
-        for(int j=0;j<count;j++){
-            if(*(scores+i)==single_scores[j] || *(scores+i)==0) {
+        for (int j = 0; j < count; j++)
+        {
+            if (*(scores + i) == single_scores[j] || *(scores + i) == 0)
+            {
                 flag2 = 1;
             }
         }
-        if(flag2==0){
-           count++;
-           single_scores[count-1]=*(scores+i);
+        if (flag2 == 0)
+        {
+            count++;
+            single_scores[count - 1] = *(scores + i);
         }
     };
 
-    if(count==0){
-        cout<<"Not Found"<<endl;
+    if (count == 0)
+    {
+        cout << "Not Found" << endl;
         return;
     }
-    
-    Course *data;
-    data=ReadData();
-    int order=0;
+
+    //Course *data;
+    //data=ReadData();
+    int order = 0;
     int order_id[81];
-    for(int i=0;i<count;i++){
-        for(int j=0;j<81;j++){
-            if(original_score[j]==single_scores[i]){
+    for (int i = 0; i < count; i++)
+    {
+        for (int j = 0; j < 81; j++)
+        {
+            if (original_score[j] == single_scores[i])
+            {
                 order++;
-                order_id[order-1]=j;
-                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<data[j].GetTitle()<<" "<<setw(100)<<original_score[j]<<endl;
+                order_id[order - 1] = j;
+                cout << setw(2) << order << ". " << data[j].GetCode() << " " << left << setw(100) << data[j].GetTitle() << original_score[j] << endl;
             }
         }
     }
     char input[100];
-    int  input1;
-    while(true) {
-        cout<<endl;
-        while(true) {
-            do {
-                cout<< "Enter the result number to show details(the number should fall within the range above) and enter 0 to finish: ";
+    int input1;
+    while (true)
+    {
+        cout << endl;
+        while (true)
+        {
+            do
+            {
+                cout << "Enter the result number to show details(the number should fall within the range above) and enter 0 to finish: ";
                 cin >> input;
             } while ((!((strlen(input) == 2) && (input[0] >= 48) && (input[0] <= 56) && (input[1] >= 48) &&
                         (input[1] <= 57) && (((input[0] - 48) * 10 + input[1] - 48) >= 1) &&
                         (((input[0] - 48) * 10 + input[1] - 48) <= 81))) &&
                      (!((strlen(input) == 1) && (input[0] >= 48) && (input[0] <= 57))));
             cout << endl;
-            if (strlen(input) == 1 && input[0] == '0') {
+            if (strlen(input) == 1 && input[0] == '0')
+            {
                 cout << "Thanks for your using!" << endl;
                 return;
             }
-            if (strlen(input) == 1) {
+            if (strlen(input) == 1)
+            {
                 input1 = input[0] - 48;
-            } else if (strlen(input) == 2) {
+            }
+            else if (strlen(input) == 2)
+            {
                 input1 = (input[0] - 48) * 10 + input[1] - 48;
             }
-            if (input1 < 1 || input1 > order) {
+            if (input1 < 1 || input1 > order)
+            {
                 cout << "The number doesn't fall within the range above! Please enter again. " << endl;
-            }else{
+            }
+            else
+            {
                 break;
             }
         }
 
         int index = order_id[input1 - 1];
         cout << data[index].GetCode() << " " << data[index].GetTitle() << endl;
-        cout<<"Subject Pre-requisite: ";
-        map<string,int> prerequisite=data[index].GetPreRequisite();
-        map<string,int>::iterator preiterator;//define an interator
-        for (preiterator = prerequisite.begin(); preiterator != prerequisite.end(); ++preiterator){
-            cout<<preiterator->first<<" ";
+        cout << "Subject Pre-requisite: ";
+        map<string, int> prerequisite = data[index].GetPreRequisite();
+        map<string, int>::iterator preiterator; //define an interator
+        for (preiterator = prerequisite.begin(); preiterator != prerequisite.end(); ++preiterator)
+        {
+            cout << preiterator->first << " ";
         }
-        cout<<endl;
+        cout << endl;
         cout << "Subject Level: " << data[index].GetLevel() << endl;
         cout << "Subject Credit: " << data[index].GetCredit() << endl;
         cout << endl;
         char choice[100];
-        do {
-            do {
+        do
+        {
+            do
+            {
                 cout << "Enter 'c' to show content, 'd' to download the subject description form, 'e' to choose another relevant course: ";
                 cin >> choice;
             } while (!((strlen(choice) == 1) && (choice[0] == 'c' || choice[0] == 'd' || choice[0] == 'e')));
-            if (choice[0] == 'c') {
+            if (choice[0] == 'c')
+            {
                 ShowContent(data[index].GetCode());
                 cout << endl;
             }
-            if (choice[0] == 'd') {
+            if (choice[0] == 'd')
+            {
                 string http = "https://19040822.xyz/";
                 string pdf = ".pdf";
-                cout << "Please use this link to download the PDF: " << http << data[index].GetCode() << pdf << endl;
+                cout << "\nPlease use this link to download the PDF: " << http << data[index].GetCode() << pdf << endl;
                 cout << endl;
             }
-        }while(choice[0] != 'e');
+        } while (choice[0] != 'e');
     }
 }
 // Test function, which is only used to test whether DisplayResult function working.
-/*int main(){
-    float score[81];
+/*
+int main(){
+    int score[81];
     srand(time(0));
     for(int i=0;i<81;i++){
         score[i]=rand()%8;
     };
-    float* scores=score;
+    int* scores=score;
     DisplayResult(scores);
     return 0;
-}*/
+}
+*/

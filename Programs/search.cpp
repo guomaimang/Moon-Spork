@@ -6,7 +6,7 @@
 #include <map>
 #include <utility>
 #include "../ThirdPartyHeaders/json.hpp"
-#include "./ReadData.cpp"
+#include "ReadData.cpp"
 #include "course.h"
 #include "dictionary.h"
 #include "LoadDictionary.cpp"
@@ -14,7 +14,7 @@ using namespace std;
 using json = nlohmann::json;
 
 Course *data = ReadData();
-
+int point[81] = {};
 int query_word_times(bool is_title, int word_id, int doc_id){
     map<string,int> title,content;
 
@@ -28,7 +28,7 @@ int query_word_times(bool is_title, int word_id, int doc_id){
 
 }
 
-int search(string *inword) {
+int* search(string *inword) {
 
     // get the string array
     string target[50] = {};
@@ -44,7 +44,7 @@ int search(string *inword) {
         }
         target_length += 1;
     }
-    cout<<target_length<<endl;
+    //cout<<target_length<<endl;
 
     // word to word_id
     int target_id[50] = {};
@@ -63,7 +63,7 @@ int search(string *inword) {
     }
 
     // init the point = 1
-    int point[81] = {};
+    
     for(int & i : point){
         i = 0;
     }
@@ -114,8 +114,8 @@ int search(string *inword) {
     }
 
     // TEST-BLOCK cout point
-    for(int i : point){
-        cout << i << " ";
-    }
-    return 0;
+    //for(int i : point){
+    //    cout << i << " ";
+    //}
+    return point;
 }
