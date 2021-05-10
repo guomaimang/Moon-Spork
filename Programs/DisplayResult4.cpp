@@ -90,7 +90,7 @@ void DisplayResult(float* scores){
             if(original_score[j]==single_scores[i]){
                 order++;
                 order_id[order-1]=j;
-                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<data[j].GetTitle()<<" "<<setw(10)<<original_score[j]<<endl;
+                cout<<setw(2)<<order<<". "<<data[j].GetCode()<<" "<<left<<setw(100)<<data[j].GetTitle()<<original_score[j]<<endl;
             }
         }
     }
