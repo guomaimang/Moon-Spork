@@ -13,14 +13,14 @@ void ShowContent(string a){
     FILE *fp;  //创建一个文件指针*fp
     char ch;
     string b=".txt";
-    string c="../Data/";
+    string c="./Data/Renamedtxt/";
     string d=c+a+b;
     char filename[100];
     strcpy(filename,d.c_str());
     cout<<filename;
     fp=fopen(filename,"r");   //以只读方式打开txt文件
     if(fp==NULL)
-        cout<<"can not open!\n";  //如果fp指针指向为空，即文件为空，则输出can not open
+        cout<<" can not open!\n";  //如果fp指针指向为空，即文件为空，则输出can not open
     else{
         //读取字符：fscanf(fp,"%c",&ch)，ch=fgetc(fp);
         fscanf(fp,"%c",&ch);   //读取字符
