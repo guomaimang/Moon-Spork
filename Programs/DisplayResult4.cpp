@@ -48,7 +48,7 @@ void ShowContent(string a)
 void DisplayResult(int *scores)
 {
     cout << "------------------------------------------------- Search Results ------------------------------------------------------" << endl << endl;
-    cout << "--------------------------------------------- Subject Title ----------------------------------------------------| Index";
+    cout << "--------------------------------------------- Subject Title ----------------------------------------------------|Index";
     cout << endl;
     int original_score[81];
     // original_score array is to keep the correspondence between score and course
