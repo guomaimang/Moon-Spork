@@ -22,7 +22,9 @@ using json = nlohmann::json;
 using namespace std;
 int main() {
     DisplayResult(search(InputCleaning(InitialInput())));
-    //DisplayResult(search(InputCleaning("studentss")));
+    cout<<"Press ENTER to exit";
+    cin.get();
+    cin.get();
     return 0;
     
 }
