@@ -15,7 +15,7 @@ MAIN PROGRAM
 #include "course.h"
 #include "dictionary.h"
 #include "search.cpp"
-#include "DisplayResult4.cpp"
+#include "DisplayResult.cpp"
 #include "input.cpp"
 //Setting the namespaces
 using json = nlohmann::json;
