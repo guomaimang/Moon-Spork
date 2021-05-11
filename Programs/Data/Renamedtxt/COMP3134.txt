@@ -1,0 +1,107 @@
+Subject Description Form 
+ 
+Subject Code  COMP3134 
+Subject Title  Business Intelligence and Customer Relationship Management 
+Credit Value  3 
+Level  3 
+Pre-requisite /   
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  understand the key components of business intelligence and its use for customer 
+behavior analysis; 
+  provide  the  knowledge  in  CRM  /  eCRM,  people  management,  process 
+management, customer behaviour and analysis, which are essential for business 
+operations; and 
+  introduce CRM measurement and business intelligence tools in the market. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  understand the key components of business intelligence and concepts of CRM 
+in eCommerce environments; 
+(b)  build the knowledge infrastructure to support decision making and marketing; 
+(c)  apply the latest development in business intelligence / CRM tools; and 
+(d)  develop skills and CRM-based business strategies. 
+Attributes for all-roundedness 
+(e)  improve  presentation  and  communication  skills  (through  case  study 
+presentations); 
+(f)  learn independently and to find/integrate information from different sources 
+required in solving real-life problems; and 
+(g)  build up on team spirit, presentation and technical writing skills. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to Business Intelligence and CRM  
+Syllabus 
+Applications of business intelligence (BI), overview of BI tools and its key 
+components; CRM process; management issues and measurement; customer 
+values; CRM initiatives and economic impact. 
+2.  CRM Strategies Planning  
+Customer strategy; brand strategy; channel strategy. 
+3.  Customer Behaviour and Analysis  
+Customer profitability; customer buying values analysis; customer profiling. 
+4.  Knowledge-enabled CRM and BI Tools  
+Knowledge  management  and  data  warehouse;  BI  techniques,  tools  and 
+analysis models; eCRM application development; CRM software packages; 
+integrated CRM solutions. 
+5.  Marketing Strategies 
+Mobilizing operations; personalization; customization; loyalty programs. 
+ 
+Teaching/  This subject emphasizes the understanding and designing of CRM strategies with the 
+Learning  support of BI. It is intended to equip the student with knowledge and experience on 
+Methodology  how to design CRM solutions with supporting evidence.   
+The lectures will be used to deliver course material that will be practiced/reinforced 
+during the tutorials. Seminars are held for students to discuss in-depth real-life cases 
+related to the subject's topics, to give presentations and write reports. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f  g 
+Learning 
+Outcomes 
+Continuous               
+Assessment 
+55% 
+1. Assignments, Tests 
+             
+& Project 
+Examination  45%               
+Total   100%   
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial/Lab  0 Hrs. 
+Other student study effort: 
+Dec 2018   Assignments, Tests, Projects, Exam  80 Hrs. 
+Total student study effort   119 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Buttle,  Francis  and  Maklan,  Stan,  Customer  relationship  management: 
+concepts and technologies, 3rd Edition, Routledge, 2015. 
+2.  Sharda, R., Delen, D. and Turban, E., Business intelligence and analytic: 
+systems for decision support, 10th Edition, Pearson, 2015. 
+3.  Howson, Cindi, Successful Business Intelligence: Unlock the Value of BI & Big 
+Data, 2nd Edition, McGraw-Hill, 2013. (e-book in PolyU library) 
+4.  Flory, Peter, The Complete Customer Relationship Management Handbook, 
+DSC, 2013. 
+5.  Baesens, Bart, Analytics in a Big Data World: The Essential Guide to Data 
+Science and its Applications, Wiley, 2014. (e-book in PolyU library) 
+6.  Dietrich,  B.  L.,  Plachy,  E.  C.  and  Norton,  M.  F.,  Analytics  Across  the 
+Enterprise: How IBM Realizes Business Value from Big Data and Analytics, 
+IBM Press, 2014. 
+7.  Sanders, Nada R., Big Data Driven Supply Chain Management: A Framework 
+for Implementing Analytics and Turning Information Into Intelligence, Pearson 
+2014. 
+8.  Chakraborty, G., Pagolu, M., and Garla, S., Text mining and analysis practical 
+methods, examples, and case studies using SAS, SAS press, 2014. 
+9.  Troyansky,  O.,  Gibson,T.,  Leichtwels,  C.  and  Bjork,  L.,  QlikView  Your 
+Business, Wiley, 2015. 
+10.  Harvard Business Review 
+ 
+Dec 2018 

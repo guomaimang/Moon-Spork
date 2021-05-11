@@ -1,0 +1,104 @@
+SUBJECT DESCRIPTION FORM 
+ 
+ 
+Subject Title: Industrial Placement             Subject Code: COMP 4000 
+ 
+Number of Credits: 24 Training Credits    Hours Assigned: 48 weeks industrial training 
+ 
+ 
+Pre-requisite: Nil    Co-requisite: Nil     Exclusion: Nil 
+ 
+ 
+Objectives: 
+ 
+  To provide the opportunity for students, companies and the University to interact; this 
+interaction brings about a unique learning environment not available on campus. 
+  To let students gain experience by practicing techniques acquired in the classroom, 
+such as system analysis, design, implementation, testing and/or maintenance. 
+  To let students learn how to interact effectively, efficiently and professionally with 
+others. 
+ 
+Student Learning Outcomes: 
+ 
+After taking this subject, the students should be able to: 
+Professional/academic knowledge and skills 
+(1) relate academic principles to social and technical environments; 
+(2) gain knowledge, confidence, and maturity, which help complete the final year more 
+successfully; 
+(3) gain better understanding of computing practices so that better choices of electives 
+and final year projects can be decided; 
+ 
+Attributes for all-roundedness 
+(4) build up a good degree of understanding of business practice which is usually not 
+available in the campus; 
+(5) apply those principles learnt in the classroom to real-life problems; 
+(6) improve interpersonal and communication skills. 
+ 
+ 
+Alignment of Programme Outcomes: 
+ 
+Programme Outcome 1: This subject contributes to this outcome through placement with 
+a company. 
+Programme Outcome 4: This subject contributes to this outcome through placement with 
+a company. 
+Programme Outcome 5: This subject contributes to this outcome through placement with 
+a company. 
+Programme Outcome 6: This subject contributes to this outcome through placement with a company. 
+Programme Outcome 7: This subject contributes to this outcome through placement with 
+a company. 
+ 
+ 
+Placement Procedure: 
+ 
+The detailed placement procedures are contained in a separate document prepared by the 
+Department, and its essence includes: 
+ 
+(1)  solicitation of suitable placement places by the Department; 
+(2)  helping students to arrange job interviews;   
+(3)  helping students to confirm placement offers with contracts.   
+  
+Prior to the industrial placement students are counselled, and a set of relevant documents 
+on placement procedures will be provided. Normally, students should complete certain 
+requirements on the skill sets (please refer to the  Definitive Programme Document) 
+before they can opt for placement. 
+ 
+During placement the Department assigns an academic staff as the WIE (Work-Integrated 
+Education) supervisor for each student. The WIE supervisor is encouraged to visit the 
+students within the first two months of the placement period. The purpose is to help the 
+placed student whenever possible, and to liaise with the company to settle with any early 
+problem detected. 
+ 
+The learning outcomes by the student should be specified in an agreement form, which 
+upon endorsement by the Department, will be used as an evaluation yardstick against the 
+student during the placement. Students must submit a written report detailing his/her 
+achievement during the placement period, with a reflection on the learning outcomes 
+attained. 
+ 
+ 
+Method of Assessment: 
+ 
+Assessment of student placements are based on the following: 
+ 
+(1) continuous assessment by the tutor through site visits, and by the company; 
+(2) final placement report submitted by the student when placement has ended. 
+ 
+The final assessment of a placement report is either pass or fail, with respect to the two 
+items above. It carries 24 training credits, and the credits do not count towards the 
+academic credits for graduation, nor do they contribute to the GPA calculation. 
+ 
+Under normal situations, a failing grade may be awarded when the student does not 
+complete the required placement duration, or performs poorly during placement, in not 
+achieving the agreed learning outcomes.  
+ 
+Method of Assessment for Learning Outcomes: 
+ 
+Assessment method /  % weighting  Intended subject learning outcomes to be 
+task  assessed (Please check as appropriate) 
+1  2  3  4  5  6       
+Assignments  N/A                   
+Lab exercises  N/A                   
+Project  N/A                   
+Mid-term  N/A                   
+Examination  N/A                   
+Total  100   
+ 

@@ -1,0 +1,91 @@
+Subject Description Form 
+ 
+Subject Code  COMP3921-3923 
+Subject Title  FinTech Seminars and Case Studies (I, II and III) 
+Credit Value  3 
+Level  3 
+Pre-requisite / 
+Co-requisite /  Nil. 
+Exclusion 
+Objectives  To fulfill the following FACT objectives: 
+    FinTech developments: To understand the latest developments of FinTech 
+  Applications: To understand how FinTech can be applied 
+  Case studies: To analyze FinTech through case studies 
+  Technologies: To evaluate various FinTech technologies   
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  follow the latest developments of FinTech; 
+(b)  evaluate FinTech from different perspectives; and 
+(c)  analyze FinTech applications and technologies. 
+Attributes for all-roundedness 
+(d)  gain insights from various academic and industrial speakers; and 
+(e)  build up on team work, presentation and technical writing skills. 
+ 
+Alignment of Programme Outcomes: 
+Programme Outcome 1: This subject contributes to having students practice their 
+writing skills with report writing. 
+Programme Outcome 2: This subject contributes to global outlook through studying 
+the global development of FinTech. 
+Programme  Outcome  4:  This  subject  contributes  to  developing  student  critical 
+thinking through written assignments and projects. 
+Programme Outcome 6: This subject contributes to following the advancement in 
+FinTech through the seminars by various speakers. 
+ Programme Outcome 7: This subject contributes to team work with a project for 
+students to work in a team. 
+Programme Outcome 8: This subject contributes to the understanding of FinTech 
+through the seminars and case studies. 
+Subject  Various academic and industrial speakers will be invited to cover a wide range of 
+Synopsis/  related topics such as: 
+Indicative 
+Syllabus    FinTech in Hong Kong 
+    FinTech – an industrial perspective 
+  Blockchain and Bitcoin 
+  FinTech startups 
+  Career development in the financial industry 
+  Latest research in security 
+  Mobile payment 
+  Crowdfunding 
+  Cybersecurity 
+  Legal issues related to FinTech 
+Note: The seminars will span three semesters with one hourly seminar per week. 
+Teaching/  Teaching is mainly conducted through seminars by academic and industrial speakers 
+Learning  so that students can learn from different perspectives, enriching their knowledge and 
+Methodology   widening their horizons. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment 
+with Intended 
+a  b  c  d  e 
+Learning 
+Outcomes 
+1. Assignments           
+ 
+2. Projects           
+3. Quizzes           
+Total   100 %   
+Note: Due to the seminar nature of this subject, 100% continuous assessment will be 
+adopted. Students will be assessed through assignments (e.g., essays), projects (e.g., 
+further study through a group project) and quizzes (e.g., short questions on the 
+seminars). 
+ Student Study  Class contact: 
+Effort 
+  Seminar (I, II and III)  39 Hrs. 
+Expected  
+ 
+Other student study effort: 
+  Self-study and other related work  65 Hrs. 
+Total student study effort   104 Hrs. 
+Reading List  Various related magazines and journals such as: 
+and References 
+1.  FinTech Weekly (https://www.fintechweekly.com) 
+2.  FinTech Times (http://thefintechtimes.com) 
+3.  Electronic Commerce Research and Applications 
+4.  Journal of Electronic Commerce Research 
+5.  IEEE Security and Privacy 
+6.  IEEE Computer 
+ 
+ 

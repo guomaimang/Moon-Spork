@@ -1,0 +1,122 @@
+Subject Description Form  
+ 
+Subject Code  COMP3021 
+Subject Title  Programming Language Paradigms 
+Credit Value  3 
+Pre-requisite /      Pre-requisite: COMP2011 Data Structures or equivalent 
+Co-requisite/ 
+Exclusion  Co-requisite/Exclusion: Nil 
+ 
+Objectives 
+  To provide students with an understanding of various principles and 
+paradigms in programming languages; 
+ 
+  To develop skills in describing, analyzing, and using the features of 
+programming languages. 
+ 
+Upon completion of the subject, students will be able to: 
+Intended Learning 
+ 
+Outcomes 
+Professional/academic knowledge and skills 
+(a) understand the general language design principles; 
+ 
+(b) understand the control flow and execution of a programming language; 
+(c) be aware of different programming paradigms; 
+(d)  evaluate  the  design  of  a  given  programming  language  for  the 
+application at hand; 
+ 
+Attributes for all-roundedness 
+(e) solve problems independently; 
+(f) think critically for a specific design and the rationale behind. 
+ 
+Updated in Dec 2016  
+Subject Synopsis/ 
+Duration of 
+Indicative Syllabus  Topic 
+Lectures 
+  1.  Programming language paradigms  2 
+  Overview  of  existing  programming  languages  and 
+programming  paradigms;  history  of  programming 
+languages. 
+ 
+2.  Scoping and sub-routine  4 
+Concept of blocks; environment; scope and visibility 
+of  variables;  static  and  dynamic  scoping;  run-time 
+stack;  procedure  call;  parameter passing semantics; 
+activation records and recursion. 
+ 
+3.  Concurrent & parallel languages  6 
+Multithreading,  message  passing,  languages:  Scala, 
+Go, Erlang, Clojure. 
+ 
+4.  Functional languages  6 
+Mathematical functions, lists, function composition, 
+languages (e.g., Lisp, ML, Haskell). 
+ 
+5.  Logic languages  6 
+Predicate  calculus,  theorem  proving,  logic 
+programming,  languages  (e.g.,  Prolog  and  its 
+variants).  
+ 
+6.  Memory management in programming languages  2 
+Pointers,  dangling  references,  garbage  collection, 
+common practices for programming.  
+ 
+Total  26 
+ 
+Teaching/Learning  Lectures provide students the fundamental concepts of the topics, with 
+Methodology   corresponding illustrative examples. 
+  Tutorials and lab sessions enable students to experience with the features 
+of programming languages of different paradigms. 
+Assignments help students apply design and analysis techniques; whereas 
+the project focuses on implementation skills. 
+ 
+Updated in Dec 2016  
+Assessment 
+Methods in  Specific assessment  % weighting  Intended subject learning outcomes 
+Alignment with  methods/tasks   to be assessed (Please tick as 
+Intended Learning  appropriate) 
+Outcomes 
+a  b  c  d  e  f 
+ 
+1. Assignments               
+2. Lab exercises               
+3. Project  55%             
+4. Mid-term / Tests             
+5. Examination  45%             
+Total   100 %   
+ 
+Explanation of the appropriateness of the assessment methods in assessing 
+the intended learning outcomes: 
+All five tasks are relevant to the assessment of programming language 
+design principles and paradigms (for items a, b). 
+Lab exercises are used to obtain hands-on experiences on programming 
+languages of different paradigms (for item c); the project assesses the 
+evaluation of a programming language for an application (for item d); the 
+mid-term and examination are used to assess independent problem solving 
+and critical thinking (for items e, f). 
+Student Study  Class contact:   
+Effort Expected 
+  Lecture  26 Hrs. 
+ 
+  Tutorial/Lab  13 Hrs. 
+Other student study effort:   
+  Assignments  13 Hrs. 
+  Project  52 Hrs. 
+Total student study effort   104 Hrs. 
+Textbooks: 
+Reading List and 
+References  1.  Robert W. Sebesta, Concepts of Programming Languages, Ninth 
+Edition, Addison Wesley, 2009. 
+2.  Allen B. Tucker and Robert E. Noonan, Programming Languages: 
+Principles and Paradigms, Second Edition, McGraw-Hill, 2007. 
+ 
+Reference Books: 
+1.  Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman, Compilers: 
+Principles,  Techniques,  and  Tools,  Second  Edition, 
+Pearson/Addison-Wesley, 2007. 
+2.  Franklyn A. Turbak and Mark A. Sheldon, Design Concepts in 
+Updated in Dec 2016 Programming Languages, MIT Press, 2008. 
+ 
+Updated in Dec 2016 

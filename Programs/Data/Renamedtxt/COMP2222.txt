@@ -1,0 +1,110 @@
+Subject Description Form 
+ 
+Subject Code  COMP 2222 
+Subject Title  Introduction to Human-Computer Interaction Methods 
+Credit Value  3 
+Level  2  
+Pre-requisite/ Co- Nil 
+requisite/ Exclusion 
+Objectives  The objectives of this subject are: 
+1.  To  provide  students  with  a  broad  view  of  both 
+theoretical  and  practical  issues  in  human  factors  for 
+design of human-computer interfaces. 
+2.  To equip students with knowledge and understanding of 
+the  nature  of  human  computer  interactions,  human 
+characteristics,  computer  system  and  interface 
+architecture. 
+3.  To  equip  students  with  sound  skills  in  design  and 
+evaluation of user interfaces. 
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes   
+Professional/academic knowledge and skills 
+(a) Understand and appreciate the human factors and the 
+theoretical  issues  involved  in  human-computer 
+interaction design; 
+(b) Apply the theoretical design principles to the design and 
+evaluation of user interfaces; 
+(c) Collect  user  requirements,  design  a  human-computer 
+interface according to these requirements, and evaluate 
+the design; 
+ 
+Attributes for all-roundedness 
+(d) Solve problems by using systematic approaches;  
+(e) Solve complex problems in groups;  
+(f) Write technical reports and present the findings. 
+ 
+Subject Synopsis/  1.  Nature  of  Human  Computer  Interaction  (HCI). 
+Indicative Syllabus  Definitions and importance of HCI; historical context of 
+HCI; roles various disciplines play within HCI.  
+2.  Evaluation. Role of evaluation; evaluation techniques; 
+experiments and benchmarking. 
+3.  Human Characteristics. Perception and representation; 
+models and limits of human memory; mental models; 
+use  of  metaphors;  support  user  aspects  of  language, 
+social  and  organizational  aspects;  input  and  output 
+devices:  performance  characteristics  (human  and 
+system); speech input and output. 4.  Dialogue interactions and formal models. Task analysis 
+and predictive modeling; dialogue interaction: types and 
+techniques;  multimedia  and  non-graphical  dialogues; 
+response  time;  statistical  models  for  describing 
+interaction processes. 
+5.  Design  guidelines  and  metrics.  User-centered  design 
+and task analysis; software engineering design models; 
+structural HCI design and envisioning design; standards 
+and metrics; guidelines to support design; standards and 
+metrics; documentation and on-line information. 
+6.  Design of applications. Design rationale; participatory 
+design;  user  interface  management  systems;  WWW 
+application design. 
+Teaching/Learning  Lectures 
+Methodology  During  the  lectures,  students  will  come  across  the  common 
+concepts,  methods,  and  issues  in  HCI,  and  will  be 
+supplemented by mini-cases and in-class exercises. Students are 
+required to actively participate in the case discussion and the 
+Q&A exercises. 
+ 
+During  the  tutorials,  students  will  have  the  opportunity  to 
+practice, apply, and present what they have learned. They will 
+also be able to share their ideas and experience, as well as learn 
+from each other. 
+ 
+Students  will  learn  not  only  in  the  class  but  also  through 
+various coursework activities. 
+Assessment Methods in   
+Alignment with  Specific Assessment  %  Intended subject 
+Intended Learning  Methods/Tasks  weighting  learning 
+Outcomes  outcomes to be 
+assessed 
+a  b  c  d  e  f 
+Continuous Assessment  60%  (cid:1)  (cid:1)  (cid:1)  (cid:1)  (cid:1)  (cid:1) 
+Final Examination  40%  (cid:1)  (cid:1)  (cid:1)  (cid:1)     
+ 
+Explanation of the appropriateness of the assessment methods 
+in assessing the intended learning outcomes: 
+The course will be accessed by assignments, projects, and tests. 
+Assignments  are  designed  to  reinforce  the  concepts  and 
+methods  learned  in  the  class.  Projects  are  used  to  develop 
+students’ analytic and problem solving skills. The written part 
+of  the  assignments  and  projects  helps  student  develop  their 
+organization  and  documentation  skills.  The  oral  part  of  the 
+coursework  allows  students  to  present  their  ideas  and 
+communicate  effectively  to  the  audience.  Tests  are  used  to assess independent problem solving and critical thinking skills. 
+ 
+Student study effort  Class Contact: 
+expected  Lecture  26 hours 
+Tutorial/Lab  13 hours 
+Other student study effort: 
+Assignments, Coursework, Reading, Exams  66 hours 
+Total student study effort  105 hours 
+Reading list and  Textbook: 
+references  B. Shneiderman and C. Plaisant, Designing the User Interface: 
+Strategies for Effective Human-Computer Interaction, 5th 
+Edition, Addison Wesley, 2010. 
+Reference Books: 
+1.  Dix, J. Finlay, G. Abowd, and R. Beale, Human-
+Computer Interaction, 3rd Edition, Prentice Hall, 2004. 
+2.  P.K. Andleigh and K. Thakrar, Multimedia Systems 
+Design, Prentice Hall, 1996. 
+3.  M.E.S. Morris and R.J. Hinrichs, Web Page Design: A 
+Different Multimedia, Prentice Hall, 1996. 
+ 

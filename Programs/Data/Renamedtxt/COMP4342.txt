@@ -1,0 +1,151 @@
+Subject Description Form 
+ 
+Subject Code  COMP4342 
+Subject Title  Mobile Computing 
+Credit Value  3 
+Level  4 
+Pre-requisite /   Pre-requisite: COMP2411 and COMP2432/COMP1411 
+Co-requisite / 
+Exclusion   
+Objectives  The objectives of this subject are to: 
+    learn about the concepts and principles of mobile computing; 
+  explore both theoretical and practical issues of mobile computing; and 
+  develop skills of finding solutions and building software for mobile computing 
+applications. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  grasp  the  concepts  and  features  of  mobile  computing  technologies  and 
+applications; 
+ 
+ 
+(b)  have  a  good  understanding  of  how  the  underlying  wireless  and  mobile 
+ 
+communication networks work, their technical features, and what kinds of 
+ 
+applications they can support; 
+ 
+  (c)  identify the important issues of developing mobile computing systems and 
+  applications; 
+ 
+  (d)  organize the functionalities and components of mobile computing systems into 
+  different layers and apply various techniques for realizing the functionalities; 
+ 
+  (e)  develop mobile computing applications by analyzing their characteristics and 
+  requirements,  selecting  the  appropriate  computing  models  and  software 
+  architectures, and applying standard programming languages and tools; and 
+ 
+  (f)  organize and manage software built for deployment and demonstration. 
+ 
+Attributes for all-roundedness 
+ 
+ 
+(g)  analyze  requirements  and  solve  problems  using  systematic  planning  and 
+ 
+development approaches; 
+ 
+ 
+(h)  search for and read critically the information required in solving problems; 
+ 
+ 
+(i)  write and present technical survey papers in well-organized and logical manner; 
+ 
+and 
+   
+Jan 2019 (j)  work in teams and collaborate with classmates. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Overview of Mobile Computing 
+Syllabus 
+Motivations, concepts, challenges, and applications of mobile computing; 
+  relationship  with  distributed  computing,  Internet  computing, 
+ubiquitous/pervasive computing; Mobile computing models and architectures. 
+2.  Wireless Networks 
+Wireless communication concepts; classification of wireless networks: Cellar 
+networks (1G, 2G, 3G, 4G, 5G), WLAN, WPAN, WMAN, Satellite networks. 
+3.  Mobile Device Platforms 
+Mobile  devices;  mobile  OS  (Android,  iOS,  Windows  Mobile  and  .Net 
+Framework). 
+4.  Wireless Mobile Internet 
+Wireless Internet architecture; Wireless gateway; Wireless application server; 
+Synchronization server; Messaging server; Mobile Internet proxy services 
+(transcoding,  caching);  Data  dissemination;  Disconnected  operations 
+(hording). 
+5.  Mobile Ad Hoc Networks 
+Concepts  and  applications;  routing  in  mobile  ad  hoc  networks;  sensor 
+networks, mobile peer-to-peer computing. 
+6.  Mobility Management 
+Handoff and location management concepts; mobility management in PLMN; 
+mobility  management  in  WLAN;  mobility  management  in  mobile  agent 
+systems; adaptive location management methods. 
+7.  Location-Based Services 
+LBS applications; mobile positioning techniques; GIS; LBS architecture and 
+protocols. 
+Tutorials / Laboratory Experiment: 
+Topic  Duration of Laboratory 
+1.  Tutorials  7 Hrs. 
+2.  Labs: Android Programming  6 Hrs. 
+ 
+ 
+Teaching/  The subject includes lectures, tutorials, and labs. During lectures, the fundamental 
+Learning  concepts and principles of mobile computing together with the challenging issues in 
+Methodology   system  design  and  application  development  will  be  introduced.  Discussion  on 
+various topics related to mobile computing will also be conducted. The labs serve the 
+  purpose of training the students to apply the knowledge and technical skills learnt to 
+develop applications, by using trendy programming platforms. Students are also 
+encouraged to learn through self-study and team work. 
+Jan 2019  
+Assessment 
+Specific  %  Intended subject learning outcomes to be assessed 
+Methods in 
+assessment  weighting  (Please tick as appropriate) 
+Alignment with 
+methods/tasks 
+Intended 
+a  b  c  d  e  f  g  h  i  j 
+Learning 
+Outcomes 
+Continuous                     
+Assessment 
+ 
+1. Assignments                     
+55% 
+2. Lab Exercises                     
+3. Project                     
+4. Mid-term                     
+Examination  45%                     
+Total   100 %   
+Assignments include individual an individual work on writing survey report and a 
+group project on developing mobile computing applications.  Together with the 
+tutorial and lab sessions, they will be used to assess students’ ability and skills to 
+develop innovative applications and conduct survey on current trend of technology.  
+Through group project, report writing and presentation skills will also be assessed.  
+The mid-term and final exams are used to assess the students’ understanding, critical 
+thinking, and problem solving abilities. 
+Student Study  Class contact: 
+Effort Expected  
+    Lectures  26 Hrs. 
+  Tutorials/Lab  13 Hrs. 
+Other student study effort: 
+  Assignments, Reading, Project, Exams  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Textbooks: 
+and References 
+No particular textbook.  Reference books and articles will be used. 
+Reference Books: 
+1.  Schiller, Jochen, Mobile Communications, 2nd Edition, Pearson Education, 
+2003. 
+2.  Mallick, Martyn, Mobile and Wireless Design Essentials, Wiley Publishing, 
+2003. 
+3.  Kwok, Yu-Kwong Ricky and Lau, Vincent K. N., Wireless Internet and Mobile 
+Computing:  Interoperability  and  Performance,  Wiley-IEEE  Press,  2007. 
+(Google Book) 
+Jan 2019 4.  Agrawal, Dharma P. and Zeng, Qing-An, Introduction to Wireless and Mobile 
+Systems, 2nd Edition, Thomson Learning, 2006. 
+5.  B’Far, Reza, Mobile Computing Principles: Designing and Developing Mobile 
+Applications with UML and XML, Cambridge University Press, 2005. 
+6.  Kamal, Raj, Mobile Computing, 2nd Edition, Oxford University Press, 2012. 
+ 
+Jan 2019 

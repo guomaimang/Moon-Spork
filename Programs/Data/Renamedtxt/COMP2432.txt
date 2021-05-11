@@ -1,0 +1,106 @@
+Subject Description Form 
+ 
+Subject Code  COMP2432 
+Subject Title  Operating Systems 
+Credit Value  3 
+Level  3 
+Pre-requisite /  Pre-requisite: COMP2011 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  introduce to students about the different types of services provided by operating 
+systems; 
+  equip students with knowledge and understanding on the concepts and theories 
+of operating systems; and 
+  equip students with skills on the implementation issues of operating systems. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  identify the services provided by operating systems; 
+(b)  understand the internal structure of an operating system and be able to write 
+programs using system calls; and 
+(c)  understand and solve problems involving key concepts and theories in operating 
+systems,  including  process  control,  mutual  exclusion,  deadlock  and 
+synchronization. 
+Attributes for all-roundedness 
+(d)  develop skills in problem solving using systematic approaches; and 
+(e)  solve complex problems in groups and develop group work. 
+Dec 2018  
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to Operating Systems 
+Syllabus 
+Types  and  functionalities  of  operating  systems;  system  components  and 
+services; resource management. 
+2.  Unix and Linux 
+Usage of Unix and Linux; shell and commands; scripts; system calls. 
+3.  Process Management 
+Process concepts; process manipulation; asynchronous concurrent processes; 
+process  communication;  mutual  exclusion;  synchronization;  deadlock; 
+scheduling algorithms. 
+4.  Memory and Secondary Storage Management 
+Virtual  memory;  paging  and  segmentation  system;  secondary  storage 
+allocation; directory and file system structure. 
+5.  Protection and Security 
+Protection and access control; capabilities; security and cryptography. 
+6.  Case Studies on Operating Systems 
+Structure of Unix, Linux, Mac OS, Windows 7, etc. 
+ 
+Teaching/  During the lectures, students will come across the common concepts and theories in 
+Learning  operating systems. Those concepts and theories would be explained with reference 
+Methodology  to real operating systems such as Unix and Linux. Case studies on those operating 
+systems would be provided. 
+During the laboratories, students will have to practice the OS usage and concepts, 
+via programming with different system calls and scripts to achieve the learning 
+effect. 
+During the tutorials, students will have the opportunity to practice and apply what 
+they have learned during the lecture to reinforce their knowledge. 
+Written and programming assignments let students apply their knowledge to solve 
+problems. The group project provides the students an environment to work together 
+for a bigger problem and to stimulate learning from peers. 
+Dec 2018  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment  55%           
+Examination  45%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+The course will be accessed by assignments, project, test and examination. 
+Assignments are designed to reinforce the concepts and algorithms learned in the 
+lecture and laboratory, by solving bigger problems. Project is used to develop 
+students’ analytic and problem solving skills by implementing a significant piece of 
+software. Test and examination are used to assess independent problem solving and 
+critical thinking skills.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  39 Hrs. 
+  Tutorial/Lab  13 Hrs. 
+Other student study effort: 
+  Assignments, Projects, Self-study, Test and Exam 
+53 Hrs. 
+Preparation 
+Total student study effort   105 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Silberschatz, A., Galvin, P.B. and Gagne, G., Operating System Concepts, 8th 
+Edition, John Wiley and Sons, 2009. 
+Reference Books: 
+1.  Elmasri,  E.,  Carrick,  A.G.  and  Levine,  D.,  Operating  Systems:  A  Spiral 
+Approach, McGraw Hill, 2010. 
+2.  Dhamdhere,  D.M.,  Operating  Systems:  A  Concept-based  Approach,  2nd 
+Edition, McGraw Hill, 2006. 
+3.  Diaz, C., Introduction to Unix/Linux, Thomson, 2007. 
+4.  Robbins, K.A., Unix Systems Programming, Prentice Hall, 2003. 
+ 
+Dec 2018 
