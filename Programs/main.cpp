@@ -20,11 +20,11 @@ MAIN PROGRAM
 //Setting the namespaces
 using json = nlohmann::json;
 using namespace std;
-int main() {
+int main()
+{
     DisplayResult(search(InputCleaning(InitialInput())));
-    cout<<"Press ENTER to exit";
+    cout << "Press ENTER to exit";
     cin.get();
     cin.get();
     return 0;
-    
 }

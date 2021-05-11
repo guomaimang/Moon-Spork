@@ -1,6 +1,7 @@
 /*
 Written by Zhuchen WANG at May 8, 2021
 Modified by Zhuchen WANG at May 10, 2021
+
 This function is used for displaying the search result and offer some interactions.
 It can receive the pointer of the float array which stores the relative score of each course
 and print out the search result form the high relative to the low relative.
@@ -47,7 +48,8 @@ void ShowContent(string a)
 // This function is to display the search result by relative scores' order and offer some interactions.........................
 void DisplayResult(int *scores)
 {
-    cout << "------------------------------------------------- Search Results ------------------------------------------------------" << endl << endl;
+    cout << "------------------------------------------------- Search Results ------------------------------------------------------" << endl
+         << endl;
     cout << "--------------------------------------------- Subject Title ----------------------------------------------------|Index";
     cout << endl;
     int original_score[81];
@@ -74,7 +76,7 @@ void DisplayResult(int *scores)
         }
     }
 
-// If count==0 , that means all the scores are 0 , so there is no relative course.
+    // If count==0 , that means all the scores are 0 , so there is no relative course.
     int count = 0;
     int single_scores[81];
     for (int i = 0; i < 81; i++)
