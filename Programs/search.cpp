@@ -1,6 +1,14 @@
 //
 // Created by 韩佳明 on 2021/5/8.
 //
+/*
+Written by Jiaming HAN on May 8
+Modified by Jiaming HAN on May 10
+Modified by Yunfei LIU on May 11
+
+This function implements the algorithm, and calculate a relative score for sorting.
+It receives a group of keywords after cleaning, and return an array to show the relative index.
+*/
 #include <iostream>
 #include <set>
 #include <map>
