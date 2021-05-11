@@ -4,7 +4,6 @@
 
 ## Table of Content
 1. Introduction
-2. Algorithm
 3. Data Structure
 4. Program Design
 5. Data Process

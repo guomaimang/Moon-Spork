@@ -1,0 +1,128 @@
+Subject Description Form 
+ 
+Subject Code  COMP4422 
+Subject Title  Computer Graphics 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: COMP2011 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  learn basic and fundamental computer graphics techniques; 
+  learn 3D image synthesis techniques; and 
+  understand 3D modeling, design and visualization. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+(a)  gain proficiency in 3D computer graphics API programming; 
+(b)  understand the interactive computer graphics architecture; 
+(c)  possess  in-depth  knowledge  of  display  systems,  image  synthesis,  shape 
+modeling, and interactive control of 3D computer graphics applications; and 
+(d)  enlarge their perspective of modern computer system with modeling, analysis 
+and interpretation of 2D and 3D visual information. 
+Attributes for all-roundedness 
+(e)  understand,  appreciate  and  follow  the  development  and  advancement  of 
+computer  graphics  technologies,  including  advanced  technologies  for  3D 
+modelling, high performance rendering (life-long learning). 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Basic Introduction to Human Vision, Displays, Graphics Pipeline 
+Syllabus 
+2.  GPUs, CG Processing, Frame Buffers and APIs 
+3.  2D Modeling, Primitives and Rasterization 
+4.  Polygon Geometry 
+5.  Geometric Transformations 
+6.  Two-dimensional Viewing and Clipping 
+7.  Three-dimensional Viewing and Projections 
+8.  Three-dimensional Object Representations 
+Dec 2018 9.  Visible Surface Detection 
+10. Illumination Models 
+11.  Shading Models 
+12.  Color Models 
+13. Hierarchical Modeling 
+14. Three-dimensional Scene Rendering 
+ 
+Laboratory Experiments: 
+Laboratory  exercises  will  normally  be  conducted  using  the  currently  available 
+computer graphics API such as OpenGL. The students will be exposed to basic 
+frame-buffer  control,  pixel  processes,  rasterization,  2D  drawings,  3D 
+transformations, projections, scene hierarchy, modeling objects, color and interactive 
+animation. 
+Case Study: 
+If applicable, case studies may be conducted on modeling and design systems that 
+are used in commercial applications.
+ 
+Teaching/  The teaching methodology is based on these main activities: 
+Learning 
+Methodology  1.  Lecture delivery 
+2.  Interactive exchange with students in class 
+3.  Laboratory exercises consisting of hands-on programming exercises and tests 
+4.  Tutorial sessions in and/or outside the lecture and laboratory sessions 
+5.  Exposition and training sessions on a commercial grade studio package 
+6.  Sessions on 3D artistic design and special effects 
+7.  Office hours questions, answers and clarification of material 
+8.  Discussion sessions with optional additional workshops, lectures and labs 
+The learning methodology will be based on: 
+1.  Lecture notes 
+2.  Laboratory notes and programming exercises 
+3.  Textbook material 
+4.  Additional reference material 
+5.  Web links to active tutorials and other presentation material 
+Group interactions and supervised discussion sessions. 
+Dec 2018  
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d  e 
+Outcomes 
+Continuous Assessment  60%           
+1. Assignments           
+2. Lab Exercises  30%           
+3. Project           
+4. Mid-term  30%           
+Examination  40%           
+Total   100%   
+The assignment weights will be effectively distributed amongst the intended subject 
+learning outcomes to nurture creative thinking, independence, teamwork, technical 
+skills  and  a  global  perspective  towards  the  technological  base  of  this  subject. 
+Specifically, the assignments and the lab exercises are selected to develop the 
+technical  skills  and  knowledge  to  solve  problems  in  computing  and  software 
+development as well as to realize effective solutions, understand, evaluate and 
+develop a critical perspective in the development of both small and large systems and 
+integration  of  systems.  Critical  thinking,  effective  communication  and  a 
+demonstrable global outlook will be incorporated at every level of exercises and mid-
+term examinations. The final examination accounts for a global and comprehensive 
+understanding of the entire subject material and serves as the final checkpoint for the 
+learning outcomes against technical skills and critical problem solving with respect 
+to all components of computer graphics and 3D modeling.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+  Tutorial/Laboratory  13 Hrs. 
+Other student study effort: 
+  Assignments  24 Hrs. 
+  Course Work: Reading, Discussions  42 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Textbook: 
+and References 
+1.  Marschner, Steve and Shirley, Peter, Fundamentals of Computer Graphics, 4th 
+Edition, CRC Press, 2016. 
+Reference Books: 
+Dec 2018 1.  Cantor, Diego and Jones, Brandon, WebGL Beginner’s Guide, 1st Edition, 
+PACKT Pub, 2012. 
+2.  Blender Reference Manual, 
+https://docs.blender.org/manual/en/latest/index.html 
+3.  Hearn,  D. and  Baker,  M.,  Computer Graphics with OpenGL, 4th Edition, 
+Prentice-Hall, 2011. 
+4.  Hill, F.S. Jr., Computer Graphics Using Open GL, 2nd Edition, Prentice Hall, 
+2001. 
+ 
+Dec 2018 

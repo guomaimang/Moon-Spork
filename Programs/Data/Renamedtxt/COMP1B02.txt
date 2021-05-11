@@ -1,0 +1,158 @@
+Subject Description Form 
+ 
+ 
+Subject Code  COMP1B02 
+Subject Title  Friends, Followers and Circles: Connections in a Socially-Computed World 
+Credit Value  3 
+Level  1 
+Medium of  English 
+Instruction 
+Pre-requisite and/or  Pre-requisites: Nil 
+Exclusion(s)   
+Exclusion: COMP 1901 Seminars and Topics in Information Technology 
+ 
+Objectives  Specific objectives of the subject: 
+ 
+ 
+This subject is specifically targeted at students not in the Computing discipline. They 
+will learn of the basic concepts and essential elements of social computing behind the 
+social network for general audience; the focus is not simply on what the social 
+network is, but also on how it is formed and evolved, with some of the supporting 
+technologies underneath. The objectives are (1) to introduce non major students to the 
+core concepts of social computing and to arouse their interests, (2) to give them an 
+idea of how various technologies work together to create the fantastic virtual world, 
+(3) to relate the social networking concepts to real-life applications under a broad 
+range of platforms, (4) to teach the student of the theories behind the modeling and 
+analysis of social networks and (5) to provoke students into analyzing the short-term 
+impacts and projecting long-term impacts of social computing in the context of 
+technological advances and society. 
+ 
+Students are not expected to have any background in Computing and Information 
+Technology. The subject will cover both social and technological aspects underlying 
+social computing, including internet platforms, web servers, content management, user 
+management, social linkage: formation and implication, pervasive access via mobile 
+devices, underlying social computing policies and mechanisms. Students will explore 
+contemporary social networks, media and so on, learning through group projects, 
+active discussion and individual blogging on BlackBoard etc. 
+ 
+Students are expected to apply the fundamental knowledge acquired during lectures on 
+to specific domains of social networking for proper analysis. This is achieved upon 
+case-studying contemporary social networks and probably participating in some of 
+them. They will report the results as a group project and present to the benefits of 
+other students. An individual term paper on a related topic will provide a student with 
+the chance to work on his/her own and demonstrate one’s actual ability. 
+ 
+Intended Learning  Upon completion of the subject, students will be able to: 
+Outcomes  a.  Understand the basic concepts of social networks and the underlying social 
+computing; 
+  b.  Possess the ability to appreciate the design and operation of different social 
+networks; 
+c.  Possess the ability to understand the interactions between social networking 
+media, contents, and usage platforms; and  
+d.  Possess the ability to predict changes in social computing with respect to 
+technological advances.  
+ 
+Relationship  between  the  learning  outcomes  with  the  following  three  essential 
+Last update in July 2014 features: Literacy, Higher order thinking, and Life-long learning 
+ 
+Literacy: 
+Learning outcomes (a), (b) and (c) are designed to teach and to train students’ 
+technological literacy, in technical contents like servers and platforms, and less 
+technical contents like relationships between users and mutual inference. Students will 
+perform blogging, browse through contemporary social networks and use them. The 
+knowledge level will stay beyond simply knowing, but also understanding. 
+ 
+Higher-Order Thinking: 
+Learning outcomes (b), (c) and (d) are designed to teach and to train students’ higher-
+order thinking in appreciating social networks and the technology underneath. The 
+interactions of various components require students to think critically, to connect and 
+even to create knowledge with respect to different computational platforms. The 
+connectivity of the social network can reveal interesting information and generalized 
+into knowledge that are extractable by various computation techniques. Students 
+would be able to apply towards other applications in daily life and propose new ones. 
+ 
+Life-Long Learning: 
+Learning outcomes (c) and (d) are designed to train students and provide them with 
+the foundations for independent life-long learning. Through the linkage created in the 
+social network and the content, the subject aims to motivate students to pursue 
+continuous learning by making relevant the subject matter to daily life. Students are 
+encouraged to follow on the technological and social development of social network 
+and social computing in the new decade. 
+ 
+Subject Synopsis/  1.  Social networks 
+Indicative Syllabus   Overview; nodes, links and distances; social network connections; sixth degree of 
+separation; hubs and authorities; friends and followers; crowds, communities and 
+circles; social network services. 
+ 
+2.  Information in social network 
+Media content; blogging; tagging; node attributes; user profiles; “like”ness and 
+rating; information aggregation; wisdom of crowds; crowd-sourcing; 
+recommendation; collaborative filtering. 
+ 
+3.  Contemporary social network-like platforms 
+Facebook; Twitter; Google+; MySpace; Flickr; LinkedIn; MSN; QQ; Wikipedia; 
+Kiva; OpenRice. 
+ 
+4.  Technological support 
+Internet and web; web servers and clients; Android and iOS platforms. 
+ 
+5.  Computational aspects of social networks 
+Social network modeling and analysis; visualization; information extraction; 
+clustering and data mining. 
+ 
+6.  Selected social network topics 
+Sample topics include social presence, social games, creditability, free-rider and 
+incentive schemes, addiction, psychological impact, social impact, ethics, privacy 
+threats, information leakage, use of social networks for marketing, human search 
+engines, connecting from virtual world to real world, gold farming in online 
+games. 
+ 
+Teaching/Learning  The  course  materials  are  delivered  mainly  through  a  combination  of  lectures, 
+Methodology  seminars,  workshops  and  tutorials.  Students  acquire  the  fundamental  knowledge 
+through  lectures  and  seminars.  Students  will  work  together  during  tutorials  and 
+Last update in July 2014   workshops, facilitated by the teaching staffs, for various case studies and for group 
+project to reinforce their knowledge acquired during lectures. Students should perform 
+active blogging and study on the social media, with BlackBoard being the first “mini-
+social network”. Students will demonstrate their knowledge acquired through the term 
+paper and a few quizzes, let alone the group project. 
+Assessment   
+Methods in  Specific assessment  %  Intended subject learning outcomes to 
+Alignment with  methods/tasks   weighting  be assessed (Please tick as appropriate) 
+Intended Learning 
+a  b  c  d 
+Outcomes 
+  1. Class attendance,  20 
+X  X  X  X 
+discussion and blogging 
+2. Project  30  X  X  X  X 
+3. Term paper  25  X  X  X  X 
+4. Quizzes  25  X  X  X   
+Total   100 %   
+ 
+Student Study 
+Class contact:   
+Effort Expected  
+  (cid:1)  Lectures / Seminars  26 Hrs. 
+(cid:1)  Tutorials / Workshops  13 Hrs. 
+Other student study effort:   
+(cid:1)  Self study   24 Hrs. 
+(cid:1)  Term project and term paper  42 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List and   
+Reference  1.  M.O. Jackson. Social and Economic (cid:12)etworks. Princeton University Press, 
+2010. 
+2.  N.A. Christakis, J.H. Fowler. Connected: The Surprising Power of Our Social 
+(cid:12)etworks and How They Shape Our Lives - How Your Friends’ Friends’ 
+Friends Affect Everything You Feel, Think, and Do. Little, Brown & 
+Company, 2009. 
+3.  L.C. Hillstrom. Online Social (cid:12)etworks. Lucent Books, 2010. 
+4.  M.A. Russell. Mining the Social Web: Analyzing Data from Facebook, 
+Twitter, LinkedIn, and Other Social Media Sites. O'Reilly Media, 2011. 
+5.  B. Furht. Handbook of Social (cid:12)etwork Technologies and Applications. 
+Springer, 2010. 
+6.  D.J. Watts. Six Degrees: The Science of a Connected Age. W.W. Norton & 
+Company, 2003. 
+ 
+ 
+Remark: This subject fulfils CAR (COG) requirement. 
+Last update in July 2014 

@@ -1,0 +1,98 @@
+Subject Description Form 
+ 
+Subject Code  COMP4435 
+Subject Title  Dependable Computing  
+Credit Value  3 
+Pre-requisite /   NIL 
+Co-requisite/ 
+Exclusion 
+The objectives of this subject are to: 
+Objectives 
+1. introduce to students the concept of dependability as a measure of a 
+  system’s availability, reliability and maintainability 
+2. equip students with knowledge on the measures and techniques to 
+improve system dependability 
+3. discuss how dependable computing techniques can be applied in 
+practical scenarios  
+Upon completion of the subject, students will be able to: 
+Intended Subject 
+Learning Outcomes  Professional/Academic Knowledge and Skills 
+(1) understand the elements of dependability and why it matters; 
+ 
+(2) understand  how  dependability  of  a system can be assessed or 
+measured; 
+(3) apply various techniques to improve the dependability of a software 
+system; 
+Attributes for All-Roundness 
+(4) an  ability  to  explain  the  attributes,  threats  and  means  of  an 
+information system to a wide range of audience 
+Programme  Outcome  3:  This  subject  contributes  to  the  knowledge  of 
+Contribution of the 
+dependability and fault tolerance necessary to the discipline of information 
+Subject to the 
+security. 
+Attainment of the 
+Programme  Programme Outcome 4: This subject allows the students to assess the 
+Outcomes  dependability of an information system and to design measures to ensure its 
+reliability 
+Programme Outcome 9: To analyse the impact of system dependability on 
+individuals, organizations and society 
+1.  Overview of Dependability  
+Subject Synopsis/ 
+Notion of dependability, its definition, attributes (availability, reliability, 
+Indicative Syllabus 
+safety, security, maintainability) and measurements as well as related 
+concepts such as errors, faults and hazard 
+ 
+2.  Fault Avoidance and Fault Elimination  
+Role of specification (the Z language), programming standards, 
+inspection and testing. 
+3.  Fault Tolerance  
+Fault detection, masking, containment, location, reconfiguration and 
+recovery, redundancy 
+4.  Secure Issues in E-commerce  
+E-commence security breaches, including Internet Fraud and 
+Espionage, Secure Electronic Transactions (SET), the iKP protocols 
+5.  Advanced Topics  
+Dependability evaluation techniques and tools: fault trees, Markov 
+chains; fault tolerance in distributed systems; Information Redundancy; 
+Risk Analysis, Disaster Recovery, Emergency Management; Security 
+Policies, Procedures, Frameworks During the lectures, students will come across the common concepts and 
+Teaching/Learning 
+theories. Those concepts and theories would be explained with reference to 
+Methodology  
+case studies.  
+In the tutorials, students will be given scenarios related to the area of 
+information security where these concepts are relevant.  
+ 
+Assessment Methods 
+in Alignment with  Specific  %  Intended Subject Learning 
+Intended Subject  Assessment  Weighting  Outcomes to be Assessed 
+Learning Outcomes  Methods/Tasks   (Please tick as appropriate) 
+ 
+1  2  3  4       
+Continuous  55     
+         
+Assessment 
+Final Examination  45            
+ 
+Types of assessments included assignments, test and examination. 
+Assignments are designed to reinforce the concepts and theories learned in 
+the lecture and tutorial, by solving bigger problems. Test and examination 
+are used to assess independent problem solving and critical thinking skills. 
+Student Study Effort  Class contact (time-tabled):   
+Expected 
+Lecture  39 hours
+Other student study effort: 
+Assignments, self-study, text and exam preparation  66 hours
+105 hours
+Total student study effort: 
+Reference Books:  
+Reading List and 
+References  1.  Fundamentals of Dependable Computing for Software Engineers, John 
+Knight, Chapman and Hall/CRC, ISBN: 1439862559 
+2.  Software  Reliability  Engineering:  More  Reliable  Software  Faster  and 
+Cheaper, John D. Musa, Authorhouse, ISBN: 1418493872 
+ 
+ 
+ 

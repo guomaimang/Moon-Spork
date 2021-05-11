@@ -1,0 +1,155 @@
+Subject Description Form 
+Subject Code  COMP1901 
+Subject Title  Seminars and Topics in Information Technology 
+Credit Value  3 
+Level  1 
+Pre-requisite /  Nil 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+•  educate and inspire the students about different aspects of Information Technology 
+and its applications; 
+•  cultivate students’ global outlook through the local and international social impact 
+of Information Technology; 
+•  cultivate and develop students’ creative thinking, computational problem-solving 
+and logical reasoning skills; 
+•  educate students on different aspects of entrepreneurship and the process of 
+creating new ventures in the information technology industry; and 
+•  engage the students in desirable forms of learning in university, including self-
+regulation, autonomous learning and deep understanding. 
+Intended  Upon completion of subject, students will be able to: 
+Learning 
+(a)  demonstrate an understanding and enthusiasm of the different types of computing 
+Outcomes 
+disciplines; 
+(b)  develop problem-solving skills and apply basic computational thinking skills to 
+solving simple problems; 
+(c)  understand  business  models,  aspects  and  the  role  of  entrepreneurship  in  the 
+computing industry; 
+(d)  search for information, formulate a project plan, and manage a project with 
+initiative; and 
+(e)  be aware of the University’s expectations for honest academic behaviors and to 
+understand the importance of academic integrity, including definitions and good 
+practices by which to stay clear of dishonest behaviors and academic plagiarism. 
+Subject  Online Tutorial on Academic Integrity 
+Synopsis/ 
+Students are required to complete successfully an Online Tutorial on Academic 
+Indicative 
+Integrity on or before week 5 of the first semester. The students will understand the 
+Syllabus 
+importance of academic integrity by completing the Online Tutorial.  
+ 
+Aug 2020 Seminars 
+Seminars will be delivered by professors, alumni and/or reputable professionals in 
+computing. They are designed to educate students about computing, in particular about 
+the different areas covered by the streams of study in the Department. The objective is 
+to arouse their interest in computing, cultivate their sense of belonging to the profession, 
+and educate them about their study options within the Department.  
+ 
+Projects 
+Based on the CARE (Computing for Application, Research and Entrepreneurship) 
+model/philosophy,  students  will  carry  out  three  computing-related  projects  with 
+application, research and/or entrepreneurship elements. The projects are designed to 
+develop students’ creativity, problem-solving skills and/or team-work abilities through 
+learning and practicing basic concepts in computing. For example, students will work 
+in  small  groups  to  investigate  computing  problems,  to  develop  computing 
+systems/applications and to create business ideas/models with IT elements. 
+Teaching/  Online Tutorial on Academic Integrity 
+Learning 
+The Online Tutorial on Academic Integrity (OTAI) is developed by the University to 
+Methodology 
+help the students understand the importance of academic integrity. By going through 
+the OTAI, students will be aware of the importance of upholding academic integrity 
+during University study. They will also learn about proper citation and referencing 
+methods  to  avoid  plagiarism,  and  the  various  supports  that  are  available  in  the 
+University. Completing the OTAI is a completion requirement of COMP1901. For 
+successful completion of the OTAI, the students need to attempt the pre-test in the 
+OTAI, read all four modules in the OTAI, obtain at least 75% in the post-test in the 
+OTAI and sign the Honour Declaration before the completion deadline. Students who 
+fail to complete the OTAI before the completion deadline will fail COMP1901.  
+ 
+Seminars 
+The  seminars  are  designed  to  arouse  students’  interests  about  the 
+computing/engineering  disciplines  and  industries.  The  mode  of  delivery  will  be 
+interactive and engaging. Students will be motivated to search for information and do 
+background reading. They will be encouraged to raise questions and discuss with the 
+presenters. Assessment will consist of quiz(zes) and/or individual assignment(s) that are 
+designed to enhance their computing/engineering knowledge, to measure students’ 
+learning outcomes as well as to encourage participation and interaction. 
+ 
+Projects 
+Project-based learning will be used for students to explore/learn different aspects of 
+computing (e.g., to facilitate them to make programme choices). For example, students 
+will carry out two technical projects (e.g., one system/application-oriented project and 
+one data-oriented project) as well as one entrepreneurship project. One of the technical 
+projects can be an individual project. The technical projects are intended to teach 
+students  to  investigate  computing  problems  and  to  apply  computing  knowledge. 
+Lectures and workshops will be held to teach the concepts, and students will then work 
+in groups or individually to propose, design and develop a project that is designed to 
+Aug 2020 apply and practice the concepts learned. For group projects, students will be given 
+opportunities to interact closely with staff and other students, and to develop their 
+problem-solving,  teamwork  and  interpersonal  skills.  Assessment  components  will 
+consist  of  demonstration,  code  inspection,  presentation  and/or  reports.  The 
+entrepreneurship project is a group project, which is intended to develop students’ 
+appreciation  and  understanding  about  entrepreneurship  and  the  commercialization 
+process for selected information technology topic(s). Students will form a virtual startup 
+to apply and practice the entrepreneurship concepts with the application of different IT 
+disciplines.  Assessment  will  focus  towards  students’  understanding  about 
+entrepreneurship, innovation and creativity, in the form of report and/or presentation. 
+In general, appropriate pedagogies will also be used to promote the “Learning to Learn” 
+ability of students (e.g., related to open educational resources). 
+Note: To widen student exposures and to complement other learning activities, a visit 
+or field trip may be organized (e.g., international study tour or local company visit).  
+Assessment  Students’ performance in this subject will be assessed by using a letter-grading system 
+Methods in  in accordance with the University’s convention from grade F (failure) to A+. The 
+Alignment with  relative weights of the different assessment components are as follows: 
+Intended 
+Learning  Intended subject learning outcomes to be 
+Outcomes  Specific assessment  %  assessed 
+methods/tasks  weighting 
+a  b  c  d  e 
+Online Tutorial on 
+0%           
+Academic Integrity 
+Seminars  
+Quiz(zes) / Individual  10%           
+Assignment(s) 
+Projects  90%           
+Total  100%   
+Explanation of the use of the different assessment methods in assessing the intended 
+learning outcomes: 
+Quiz(zes) / individual assignment(s) is/are intended to test the students’ understanding 
+of the concepts covered in the seminars as well as related computing knowledge. 
+Through projects, students can demonstrate their creativity, problem-solving, logical 
+reasoning and interpersonal skills. They can also demonstrate their ability to search for 
+information, formulate a project plan, and to manage a project with initiative. Through 
+business  proposals/plans,  students  can  demonstrate  their  understanding  about 
+entrepreneurship. Note that student participation may also be evaluated (e.g., with a 
+participation grade). 
+In order to pass this subject, students must obtain a Grade D or above for total marks in 
+the seminars and projects components, and passed the online tutorial on academic 
+integrity on or before Week 5 of the first semester. 
+Aug 2020 Student Study  Class Contact: 
+Effort Expected 
+Seminars  6 Hrs. 
+Projects (average 10 hours per project)  30 Hrs. 
+Other student study effort: 
+Online tutorial on academic integrity, self-study,  69 Hrs. 
+information search, meetings and discussions, assignments, 
+projects, etc. 
+Total student study effort  105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  H. Scott Fogler and Steven E. LeBlanc, Strategies for Creative Problem Solving, 
+Prentice Hall, Third Edition, 2014. 
+2.  Timothy  J.  O’Leary,  Linda  I.  O’Leary,  and  Daniel  A.  O’Leary.  Computing 
+Essentials: Making IT Work for You, Complete 2015, McGraw Hill, 2015. 
+3.  David Wolber, Hal Abelson, Ellen Spertus and Liz Looney, App Inventor 2: 
+Create Your Own Android Apps, O’Reilly, Second Edition, 2014. 
+4.  Lakshmi Prayaga, Jeffrey Hawthorne, and Alex Whiteside, Android App Inventor 
+for the Absolute Beginner, Cengage Learning PTR, 2014. 
+5.  Tyler, Jason, App Inventor for Android: Build Your Own Apps - No Experience 
+Required!, Wiley, 2011. 
+6.  K. Allen, Entrepreneurship for Scientists and Engineers, Prentice Hall, 2010. 
+ 
+Aug 2020 

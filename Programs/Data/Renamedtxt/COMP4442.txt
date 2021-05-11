@@ -1,0 +1,135 @@
+Subject Description Form 
+ 
+Subject Code  COMP4442 
+Subject Title  Service and Cloud Computing 
+Credit Value  3 
+Level  4 
+Pre-requisite /  Pre-requisite: 2421 Computer Organization & COMP 2432 Operating Systems, or 
+Co-requisite /  equivalent subjects 
+Exclusion 
+ 
+Objectives  This is a fundamental course that provides students with the foundations of service 
+and cloud computing, focusing on software development and applications. It covers 
+  the principles and concepts, the technical underpinnings and supporting technologies, 
+and the best practices and applications. The objectives of this subject include: 
+•  To provide students with a broad view of the theoretical and technological 
+aspects that has led to the evolution of service and cloud computing; 
+•  To teach students how service and cloud computing supports different forms of 
+functionality that are essential to the modern IT industry, and the requirements 
+of  working  with  cloud  computing  environments  and  develop  cloud-based 
+services and applications; 
+•  To  equip  students  with  the  underlying  technologies  of  service  and  cloud 
+computing  including  service-oriented  architecture,  cloud  architecture  and 
+service models, virtualization, and cloud management; and 
+•  To equip students with the knowledge and skills for the planning, design and 
+programming  of  cloud  systems  and  software  services  for  real-world 
+applications. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills 
+  (a)  understand  and  appreciate  the  technological  impact  of  service  and  cloud 
+computing for future enterprises, and the technologies underpinning it; 
+(b)  apply  systematic  and  principled  practices  to  designing,  implementing  and 
+deploying service and cloud-oriented computing; and 
+(c)  review and assess the risks, opportunities, costs and steps towards migrating 
+existing systems to service and cloud computing. 
+Attributes for all-roundedness 
+(d)  systematic  and  incremental  approach  to  resolving  practical  enterprise 
+computing problems and challenges; 
+(e)  learn to work effectively as a team member; and 
+Dec 2020 (f)  write technical reports and present solutions. 
+ 
+Subject  Topics: 
+Synopsis/   
+Indicative  1.  Overview 
+Syllabus 
+The evolution of computing paradigms; Motivations and benefits of service 
+and  cloud  computing;  Definitions  and  principles  of  service  and  cloud 
+ 
+computing; Applications of cloud computing. 
+2.  Cloud Architecture and Service Models 
+Cloud architecture and major components; Physical infrastructure; Service 
+models; Service provisioning; 
+3.  Service and Cloud Computing Technology Foundation 
+Key technologies behind service and cloud computing; Resource sharing, 
+scalability,  multi-tenancy,  and  heterogeneity;  Virtualization  and 
+Containerization; Cloud computing and service-orientation; Web Services, 
+SOA, Web 2.0; Services co-ordination and composition, MSA, Devops, Agile; 
+SDN. 
+4.  Cloud Service Providers and Platforms 
+Services and functions provided by cloud service providers; Representative 
+providers and platforms (Amazon, Microsoft, IBM, Google, Alibaba, etc); 
+AWS (EC2, S3, CloudFront, composite services, etc); 
+5.  Cloud-based Application Development 
+Concepts and principles: common cloud use cases; types of cloud services; 
+support for cloud application development; principles of building cloud-based 
+applications. 
+Methods and techniques: general procedure of cloud application development; 
+paradigms  of  cloud  applications  (Web,  Mobile,  Content  delivery,  Event-
+driven, IoT, Big Data, Machine learning); Case study with AWS. 
+6.  Cloud Management 
+Functionalities and requirements of cloud management; Core functions of 
+cloud management; Platforms and tools for cloud management; Cloud security 
+and data privacy. 
+ 
+ 
+Teaching/  The course is comprised of lectures, tutorials  and laboratory exercises. During 
+Learning  lectures, students are taught the important concepts and principles that drive the 
+Methodology   development of service computing, and how it connects to cloud. In the lecture, 
+students are encouraged to actively participate in mini-discussions and questions that 
+  are designed to reinforce their understanding of concepts taught. 
+During tutorials, students will be presented with real and practical scenarios of 
+enterprise case studies. In particular, they will be given the unique opportunities to 
+study, analyze and propose solutions that leverage service and cloud computing 
+Dec 2020 concepts. Small group discussions will be encouraged and students will need to 
+present their results and solutions in the form of reports and presentations. 
+To reinforce practical aspects of their training, simple lab exercises will be conducted 
+to expose students to the state-of-the-art tools and development environment that uses 
+service and cloud computing as the underlying architecture to provide enterprise 
+solutions. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to be 
+Methods in 
+methods/tasks  weighting  assessed (Please tick as appropriate) 
+Alignment with 
+Intended 
+a  b  c  d  e  f 
+Learning 
+Outcomes 
+1. Continuous  55%  ✓  ✓  ✓  ✓  ✓  ✓ 
+Assessments 
+ 
+2. Final Examination  45%  ✓  ✓  ✓  ✓     
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+Students taking the subject will be assessed by performance in two parts: continuous 
+assessments  and  examination.  Continuous  assessment  may  include  in-class 
+discussions / quizzes, assignments, and tests.  
+ 
+The in-class discussions and quizzes engage students  to  actively participate in 
+learning during lectures and tutorials. Students are to collaboratively work together 
+to apply what they have learned in the class to solve practical problems. Assignment 
+may include group projects that are designed to help students to work together in a 
+small group to solve practical case studies and examples by applying concepts that 
+are taught in the class. The results are to be presented in the form of reports and 
+presentations. Tests and assignments are designed to help students reinforced their 
+understanding of concepts and principles that are taught in the class. They are 
+conducted to assess independent problem solving and critical thinking skills. 
+Student Study  Class contact: 
+Effort Expected  
+  ▪  Lectures, Tutorials / Labs  39 Hrs. 
+Other student study effort: 
+▪  Assignments, Projects, Reading and Exam  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Chellammal Surianarayanan and Pethuru Raj Chelliah, Essentials of Cloud 
+Computing, Springer, 2019. 
+2.  Arshdeep Bahga and Vijay Madisetti, Cloud Computing Solutions Architect: A 
+Hands-On Approach, Arshdeep Bahga & Vijay Madisetti, 2019. 
+Dec 2020 3.  Articles from web, technical journals, and conference proceedings will be 
+handed out or posted on L@PU Blackboard when needed. 
+ 
+Dec 2020 

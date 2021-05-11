@@ -1,0 +1,98 @@
+Subject Description Form 
+ 
+Subject Code  COMP1411 
+Subject Title  Introduction to Computer Systems 
+Credit Value  3 
+Level  1 
+Pre-requisite /  Nil 
+Co-requisite / 
+Exclusion 
+Objectives  The objectives of this subject are to: 
+  introduce students to generic structures and components constituting computer 
+systems; 
+  educate students to the interplay of computer systems and programming; and 
+  expose students to contemporary computer systems composed of miniature 
+computers and multiple computers. 
+Intended  Upon completion of the subject, students will be able to: 
+Learning 
+Outcomes  Professional/academic knowledge and skills: 
+(a)  understand the key components and structures of computer systems;; 
+(b)  understand the role of programming in computer systems; and 
+(c)  recognize the contemporary development of computer systems towards smaller, 
+smarter, and more powerful directions. 
+Attributes for all-roundedness: 
+(d)  appreciate  the  recent  development  of  computing  technologies  for  lifelong 
+learning. 
+ 
+Subject 
+Topic 
+Synopsis/ 
+Indicative  1.  Introduction to Computer Systems 
+Syllabus 
+Concepts  of  a  digital  system;  overview  of  computer  system  structures; 
+computer evolution and performance. 
+2.  Computer Systems Structure 
+A seven-layer viewpoint: applications, high-level programming languages, 
+assembly language, operating systems, instruction set and CPU, microcode, 
+logic gates. 
+Dec 2018 3.  Computer Systems and Programming 
+Information  representation;  program  representation;  compilers  and 
+interpreters; systems programming and applications programming; concurrent 
+and parallel programs; graphics card and GPU; external storage; computer networks; 
+network programming; internet and web. 
+4.  Contemporary Computer Systems 
+Standalone systems; embedded systems; client/server systems; web-based 
+systems;  distributed  systems;  cloud  systems;  smart  devices  and  systems; 
+internet of things and integrated systems. 
+ 
+Teaching/  Lectures provide students with the main concepts of the course, together with 
+Learning  comprehensive examples, through classworks with questions and answers for easy 
+Methodology  understanding. 
+Tutorials offer the opportunity for students to review the lecture materials through 
+tutorial exercises. 
+Homework assignments help students to develop analytical and problem solving 
+skills on more realistic scenarios. 
+ 
+Assessment 
+Specific assessment  %  Intended subject learning outcomes to 
+Methods in 
+methods/tasks  weighting  be assessed (Please tick as 
+Alignment with 
+appropriate) 
+Intended 
+Learning 
+a  b  c  d   
+Outcomes 
+Continuous Assessment  55%           
+1. Class Exercises and 
+25%           
+Assignments 
+2. Quizzes and Tests  30%           
+Examination  45%           
+Total   100%   
+Explanation of the appropriateness of the assessment methods in assessing the 
+intended learning outcomes: 
+All items are relevant to the assessment of ILO a, ILO b and ILO c, i.e. to understand 
+the  key  structure  and  components  of  computer  systems,  the  linkage  with 
+programming, and development in contemporary systems. 
+Class exercises and assignments are also used to assess forward looking and lifelong 
+learning with computer systems development trend, i.e. ILO d. For instance, article 
+reading and critique of recent systems could be adopted.
+ 
+Student Study  Class contact: 
+Effort Expected  
+  Lecture  26 Hrs. 
+Dec 2018   Tutorial  13 Hrs. 
+Other student study effort: 
+  Assignments, Tests, Examination  66 Hrs. 
+Total student study effort   105 Hrs. 
+Reading List  Reference Books: 
+and References 
+1.  Warford, J. Stanley, Computer Systems. Jones & Bartlett Learning, 5th Edition, 
+2017. 
+2.  Bryant,  Randal  E.  and  O’Hallaron,  David  R.,  Computer  Systems:  A 
+Programmer's Perspective, 3rd Edition, Pearson, 2016. 
+3.  Articles from journals and magazines, such as Communications of ACM, IEEE 
+Computer, IEEE Internet Computing. 
+ 
+Dec 2018 

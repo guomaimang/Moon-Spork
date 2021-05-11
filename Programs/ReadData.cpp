@@ -28,7 +28,7 @@ Course *ReadData()
     string fileName[100];
     int count = 0;
     if (!names)
-        cout << "Error\n"; //Print 'ERROR' when cannot open the target file
+        cout << "Error in read files\n"; //Print 'ERROR' when cannot open the target file
     getline(names, fileName[count]);
     while (fileName[count] != "")
     { //Start reading the file names
