@@ -30,6 +30,11 @@ The main idea of this algorithm is using dictionary to search for the data. Firs
 
 Then, the word snippets will be translated to word ID with a black-red tree dictionary. Black-red tree is a advanced self-balanced binary search tree, and the time complexity is O(log n), which can shorten the searching time significantly. 
 ### Data Structure
+To implement the idea of object-oriented programming, as well as make the best use of C++ features, we defined two classes to represent subjects and words separately. 
+
+The first class named `Course`, each instance represent one subject, contain essential information related to the subject including subject ID, subject code, subject pre-requisite, subject level, subject credit and subject content. To implement the red-black tree, we use C++ STL container `map`, which is a balanced hash table. It can search objects quickly. We use the map to store how many times the word appeared in this subject description form content. Meanwhile, in our opinion, the words appeared in the title is much more important than the words appeared in the content. Therefore, we assigned more impact index on words appeared in the title, and use two map objects to store title and content. Also, we think that data security is of vital importance in nowadays society, so we use private objects to store the data, which is safer and easier for future maintain. **Figure: Course object**
+
+The second class names `Dictionary`, each instance represent one word which have appeared in at least once in the subject description form contents. The class includes word name, word ID, the subject id where the word appeared in title or content. We use word ID to shorten the search time and make it easier to be searched in the whole documents.
 ### Program Design
 ### Data Process
 #### Data Collection
