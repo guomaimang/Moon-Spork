@@ -12,10 +12,21 @@
 
 
 \section{Introduction}
-Hello, we are group 8, and our project is implementing a searching engine for subjects offered by the department of computing. We have finished this project and now it not only fulfills the project requirement but also has more advanced features. For example, in addition to pre-requisite and subject title, we added subject level, credits, and content. We will search in all contents for the users' input and that can match more accurate answers. Moreover, we also have some user interaction such as allowing users to get more detailed information and download the pdf files for their reference. Because well-organized algorithm and careful consideration, we made the searching process fast and easy.
+Hello, we are group 8. I'm Longling.Our project is to design a searching engine. 
+In the 21st century, there is huge amount of data and information created 
+and almost everyone needs to find the information they want in this huge amount of data.
+But how to find? There are already numerous existing searching tools nowadays. 
+For example,the google search engine. But in our design, we integrate what we have learned so far and inspire our creativity 
+to build a searching engine specially use for our study, you can find the course you want in the fastest way.
+All students in PolyU, like you and me will find this searching tool so useful for your study.
 
 \section{Usage}
-Let me introduce how to use this program. It is very easy to use, anyone who knows how to use google can use it. You just need to type keywords, and our program will automatically find related subjects to you, sorted by relative marks. A detailed use demo will display at the end of this presentation.
+First let me introduce how to use this program. It is very convenient, just like how you search on Google. 
+You just need to type some keywords, for example “COMP1011” and our program will automatically find 
+all subjects related to “comp1011” to you. Then, you can choose to view the details and download 
+the detailed description in PDF format. Another point I want to mention that, our design is more advanced than others
+because you can also find the relation index, which shows how the subject relative to your keywords.
+This will help you find the subject you want to find as much as possible.
 
 \section{Algorithm}
 Now I'll introduce the Implementation of the core algorithm of search. We try to break through important issues in the search field ——speed. In the preview, we embedded Elasticsearch into the commercial project of cloud service. In the actual project, we need to consider scalability and application scenarios. Combined with the usage, we not only created the original search algorithm but also improved ElasticSearch to make it more suitable for our needs. While retaining the JSON format, we also redesigned the reverse index algorithm. We realize that behind the simple sentences, the designer's wisdom is embodied. In terms of reverse index, As you can see, there are two tables, One is the keywords, the other records the weight of keywords and their relationship with documents. We only need to find the field corresponding to each ID. It can index to our target document, and at the same time add the weight. These tables exist in the form of a C++ Class. In addition, we also tried B-Tree and dichotomy algorithm.

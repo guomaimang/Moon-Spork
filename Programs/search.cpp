@@ -1,92 +1,148 @@
 //
 // Created by 韩佳明 on 2021/5/8.
 //
-#include "dictionary.h"
-#include "course.h"
+/*
+Written by Jiaming HAN on May 8
+Modified by Jiaming HAN on May 10
+Modified by Yunfei LIU on May 11
+
+This function implements the algorithm, and calculate a relative score for sorting.
+It receives a group of keywords after cleaning, and return an array to show the relative index.
+*/
 #include <iostream>
+#include <set>
+#include <map>
+#include <utility>
+#include "../ThirdPartyHeaders/json.hpp"
+#include "ReadData.cpp"
+#include "course.h"
+#include "dictionary.h"
+#include "LoadDictionary.cpp"
 using namespace std;
+using json = nlohmann::json;
 
-string* inword(){
-    string a;
-    cin >> a;
-    static string test1[50] = {};
-    return test1;
+Course *data = ReadData();
+int point[81] = {};
+int query_word_times(bool is_title, int word_id, int doc_id)
+{
+    map<string, int> title, content;
+
+    if (is_title)
+    {
+        title = data[doc_id].GetTitleMap();
+        return title[to_string(word_id)];
+    }
+    else
+    {
+        content = data[doc_id].GetContent();
+        return content[to_string(word_id)];
+    }
 }
 
-int query_word_times(int word_id, int doc_id){
-    int point = 0;
-    // query if word_id is a title, need be filled with
-    bool is_title = false;
-
-    //TEST-BLOCK
-    if (doc_id == 7 or doc_id == 9)
-        point =  5;
-    else{
-        point =  1;
-    }
-
-    if (is_title){
-        return 100*point;
-    } else{
-        return 5*point;
-    }
-
-}
-
-int query_wordid(string word){
-    return 0;
-};
-
-int main() {
+int *search(string *inword)
+{
 
     // get the string array
-    string target[50] = {"computer","organization"};
+    string target[50] = {};
+    for (int i = 0; i < 50; i++)
+    {
+        target[i] = inword[i];
+    }
 
     // get the length of string array without empty
     int target_length = 0;
-    for (auto & i : target){
-        if (i.empty()){
+    for (string &i : target)
+    {
+        if (i.empty())
+        {
             break;
         }
         target_length += 1;
     }
+    //cout<<target_length<<endl;
+
+    // word to word_id
+    int target_id[50] = {};
+    for (int &i : target_id)
+        i = -1;
+    Dictionary *dict = LoadDictionary(); //
+    map<string, int> wordHashTable = WordToID(dict);
+    map<string, int>::iterator object;
+    for (int i = 0; i < target_length; i++)
+    {
+        object = wordHashTable.find(target[i]);
+        if (object != wordHashTable.end())
+        {
+            target_id[i] = object->second;
+        }
+        else
+        {
+            target_id[i] = -1;
+        }
+    }
 
     // init the point = 1
-    int point[81] = {};
-    for(int & i : point){
-        i = 1;
+
+    for (int &i : point)
+    {
+        i = 0;
     }
 
-    // The field was save in field_id,such as {{1,2,10},{1,6,7}}
-    int* field_id[50] = {};
+    // For each wordid, calculate points
+    for (int i = 0; i < target_length; i++)
+    {
 
-    // For each word, return the document that appears and calculate some points
-    for(int i = 0; i< target_length;i++){
+        //get wordid
+        int wordid = target_id[i];
+        if (wordid == -1)
+            continue;
 
-        // query field,need to be filled with
-        int wordid = query_wordid(target[i]);
-        int temp_array[81] = {};
-        field_id[i] = temp_array;
+        // get the content_field of word
+        int content_array[81] = {};
+        for (int &g : content_array)
+        {
+            content_array[g] = -1;
+        }
+        set<int> contentSet = dict[wordid].appearDoc;
+        int content_array_count = 0;
+        for (int it : contentSet)
+        {
+            content_array[content_array_count] = it;
+            content_array_count++;
+        }
 
-        // get the length of the field array
-        int field_length = sizeof(temp_array)/sizeof(int);
+        // calculate doc point
+        for (int g = 0; g < content_array_count; g++)
+        {
+            int docid = content_array[g];
+            point[docid] = point[docid] + query_word_times(false, wordid, docid) * 5;
+        }
 
-        // calculate point1: title *100 and content *5
-        for(int g = 0;g < field_length;g++){
-             int docid = temp_array[g];
-             point[docid] = point[docid] * query_word_times(wordid,docid);
-         }
+        // get the title_array of word
+        int title_array[81] = {};
+        for (int &g : title_array)
+        {
+            title_array[g] = -1;
+        }
+        set<int> titleSet = dict[wordid].appearTitle;
+        int title_array_count = 0;
+        for (int it : titleSet)
+        {
+            title_array[title_array_count] = it;
+            title_array_count++;
+        }
 
+        // calculate title point
+        for (int g = 0; g < title_array_count; g++)
+        {
+            int docid = title_array[g];
+            point[docid] = point[docid] + query_word_times(true, wordid, docid) * 100;
+        }
     }
 
-    // TEST-BLOCK: lets make a example
-    int test3[5] = {1,7,11,19,53};
-    int test4[7] = {6,9,11,19,25};
-    field_id[0] = test3;
-    field_id[1] = test4;
-
-    //
-
-
-    return 0;
+    // TEST-BLOCK cout point
+    //for(int i : point){
+    //    cout << i << " ";
+    //}
+    return point;
 }
